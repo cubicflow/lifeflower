@@ -22,13 +22,13 @@ copy:
     - "!assets/js{,/**}"             # js dir
     - "!assets/scss{,/**}"           # scss dir
     - "!assets/vendor{,/**}"         # vendor dir
-  dist: "_site/assets/"
+  dist: "docs/assets/"
   notification: "Running Copy"
 
 javascript:
   dest:
     jekyllRoot: "assets/js/"
-    buildDir: "_site/assets/js/"
+    buildDir: "docs/assets/js/"
   # filename to output
   filename: "all.js"
   notification: "Running JavaScript"
@@ -87,7 +87,7 @@ sass:
     - "ie >= 9"
   dest:
     jekyllRoot: "assets/css/"
-    buildDir: "_site/assets/css/"
+    buildDir: "docs/assets/css/"
   notification: "Running Sass"
   src: "assets/scss/*.scss"
 
