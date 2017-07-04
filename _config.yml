@@ -16,6 +16,8 @@ include:
   - ".htaccess"
   - "_pages"
 
+destination: docs
+
 collections:
 - products
 

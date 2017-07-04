@@ -8,7 +8,7 @@ browsersync:
 
 clean:
   # The jekyll build dir
-  - "_site"
+  - "docs"
 
 copy:
   # Paths to static assets that aren't (S)CSS or JavaScript
