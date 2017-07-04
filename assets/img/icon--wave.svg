@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="24px" viewBox="0 0 28 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>SYM--wave</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Shop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-22.000000, -2125.000000)">
+            <g id="SYM--wave" transform="translate(18.000000, 2119.000000)">
+                <rect id="Rectangle" x="0" y="0" width="36" height="36"></rect>
+                <g transform="translate(4.000000, 6.000000)" stroke-width="1" fill-rule="evenodd" id="Path-5" stroke="#999999">
+                    <g>
+                        <g transform="translate(14.000000, 12.000000) scale(1, -1) translate(-14.000000, -12.000000) ">
+                            <path d="M0,3 C4,6.87783164e-13 7.00550285,0.00748495818 14,3 C20.9944972,5.99251504 24.0029754,6 28,3"></path>
+                            <path d="M0,9 C4,6 7.00550285,6.00748496 14,9 C20.9944972,11.992515 24.0029754,12 28,9"></path>
+                            <path d="M0,15 C4,12 7.00550285,12.007485 14,15 C20.9944972,17.992515 24.0029754,18 28,15"></path>
+                            <path d="M0,21 C4,18 7.00550285,18.007485 14,21 C20.9944972,23.992515 24.0029754,24 28,21"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

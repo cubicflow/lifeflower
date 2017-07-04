@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>SYM--flower</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="18" cy="18" r="18"></circle>
+    </defs>
+    <g id="Shop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iPhone-7-Plus" transform="translate(-10.000000, -10.000000)">
+            <g id="SYM--flower" transform="translate(10.000000, 10.000000)">
+                <g id="Group">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Mask"></g>
+                    <g mask="url(#mask-2)" stroke="#999999" id="Oval-2">
+                        <g transform="translate(-30.694737, -26.526316)">
+                            <circle cx="33.3473684" cy="35.8105263" r="17.5"></circle>
+                            <circle cx="79.3894737" cy="44.5263158" r="17.5"></circle>
+                            <circle cx="18" cy="44.5263158" r="17.5"></circle>
+                            <circle cx="33.3473684" cy="18" r="17.5"></circle>
+                            <circle cx="48.6947368" cy="26.9052632" r="17.5"></circle>
+                            <circle cx="48.6947368" cy="62.3368421" r="17.5"></circle>
+                            <circle cx="64.0421053" cy="18" r="17.5"></circle>
+                            <circle cx="64.0421053" cy="35.8105263" r="17.5"></circle>
+                            <circle cx="64.0421053" cy="53.4315789" r="17.5"></circle>
+                            <circle cx="33.3473684" cy="53.4315789" r="17.5"></circle>
+                            <circle cx="33.3473684" cy="71.2421053" r="17.5"></circle>
+                            <circle cx="64.0421053" cy="71.2421053" r="17.5"></circle>
+                            <circle cx="48.6947368" cy="44.5263158" r="17.5"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

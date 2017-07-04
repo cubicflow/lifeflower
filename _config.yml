@@ -1,13 +1,23 @@
 # Site settings
 language:               ""
+
+## Page title tags are composed of the site.title and page.title
 title:                  "Site Title"
+
+## Used in meta tags
 description:            "Site description"
+
+instagram-url:          "http://www.instagram.com"
+
 google-verification:    ""
 
 # Handling Reading
 include:
   - ".htaccess"
   - "_pages"
+
+collections:
+- products
 
 exclude:
   - "/assets/"
