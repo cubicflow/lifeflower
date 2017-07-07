@@ -91,7 +91,12 @@ footer {
   text-align: center;
   font-size: 12px;
   margin-bottom: 30px;
+  margin-top: 40px;
   position: relative;
+
+  @include breakpoint(medium){
+    margin-top: 60px;
+  }
 
   &:before {
     content: "";
