@@ -4,7 +4,8 @@ layout: products
 title: Homepage
 ---
 
-{% for product in site.products %}
+{% assign products = site.products | sort: 'display_order' %}
+{% for product in products %}
 <div class="product">
 
   <div class="product__content">
