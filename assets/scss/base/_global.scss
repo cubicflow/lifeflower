@@ -8,9 +8,13 @@ body {
 main, header, footer {
 
   position: relative;
-  width: 90%;
+  width: 94%;
   max-width: 1280px;
   margin: 0px auto;
+
+  @include breakpoint(medium){
+    width: 96%;
+  }
 
 }
 
@@ -67,12 +71,26 @@ header {
     left: 0px;
 
   }
+
+  &:after {
+    content: "";
+    display: block;
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    background-image: url("/assets/img/icon--oc.svg");
+    background-size: 36px 36px;
+    background-position: center;
+    background-repeat: no-repeat;
+    top: 0px;
+    right: 0px;
+  }
 }
 
 footer {
   text-align: center;
   font-size: 12px;
-  margin-bottom: 40px;
+  margin-bottom: 30px;
   position: relative;
 
   &:before {
@@ -87,9 +105,11 @@ footer {
     background-repeat: no-repeat;
     top: 50px;
     left: 0px;
+    margin-bottom: 10px;
 
     @include breakpoint(medium){
       top: -8px;
+      margin-bottom: 0px;
     }
   }
 
@@ -105,9 +125,11 @@ footer {
     background-repeat: no-repeat;
     top: 50px;
     right: 0px;
+    margin-bottom: 10px;
 
     @include breakpoint(medium){
       top: -8px;
+      margin-bottom: 0px;
     }
   }
 
