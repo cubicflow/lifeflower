@@ -27,16 +27,16 @@
 
 
 /* @import must be at top of file, otherwise CSS will not work */
-@import url("//hello.myfonts.net/count/33f78c");
+@import url("//hello.myfonts.net/count/342f9c");
 
 
-@font-face {font-family: 'TchigMono-Medium';src: url('../fonts/33F78C_0_0.eot');src: url('../fonts/33F78C_0_0.eot?#iefix') format('embedded-opentype'),url('../fonts/33F78C_0_0.woff2') format('woff2'),url('../fonts/33F78C_0_0.woff') format('woff'),url('../fonts/33F78C_0_0.ttf') format('truetype'),url('../fonts/33F78C_0_0.svg#wf') format('svg');}
+@font-face {font-family: 'TchigMono-Medium';src: url('../fonts/342F9C_0_0.eot');src: url('../fonts/342F9C_0_0.eot?#iefix') format('embedded-opentype'),url('../fonts/342F9C_0_0.woff2') format('woff2'),url('../fonts/342F9C_0_0.woff') format('woff'),url('../fonts/342F9C_0_0.ttf') format('truetype'),url('../fonts/342F9C_0_0.svg#wf') format('svg');}
 
 
-@font-face {font-family: 'TchigMono-Bold';src: url('../fonts/33F78C_1_0.eot');src: url('../fonts/33F78C_1_0.eot?#iefix') format('embedded-opentype'),url('../fonts/33F78C_1_0.woff2') format('woff2'),url('../fonts/33F78C_1_0.woff') format('woff'),url('../fonts/33F78C_1_0.ttf') format('truetype'),url('../fonts/33F78C_1_0.svg#wf') format('svg');}
+@font-face {font-family: 'TchigMono-Bold';src: url('../fonts/342F9C_1_0.eot');src: url('../fonts/342F9C_1_0.eot?#iefix') format('embedded-opentype'),url('../fonts/342F9C_1_0.woff2') format('woff2'),url('../fonts/342F9C_1_0.woff') format('woff'),url('../fonts/342F9C_1_0.ttf') format('truetype'),url('../fonts/342F9C_1_0.svg#wf') format('svg');}
 
 
-@font-face {font-family: 'TchigMono-Regular';src: url('../fonts/33F78C_2_0.eot');src: url('../fonts/33F78C_2_0.eot?#iefix') format('embedded-opentype'),url('../fonts/33F78C_2_0.woff2') format('woff2'),url('../fonts/33F78C_2_0.woff') format('woff'),url('../fonts/33F78C_2_0.ttf') format('truetype'),url('../fonts/33F78C_2_0.svg#wf') format('svg');}
+@font-face {font-family: 'TchigMono-Regular';src: url('../fonts/342F9C_2_0.eot');src: url('../fonts/342F9C_2_0.eot?#iefix') format('embedded-opentype'),url('../fonts/342F9C_2_0.woff2') format('woff2'),url('../fonts/342F9C_2_0.woff') format('woff'),url('../fonts/342F9C_2_0.ttf') format('truetype'),url('../fonts/342F9C_2_0.svg#wf') format('svg');}
 
 
 
@@ -45,6 +45,30 @@ body {
   background-color: $bg-default;
   color: $text-default;
   font-family: 'TchigMono-Medium'
+}
+
+a {
+  color: $button-default;
+
+  &:hover{
+    color: darken($button-default, 20);
+  }
+}
+
+.styleset02 {
+  -moz-font-feature-settings:"ss02=1";
+  -moz-font-feature-settings:"ss02";
+  -ms-font-feature-settings:"ss02";
+  -webkit-font-feature-settings:"ss02";
+  font-feature-settings:"ss02";
+}
+
+.styleset03 {
+  -moz-font-feature-settings:"ss03=1";
+  -moz-font-feature-settings:"ss03";
+  -ms-font-feature-settings:"ss03";
+  -webkit-font-feature-settings:"ss03";
+  font-feature-settings:"ss03";
 }
 
 
@@ -135,12 +159,13 @@ header {
 footer {
   text-align: center;
   font-size: 12px;
-  margin-bottom: 30px;
+  margin-bottom: 64px;
   margin-top: 40px;
   position: relative;
 
   @include breakpoint(medium){
     margin-top: 60px;
+    margin-bottom: 52px;
   }
 
   &:before {
@@ -150,15 +175,15 @@ footer {
     width: 36px;
     height: 36px;
     background-image: url("/assets/img/icon--wave.svg");
-    background-size: 28px 24px;
+    background-size: 36px 36px;
     background-position: center;
     background-repeat: no-repeat;
-    top: 50px;
+    top: 80px;
     left: 0px;
     margin-bottom: 10px;
 
     @include breakpoint(medium){
-      top: -8px;
+      top: 68px;
       margin-bottom: 0px;
     }
   }
@@ -170,20 +195,30 @@ footer {
     width: 36px;
     height: 36px;
     background-image: url("/assets/img/icon--mountain.svg");
-    background-size: 36px 24px;
+    background-size: 36px 36px;
     background-position: center;
     background-repeat: no-repeat;
-    top: 50px;
+    top: 80px;
     right: 0px;
     margin-bottom: 10px;
 
     @include breakpoint(medium){
-      top: -8px;
+      top: 68px;
       margin-bottom: 0px;
     }
   }
 
 
+}
+
+.disclaimer {
+  text-align: center;
+  font-size: 12px;
+  margin-bottom: 10px;
+
+  @include breakpoint(medium){
+    margin-bottom: 15px;
+  }
 }
 
 
@@ -216,7 +251,7 @@ footer {
     margin: 0px auto;
 
     &:hover {
-      color: $black;
+      color: darken($instagram-default, 20);
     }
   }
 
