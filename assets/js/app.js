@@ -240,3 +240,83 @@ var options = {
 };
 
 var responsiveImages = cf.imgSwap(options);
+
+
+
+
+
+
+
+
+
+
+
+
+
+/// row equalizer
+
+cf.equalizeRowCells = function(selector){
+
+  let rows = detectRows()
+
+  console.log(rows)
+
+  for (let row of rows){
+
+    const tallestCellHeightInRow = row.reduce((lastTallest, cell) => {
+      if (cell.clientHeight > lastTallest){
+        return cell.clientHeight;
+      } else {
+        return lastTallest
+      }
+    }, 0)
+
+    for (let cell of row){
+      cell.style.height = tallestCellHeightInRow + "px"
+    }
+
+  }
+
+  function detectRows(){
+
+    let cells = [...document.querySelectorAll(selector)];
+    let rowsToReturn = [];
+
+    const sortedCells = cells.sort((a, b) => {
+      return getPosition(a).y - getPosition(b).y;
+    });
+
+    let lastCellTopOffset = null;
+    for (let cell of sortedCells){
+
+      const cellTopOffset = getPosition(cell).y
+      if (cellTopOffset !== lastCellTopOffset){
+        rowsToReturn.push([cell])
+        lastCellTopOffset = cellTopOffset
+      } else {
+        rowsToReturn[rowsToReturn.length - 1].push(cell)
+      }
+
+    }
+
+    return rowsToReturn;
+
+  }
+
+  function getPosition(element) {
+      var xPosition = 0;
+      var yPosition = 0;
+
+      while(element) {
+          xPosition += (element.offsetLeft - element.scrollLeft + element.clientLeft);
+          yPosition += (element.offsetTop - element.scrollTop + element.clientTop);
+          element = element.offsetParent;
+      }
+
+      return { x: xPosition, y: yPosition };
+  }
+
+}
+
+
+cf.equalizeRowCells('.product');

@@ -19,7 +19,7 @@ main, header, footer {
 }
 
 main {
-  margin-top: 100px;
+  margin-top: 80px;
 }
 
 header {
@@ -194,6 +194,8 @@ footer {
   width: 100%;
   text-align: center;
   margin-bottom: 100px;
+  margin-top: 0px;
+  position: relative;
 
   @include breakpoint(medium){
     float: left;
@@ -204,9 +206,17 @@ footer {
     width: 33%
   }
 
-  &__content {
+  &__container {
+    position: relative;
     margin: 0px auto;
     max-width: 280px;
+    height: 100%;
+  }
+
+  &__content {
+    position: relative;
+    top: 100%;
+    transform: translateY(-100%);
   }
 
   &__title {
