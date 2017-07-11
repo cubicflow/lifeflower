@@ -320,3 +320,7 @@ cf.equalizeRowCells = function(selector){
 
 
 cf.equalizeRowCells('.product');
+
+window.addEventListener('resize', () => {
+  cf.equalizeRowCells('.product');
+})
