@@ -1,6 +1,50 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3405708, 2017-06-13T00:03:05-0400
+ *
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are
+ * explicitly restricted from using the Licensed Webfonts(s).
+ *
+ * You may obtain a valid license at the URLs below.
+ *
+ * Webfont: TchigMono-Medium by Schizotype
+ * URL: https://www.myfonts.com/fonts/schizotype/tchig-mono/medium/
+ *
+ * Webfont: TchigMono-Bold by Schizotype
+ * URL: https://www.myfonts.com/fonts/schizotype/tchig-mono/bold/
+ *
+ * Webfont: TchigMono-Regular by Schizotype
+ * URL: https://www.myfonts.com/fonts/schizotype/tchig-mono/regular/
+ *
+ *
+ * License: https://www.myfonts.com/viewlicense?type=web&buildid=3405708
+ * Licensed pageviews: 10,000
+ * Webfonts copyright: Copyright (c) 2017 by Schizotype. All rights reserved.
+ *
+ * © 2017 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/33f78c");
+
+
+@font-face {font-family: 'TchigMono-Medium';src: url('../fonts/33F78C_0_0.eot');src: url('../fonts/33F78C_0_0.eot?#iefix') format('embedded-opentype'),url('../fonts/33F78C_0_0.woff2') format('woff2'),url('../fonts/33F78C_0_0.woff') format('woff'),url('../fonts/33F78C_0_0.ttf') format('truetype'),url('../fonts/33F78C_0_0.svg#wf') format('svg');}
+
+
+@font-face {font-family: 'TchigMono-Bold';src: url('../fonts/33F78C_1_0.eot');src: url('../fonts/33F78C_1_0.eot?#iefix') format('embedded-opentype'),url('../fonts/33F78C_1_0.woff2') format('woff2'),url('../fonts/33F78C_1_0.woff') format('woff'),url('../fonts/33F78C_1_0.ttf') format('truetype'),url('../fonts/33F78C_1_0.svg#wf') format('svg');}
+
+
+@font-face {font-family: 'TchigMono-Regular';src: url('../fonts/33F78C_2_0.eot');src: url('../fonts/33F78C_2_0.eot?#iefix') format('embedded-opentype'),url('../fonts/33F78C_2_0.woff2') format('woff2'),url('../fonts/33F78C_2_0.woff') format('woff'),url('../fonts/33F78C_2_0.ttf') format('truetype'),url('../fonts/33F78C_2_0.svg#wf') format('svg');}
+
+
+
+
 body {
   background-color: $bg-default;
   color: $text-default;
+  font-family: 'TchigMono-Medium'
 }
 
 
@@ -25,6 +69,7 @@ main {
 header {
   margin-top: 10px;
   margin-bottom: 10px;
+  font-family: 'TchigMono-Bold';
 
   @include breakpoint(medium){
     margin-top: 18px;
@@ -148,6 +193,7 @@ footer {
   text-align: center;
 
   h1 {
+      font-family: 'TchigMono-Bold';
       color: $black;
       font-size: 16px;
       margin-top: 14px;
@@ -224,6 +270,7 @@ footer {
     margin-top: 18px;
     color: $black;
     font-size: 15px;
+    font-family: 'TchigMono-Bold';
 
   }
 
