@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: products
-title: Homepage
+title: Products
 ---
 
 {% assign products = site.products | sort: 'display_order' %}
