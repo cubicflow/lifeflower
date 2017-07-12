@@ -319,7 +319,13 @@ cf.equalizeRowCells = function(selector){
 }
 
 
-cf.equalizeRowCells('.product');
+document.addEventListener("DOMContentLoaded", function() {
+  cf.equalizeRowCells('.product');
+});
+
+document.addEventListener("load", function() {
+  cf.equalizeRowCells('.product');
+});
 
 window.addEventListener('resize', () => {
   cf.equalizeRowCells('.product');
