@@ -269,7 +269,7 @@ cf.equalizeRowCells = function(selector){
       } else {
         return lastTallest
       }
-    }, 0)
+    }, 290)
 
     for (let cell of row){
       cell.style.height = tallestCellHeightInRow + "px"
