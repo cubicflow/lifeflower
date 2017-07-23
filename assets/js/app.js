@@ -269,9 +269,8 @@ cf.equalizeRowCells = function(selector){
       } else {
         return lastTallest
       }
-    }, 0)
+    }, 290)
 
-    const cellHeight = (tallestCellHeightInRow < 290) ? 290 : tallestCellHeightInRow;
     for (let cell of row){
       cell.style.height = tallestCellHeightInRow + "px"
     }
@@ -320,10 +319,7 @@ cf.equalizeRowCells = function(selector){
 }
 
 
-window.onload = function(){
-  cf.equalizeRowCells('.product');
-};
-
+cf.equalizeRowCells('.product');
 
 window.addEventListener('resize', () => {
   cf.equalizeRowCells('.product');
