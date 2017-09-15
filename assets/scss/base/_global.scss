@@ -93,7 +93,7 @@ main {
 header {
   margin-top: 10px;
   margin-bottom: 10px;
-  font-family: 'TchigMono-Bold';
+  font-family: 'TchigMono-Medium';
 
   @include breakpoint(medium){
     margin-top: 18px;
@@ -106,22 +106,23 @@ header {
   height: 56px;
 
   .cart {
-    font-size: 18px;
+    font-size: 16px;
     color: $black;
     float: right;
     position: relative;
-    display: none;
+    // HIDE CART FOR PHASE 1
+    // display: none;
 
     img {
       position: absolute;
       right: 0px;
-      top: 4px;
+      top: 0px;
     }
 
     &__ammount {
       display: block;
-      margin-right: 40px;
-      margin-top: 5px;
+      margin-right: 46px;
+      margin-top: 7px;
     }
   }
 
@@ -141,19 +142,21 @@ header {
 
   }
 
-  &:after {
-    content: "";
-    display: block;
-    position: absolute;
-    width: 36px;
-    height: 36px;
-    background-image: url("/assets/img/icon--oc.svg");
-    background-size: 36px 36px;
-    background-position: center;
-    background-repeat: no-repeat;
-    top: 0px;
-    right: 0px;
-  }
+  // Temporary Icon to replace Cart Bag
+
+  // &:after {
+  //   content: "";
+  //   display: block;
+  //   position: absolute;
+  //   width: 36px;
+  //   height: 36px;
+  //   background-image: url("/assets/img/icon--oc.svg");
+  //   background-size: 36px 36px;
+  //   background-position: center;
+  //   background-repeat: no-repeat;
+  //   top: 0px;
+  //   right: 0px;
+  // }
 }
 
 footer {
@@ -293,7 +296,7 @@ footer {
 
   width: 100%;
   text-align: center;
-  margin-bottom: 100px;
+  margin-bottom: 136px;
   margin-top: 0px;
   position: relative;
 
@@ -331,27 +334,37 @@ footer {
   &__description {
 
     margin-top: 10px;
+    margin-bottom: 36px;
     font-size: 14px;
     color: $text-light;
 
   }
 
+}
+
+/* BUTTONS */
+
+.button {
+
   &__buy {
     display: block;
-    font-size: 15px;
-    color: $button-default;
-    border: 1px solid $button-default;
-    border-radius: 9px;
-    max-width: 220px;
-    margin: 24px auto;
-    padding: 8px 5px 9px 5px;
+    height: 36px;
+    font-size: 14px;
+    // text-transform: uppercase;
+    color: $black;
+    background-color: $white;
+    // border: 1px solid $button-default;
+    border-radius: 2px;
+    max-width: 200px;
+    margin: 0px auto;
+    padding: 9px 5px 9px 5px;
     transition: all 0.3s;
 
-    &:hover {
+      &:hover {
 
-      color: $black;
-      border-color: $black;
+        color: $white;
+        background-color: $black;
+        // border-color: $black;
+      }
     }
-  }
-
 }

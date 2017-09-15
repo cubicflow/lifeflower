@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/blog/2016/lorem-ipsum/</loc>
+<loc>lifeflowercare.com/blog/2016/lorem-ipsum/</loc>
 <lastmod>2016-03-22T00:00:00-07:00</lastmod>
 </url>
 <url>
-<loc>/blog/2016/welcome-to-jekyll/</loc>
+<loc>lifeflowercare.com/blog/2016/welcome-to-jekyll/</loc>
 <lastmod>2016-03-23T00:00:00-07:00</lastmod>
 </url>
 <url>
-<loc>/disclaimer/</loc>
+<loc>lifeflowercare.com/disclaimer/</loc>
 </url>
 <url>
-<loc>/blog/</loc>
+<loc>lifeflowercare.com/blog/</loc>
 </url>
 <url>
-<loc>/</loc>
+<loc>lifeflowercare.com/</loc>
 </url>
 </urlset>

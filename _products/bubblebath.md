@@ -2,6 +2,9 @@
 name: "Herbal Infusion Bubble Bath"
 description: "2.0oz"
 image-url: "assets/img/products/bubblebath.jpg"
-price: ""
+price: 30
 display_order: 12
+cell_layout: "small"
+orderable: true
+hidden: true
 ---

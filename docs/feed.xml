@@ -3,8 +3,8 @@
     <channel>
         <title>Life Flower</title>
         <description>Relieve, Repair, Relax.</description>      
-        <link></link>
-        <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+        <link>lifeflowercare.com</link>
+        <atom:link href="lifeflowercare.com/feed.xml" rel="self" type="application/rss+xml" />
         
             <item>
                 <title>Welcome to Jekyll!</title>
@@ -14,8 +14,8 @@
 </description>
                 
                 <pubDate>Wed, 23 Mar 2016 00:00:00 -0700</pubDate>
-                <link>/blog/2016/welcome-to-jekyll/</link>
-                <guid isPermaLink="true">/blog/2016/welcome-to-jekyll/</guid>
+                <link>lifeflowercare.com/blog/2016/welcome-to-jekyll/</link>
+                <guid isPermaLink="true">lifeflowercare.com/blog/2016/welcome-to-jekyll/</guid>
             </item>
         
             <item>
@@ -26,8 +26,8 @@
 </description>
                 
                 <pubDate>Tue, 22 Mar 2016 00:00:00 -0700</pubDate>
-                <link>/blog/2016/lorem-ipsum/</link>
-                <guid isPermaLink="true">/blog/2016/lorem-ipsum/</guid>
+                <link>lifeflowercare.com/blog/2016/lorem-ipsum/</link>
+                <guid isPermaLink="true">lifeflowercare.com/blog/2016/lorem-ipsum/</guid>
             </item>
         
     </channel>

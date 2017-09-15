@@ -1,4 +1,5 @@
 # Site settings
+url:                    "lifeflowercare.com"
 language:               ""
 
 ## Page title tags are composed of the site.title and page.title
