@@ -28,6 +28,7 @@ title: Products
       data-item-name="{{product.name}}"
       data-item-price="{{product.price}}"
       data-item-url="/"
+      data-item-weight="{{product.weight}}"
       data-item-description="{{product.description}}"
       data-item-shipable="true"
       >
