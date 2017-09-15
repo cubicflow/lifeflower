@@ -1,6 +1,6 @@
 ---
 name: "“Crystal Vision” Bath Bomb"
-description: "Lavender w/ Jasmine"
+description: "Chrysanthemum w/ Lavender"
 image-url: "assets/img/products/crystalvision.jpg"
 price: 15
 weight: 175
