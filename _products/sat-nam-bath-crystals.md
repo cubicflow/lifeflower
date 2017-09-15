@@ -4,7 +4,7 @@ description: "Peppermint & Chrysanthemum"
 image-url: "assets/img/products/crystals--satnam.jpg"
 price: 25
 weight: 300
-display_order: 10
+display_order: 11
 orderable: true
 hidden: false
 ---

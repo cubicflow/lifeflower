@@ -24,7 +24,7 @@ title: Products
       </div>
 
       <a class="button__buy snipcart-add-item"
-      data-item-id="{{forloop.index}}"
+      data-item-id="{{product.name | slugify}}"
       data-item-name="{{product.name}}"
       data-item-price="{{product.price}}"
       data-item-url="/"
