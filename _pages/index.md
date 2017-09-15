@@ -27,7 +27,7 @@ title: Products
       data-item-id="{{product.name | slugify}}{{forloop.index}}"
       data-item-name="{{product.name}}"
       data-item-price="{{product.price}}"
-      data-item-url="{{site.url}}"
+      data-item-url="/"
       data-item-description="{{product.description}}"
       data-item-shipable="true"
       >
