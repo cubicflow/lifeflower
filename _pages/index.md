@@ -31,7 +31,7 @@ title: Products
       data-item-description="{{product.description}}"
       data-item-shipable="true"
       >
-      ${{product.price}} - Add to Cart
+      ${{product.price}} - Add To Cart
       </a>
 
     </div>
