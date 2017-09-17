@@ -4,7 +4,7 @@ description: "2.0oz"
 image-url: "assets/img/products/bubblebath.jpg"
 price: 30
 weight: 300
-display_order: 14
+display_order: 16
 cell_layout: "small"
 orderable: true
 hidden: true
