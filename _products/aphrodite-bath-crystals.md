@@ -1,5 +1,5 @@
 ---
-name: "Aphrodite’s Bath Crystals"
+name: "“Aphrodite” Bath Crystals"
 description: "Rosemary & Hibiscus"
 image-url: "assets/img/products/crystals--aphrodite.jpg"
 price: 25

@@ -1,5 +1,5 @@
 ---
-name: "Medicated Gypsy Massage Oil"
+name: "“Gypsy” Massage Oil"
 description: "Aphrodisiac Essential Oils"
 image-url: "assets/img/products/gypsy-oil.jpg"
 price: 30
