@@ -6,5 +6,5 @@ price: 30
 weight: 90
 display_order: 13
 orderable: true
-hidden: false
+hidden: true
 ---
