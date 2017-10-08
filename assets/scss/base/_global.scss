@@ -309,6 +309,33 @@ footer {
     width: 33%
   }
 
+  &__new-product {
+    float: right;
+    width: 44px;
+    height: 44px;
+    border-radius: 22px;
+    // background-color: $pink;
+    background-image: linear-gradient(-135deg, lighten($pink, 0) 0%, lighten($tan, 7) 100%);
+    color: $gray--dark;
+    font-family: TchigMono-Bold;
+    font-size: 15px;
+    text-align: center;
+    padding: 12px 5px;
+  }
+
+  &__new-spacer {
+    float: right;
+    width: 44px;
+    height: 44px;
+    border-radius: 22px;
+    color: $gray--dark;
+    font-family: TchigMono-Bold;
+    font-size: 15px;
+    text-align: center;
+    padding: 12px 5px;
+  }
+
+
   &__container {
     position: relative;
     margin: 0px auto;

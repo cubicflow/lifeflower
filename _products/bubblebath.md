@@ -8,4 +8,5 @@ display_order: 17
 cell_layout: "small"
 orderable: true
 hidden: true
+new: false
 ---

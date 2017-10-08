@@ -7,4 +7,5 @@ weight: 90
 display_order: 11
 orderable: true
 hidden: false
+new: true
 ---

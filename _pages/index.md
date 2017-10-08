@@ -11,7 +11,15 @@ title: Products
 
   <div class="product__container">
 
-      <div class="product__content">
+    {% if product.new == true %}
+    <div class="product__new-product">New</div>
+    {% endif %}
+
+    {% if product.new == false %}
+    <div class="product__new-spacer"></div>
+    {% endif %}
+
+    <div class="product__content">
 
       <img class="cf-responsive" src="{{product.image-url}}">
 
