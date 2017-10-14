@@ -42,9 +42,21 @@
 
 
 body {
-  background-color: $bg-default;
+  background-color: $white;
   color: $text-default;
   font-family: 'TchigMono-Medium'
+}
+
+.body-container {
+  background-color: $bg-default;
+  margin: 0px auto;
+  width: 100%;
+}
+
+.body-spacer {
+  height: 56px;
+  width: 100%;
+  margin: 0px auto;
 }
 
 a {
