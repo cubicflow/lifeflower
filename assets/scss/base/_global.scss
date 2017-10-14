@@ -408,10 +408,6 @@ footer {
     padding: 7px;
     transition: all 0.3s;
 
-    @include breakpoint(medium) {
-      font-weight: 500;
-    }
-
     &:hover {
 
       color: $white;
