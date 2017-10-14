@@ -397,20 +397,49 @@ footer {
   &__buy {
     display: block;
     height: 36px;
-    font-size: 16px;
+    font-size: 15px;
     color: $black;
     background-color: $white;
     font-family: 'Work Sans', sans-serif;
     border-radius: 2px;
     max-width: 140px;
     margin: 0px auto;
-    padding: 6px;
+    margin-bottom: 10px;
+    padding: 7px;
     transition: all 0.3s;
 
-      &:hover {
-
-        color: $white;
-        background-color: $black;
-      }
+    @include breakpoint(medium) {
+      font-weight: 500;
     }
+
+    &:hover {
+
+      color: $white;
+      background-color: $black;
+    }
+  }
+
+  &__shop-details {
+    display: block;
+    height: 36px;
+    font-size: 15px;
+    color: $gray;
+    background-color: $white;
+    font-family: 'Work Sans', sans-serif;
+    border-radius: 2px;
+    max-width: 140px;
+    margin: 0px auto;
+    padding: 7px;
+    transition: all 0.3s;
+
+    @include breakpoint(medium) {
+      background-color: $bg-default;
+    }
+
+    &:hover {
+
+      color: $white;
+      background-color: $gray;
+    }
+  }
 }
