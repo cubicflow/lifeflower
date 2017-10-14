@@ -37,7 +37,7 @@
       }
 
       &__ammount {
-        @include hide-for(small);
+        @include show-for(medium);
 
         display: block;
         margin-right: 46px;
@@ -89,7 +89,6 @@
       font-family: 'TchigMono-Medium';
       font-size: 14px;
       color: $white;
-      letter-spacing: 0.5px;
       text-align: center;
       float: left;
 
@@ -102,10 +101,17 @@
           position: relative;
           margin-left: 4%;
           margin-right: 4%;
+
+          a {
+            color: $white;
+            opacity: 1.0;
+
+            &:hover {
+              opacity: 0.8;
+              transition: 0.2s all;
+            }
+          }
         }
-
-
-
 
       }
     }
