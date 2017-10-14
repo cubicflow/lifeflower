@@ -3,6 +3,7 @@ permalink: /
 layout: products
 title: Products
 ---
+{% include shop-categories.html %}
 
 {% assign products = site.products | sort: 'display_order' %}
 {% for product in products %}
