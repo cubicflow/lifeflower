@@ -28,7 +28,8 @@ title: Products
       </div>
 
       <div class="product__description">
-        {{product.description}}
+        <p>{{product.description}}</p>
+        <p class="product__price">${{product.price}} USD + Tax</p>
       </div>
 
       <a class="button__buy snipcart-add-item"
@@ -40,7 +41,7 @@ title: Products
       data-item-description="{{product.description}}"
       data-item-shipable="true"
       >
-      ${{product.price}} - Buy
+      Add to Cart
       </a>
 
     </div>
