@@ -48,7 +48,7 @@ title: Products
         >
         Add to Cart
         </a>
-        <a class="button__shop-details" href="{{product.url}}">Details</a>
+        <a class="button__shop-details" href="{{product.url}}">View Details</a>
 
       </div>
     </a>
