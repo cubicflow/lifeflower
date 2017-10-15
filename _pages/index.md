@@ -23,7 +23,7 @@ title: Products
     <div class="product__new-spacer"></div>
     {% endif %}
 
-    <a class="product-thumbnail" href="{{product.url}}">
+    <a href="{{product.url}}">
       <div class="product__content">
 
         <img class="cf-responsive" src="{{product.image-url}}">
@@ -48,7 +48,7 @@ title: Products
         >
         Add to Cart
         </a>
-        <a class="button__shop-details">Details</a>
+        <a class="button__shop-details" href="{{product.url}}">Details</a>
 
       </div>
     </a>
