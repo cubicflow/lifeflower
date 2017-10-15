@@ -1,4 +1,7 @@
 ---
+title: "“Flowerchild” Bath Bomb"
+product-category: bath-bomb
+sitemap: true
 name: "“Flowerchild” Bath Bomb"
 description: "Combination w/ Calendula"
 image-url: "assets/img/products/flowerchild.jpg"

@@ -1,4 +1,7 @@
 ---
+title: "“Aura Cleanser” Bath Bomb"
+product-category: bath-bomb
+sitemap: true
 name: "“Aura Cleanser” Bath Bomb"
 description: "Sage & Charcoal w/ Heather"
 image-url: "assets/img/products/auracleanser.jpg"

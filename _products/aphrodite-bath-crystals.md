@@ -1,4 +1,7 @@
 ---
+title: "“Aphrodite” Bath Crystals"
+product-category: bath-crystal
+sitemap: true
 name: "“Aphrodite” Bath Crystals"
 description: "Rosemary & Hibiscus"
 image-url: "assets/img/products/crystals--aphrodite.jpg"

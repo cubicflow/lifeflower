@@ -1,4 +1,7 @@
 ---
+title: "Headache Roller"
+product-category: roller
+sitemap: true
 name: "Headache Roller"
 description: "10ml"
 image-url: "assets/img/products/roller-headache.jpg"

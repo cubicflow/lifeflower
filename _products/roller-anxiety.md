@@ -1,4 +1,7 @@
 ---
+title: "Anxiety Roller"
+product-category: roller
+sitemap: false
 name: "Anxiety Roller"
 description: "10ml"
 image-url: "assets/img/products/roller-anxiety.jpg"

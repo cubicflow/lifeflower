@@ -1,4 +1,7 @@
 ---
+title: "Cayenne Med Stick"
+product-category: stick
+sitemap: true
 name: "Cayenne Med Stick"
 description: "2.5oz - Extra Strength"
 image-url: "assets/img/products/stick-cayenne.jpg"

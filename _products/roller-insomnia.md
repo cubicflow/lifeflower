@@ -1,4 +1,7 @@
 ---
+title: "Insomnia Roller"
+product-category: roller
+sitemap: true
 name: "Insomnia Roller"
 description: "10ml"
 image-url: "assets/img/products/roller-insomnia.jpg"

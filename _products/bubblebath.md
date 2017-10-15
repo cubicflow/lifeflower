@@ -1,4 +1,7 @@
 ---
+title: "“Herbal Infusion” Bubble Bath"
+product-category: bubble-bath
+sitemap: false
 name: "“Herbal Infusion” Bubble Bath"
 description: "2.0oz"
 image-url: "assets/img/products/bubblebath.jpg"

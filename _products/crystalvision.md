@@ -1,4 +1,7 @@
 ---
+title: "“Crystal Vision” Bath Bomb"
+product-category: bath-bomb
+sitemap: true
 name: "“Crystal Vision” Bath Bomb"
 description: "Chrysanthemum w/ Lavender"
 image-url: "assets/img/products/crystalvision.jpg"

@@ -1,4 +1,7 @@
 ---
+title: "“Aphrodite” Bath Bomb"
+product-category: bath-bomb
+sitemap: true
 name: "“Aphrodite” Bath Bomb"
 description: "Rosemary w/ Hibiscus"
 image-url: "assets/img/products/aphrodite.jpg"

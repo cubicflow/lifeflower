@@ -1,4 +1,7 @@
 ---
+title: "“Hypnosis” Bath Bomb"
+product-category: bath-bomb
+sitemap: true
 name: "“Hypnosis” Bath Bomb"
 description: "Lavender w/ Lavender"
 image-url: "assets/img/products/hypnosis.jpg"
