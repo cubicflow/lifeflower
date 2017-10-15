@@ -5,6 +5,7 @@ sitemap: true
 name: "“Sativa” Bath Bomb"
 description: "Peppermint w/ Sage"
 image-url: "assets/img/products/sativa.jpg"
+image-large-url: "assets/img/products/large/sativa.jpg"
 price: 15
 weight: 175
 display_order: 7

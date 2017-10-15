@@ -5,6 +5,7 @@ sitemap: true
 name: "“Gypsy” Massage Oil"
 description: "Aphrodisiac Essential Oils"
 image-url: "assets/img/products/gypsy-oil.jpg"
+image-large-url: "assets/img/products/large/gypsy-oil.jpg"
 price: 30
 weight: 220
 display_order: 16

@@ -20,7 +20,12 @@ include:
 destination: docs
 
 collections:
-- products
+  products:
+    output: true
+    permalink: /products/:title/
+  product-categories:
+    output: true
+    permalink: /products/:title/
 
 exclude:
   - "/assets/"
@@ -51,7 +56,7 @@ incremental:      true
 # baseurl:        "" # does not include hostname
 
 # Outputting
-permalink:        "/blog/:year/:title/"
+permalink:        pretty
 paginate_path:    "/blog/page:num"
 paginate:         5
 
