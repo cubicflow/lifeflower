@@ -8,6 +8,14 @@
         <div class="category-thumbnail">
           <img src="{{category.image-url}}">
           <span class="category-text">{{category.title}}</span>
+
+          {% if category.new == true %}
+          <div class="category-new">New</div>
+          {% endif %}
+
+          {% if category.new == false %}
+          <div class="category-new-spacer">&nbsp;</div>
+          {% endif %}
         </div>
 
       {% endif %}

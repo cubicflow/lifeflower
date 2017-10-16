@@ -22,11 +22,44 @@
   display: inline-block;
   width: 120px;
   height: 180px;
-  margin: 0px 0px 0px 0px;
   text-align: center;
 
-  .category-text {
-    color: $black;
-    font-size: 12px;
+  img {
+    display: block;
   }
+}
+
+.category-text {
+  width: 120px;
+  font-family: 'Work Sans', sans-serif;
+  color: $gray--dark;
+  font-size: 13px;
+  margin-bottom: 14px;
+}
+
+.category-new {
+  display: block;
+  width: 36px;
+  height: 16px;
+  background-color: $gray--xlight;
+  border-radius: 8px;
+  color: $gray--dark;
+  font-size: 10px;
+  font-family: 'Work Sans', sans-serif;
+  text-align: center;
+  margin: 0px auto;
+  margin-top: 8px;
+}
+
+.category-new-spacer {
+  display: block;
+  width: 36px;
+  height: 16px;
+  border-radius: 8px;
+  color: $gray--dark;
+  font-size: 10px;
+  font-family: 'Work Sans', sans-serif;
+  text-align: center;
+  margin: 0px auto;
+  margin-top: 8px;
 }

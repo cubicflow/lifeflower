@@ -5,4 +5,5 @@ sitemap: true
 image-url:
 display_order: 7
 hidden: true
+new: false
 ---
