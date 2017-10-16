@@ -22,10 +22,10 @@ destination: docs
 collections:
   products:
     output: true
-    permalink: /products/:title/
+    permalink: /shop/:title/
   product-categories:
     output: true
-    permalink: /products/:title/
+    permalink: /shop/:title/
 
 exclude:
   - "/assets/"

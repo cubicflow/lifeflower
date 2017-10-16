@@ -8,12 +8,6 @@ title: Products
 {% for product in products %}
 {% if product.hidden == false %}
 
-{% capture product_path %}_product-categories/{{product.product-category}}.md{% endcapture %}
-{% assign product_category = site.product-categories | where: 'path', product_path | first %}
-
-{% assign product_category_slug = product_category.slug %}
-{% assign current_category_slug = page.title | slugify: 'pretty' %}
-
 <div class="product {% if product.cell_layout == "small" %}product--small{% endif %}">
 
   <div class="product__container">

@@ -1,10 +1,17 @@
-<nav class="shop-categories">
-  <!-- <div class="category-row">
-    <div class="category-thumbnail">
-        Hello
+<div class="shop-categories">
+    <div class="shop-categories__row">
+
+      {% assign categories = site.product-categories | sort: 'display_order' %}
+      {% for category in categories %}
+      {% if category.hidden == false %}
+
+        <div class="category-thumbnail">
+          <img src="{{category.image-url}}">
+          <span class="category-text">{{category.title}}</span>
+        </div>
+
+      {% endif %}
+      {% endfor %}
+
     </div>
-    <div class="category-thumbnail">
-        Hello
-    </div>
-  </div> -->
-</nav>
+</div>
