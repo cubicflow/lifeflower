@@ -14,10 +14,17 @@
   overflow-y: hidden;
 
   &__row {
+    position: relative;
     width: auto;
     height: 100%;
     margin: 0px auto;
     text-align: center;
+    white-space: nowrap;
+    overflow-y: hidden;
+    overflow-x: scroll;
+    -ms-overflow-style: -ms-autohiding-scrollbar;
+    overflow-scrolling: touch;
+    -webkit-overflow-scrolling: touch;
   }
 }
 
