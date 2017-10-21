@@ -38,7 +38,20 @@
 
 @font-face {font-family: 'TchigMono-Regular';src: url('../fonts/342F9C_2_0.eot');src: url('../fonts/342F9C_2_0.eot?#iefix') format('embedded-opentype'),url('../fonts/342F9C_2_0.woff2') format('woff2'),url('../fonts/342F9C_2_0.woff') format('woff'),url('../fonts/342F9C_2_0.ttf') format('truetype'),url('../fonts/342F9C_2_0.svg#wf') format('svg');}
 
+h1 {
+  font-family: 'Work Sans', sans-serif;
+  color: $black;
+  font-size: 32px;
+  line-height: 1.5em;
 
+  @include breakpoint(medium) {
+    font-size: 40px;
+  }
+
+  @include breakpoint(large) {
+    font-size: 48px;
+  }
+}
 
 
 body {

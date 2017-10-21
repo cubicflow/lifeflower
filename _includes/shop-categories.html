@@ -1,25 +1,25 @@
 <div class="shop-categories">
-    <div class="shop-categories__row">
+  <div class="shop-categories__row">
 
-      {% assign categories = site.product-categories | sort: 'display_order' %}
-      {% for category in categories %}
-      {% if category.hidden == false %}
+    {% assign categories = site.product-categories | sort: 'display_order' %}
+    {% for category in categories %}
+    {% if category.hidden == false %}
 
-        <div class="category-thumbnail">
-          <img src="{{category.image-url}}">
-          <span class="category-text">{{category.title}}</span>
+      <div class="category-thumbnail">
+        <img src="{{category.image-url}}">
+        <span class="category-text">{{category.title}}</span>
 
-          {% if category.new == true %}
-          <div class="category-new">New</div>
-          {% endif %}
+        {% if category.new == true %}
+        <div class="category-new">New</div>
+        {% endif %}
 
-          {% if category.new == false %}
-          <div class="category-new-spacer">&nbsp;</div>
-          {% endif %}
-        </div>
+        {% if category.new == false %}
+        <div class="category-new-spacer">&nbsp;</div>
+        {% endif %}
+      </div>
 
-      {% endif %}
-      {% endfor %}
+    {% endif %}
+    {% endfor %}
 
-    </div>
+  </div>
 </div>
