@@ -27,6 +27,25 @@ collections:
     output: true
     permalink: /shop/:title/
 
+# FrontMatter defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: product-categories
+    values:
+      layout: products
+      is_product_category: true
+      _hide_content: true
+  -
+    scope:
+      path: ""
+      type: products
+    values:
+      layout: product
+      is_product: true
+      _hide_content: true
+
 exclude:
   - "/assets/"
   - "bower.json"
