@@ -81,6 +81,17 @@
         text-align: left;
         float: left;
       }
+
+      a {
+        color: $white;
+        text-decoration: none;
+        opacity: 1.0;
+        transition: 0.2s all;
+
+        &:hover {
+          opacity: 0.8;
+        }
+      }
     }
 
     .nav-links {
