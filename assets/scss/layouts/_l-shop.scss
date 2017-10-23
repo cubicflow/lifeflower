@@ -2,7 +2,7 @@
 // Shop
 // --------------------------------------------------
 
-.product-detail-page {
+.product-detail {
 
   h1 {
     text-align: center;
@@ -15,6 +15,25 @@
     @include breakpoint(large) {
       margin-top: 120px;
     }
+  }
+
+  &__price {
+    text-align: center;
+    color: $grass;
+    font-size: 16px;
+
+    @include breakpoint(medium) {
+      font-size: 20px;
+    }
+  }
+
+  &__image {
+    max-width: 420px;
+    margin: 0px auto;
+    margin-top: 80px;
+  }
+
+  img {
   }
 
 }
