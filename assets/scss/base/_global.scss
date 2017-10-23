@@ -111,7 +111,7 @@ main, header, footer {
 }
 
 main {
-  margin-top: 80px;
+
 }
 
 header {
@@ -311,9 +311,15 @@ footer {
 
 
 .products {
+  margin-top: 80px;
 
+  @include breakpoint(medium) {
+    margin-top: 120px;
+  }
 
-
+  @include breakpoint(large) {
+    margin-top: 140px;
+  }
 }
 
 .product {
@@ -326,11 +332,11 @@ footer {
 
   @include breakpoint(medium){
     float: left;
-    width: 50%
+    width: 50%;
   }
 
   @include breakpoint(large){
-    width: 33%
+    width: 33%;
   }
 
   &__new-product {
