@@ -246,6 +246,7 @@ header {
     color: $black;
     background-color: $white;
     font-family: 'Work Sans', sans-serif;
+    text-align: center;
     border-radius: 2px;
     max-width: 140px;
     margin: 0px auto;
@@ -254,9 +255,20 @@ header {
     transition: all 0.3s;
 
     &:hover {
-
       color: $white;
       background-color: $black;
+    }
+
+    &--item-page {
+      color: $white;
+      background-color: $black;
+      width: 220px;
+      max-width: 220px;
+
+      &:hover {
+        color: $black;
+        background-color: $white;
+      }
     }
   }
 
