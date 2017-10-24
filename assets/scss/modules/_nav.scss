@@ -16,6 +16,7 @@
     font-family: 'TchigMono-Medium';
     position: relative;
     width: 94%;
+    height: 56px;
     max-width: 1280px;
     margin: 0px auto;
 
@@ -132,6 +133,8 @@
   position: fixed;
   background-color: $black;
   top: 0px;
+  left: 0px;
+  padding-top: 10px;
   overflow: scroll;
   opacity: 0;
   pointer-events: none;
@@ -144,5 +147,15 @@
     pointer-events: all;
     z-index: 9999;
     transform: translateY(0px);
+  }
+
+  &__header {
+    height: 56px;
+  }
+
+  &__close {
+    padding-top: 0px;
+    padding-right: 0px;
+    float: right;
   }
 }
