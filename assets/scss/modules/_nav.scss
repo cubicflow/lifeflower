@@ -139,8 +139,8 @@
   opacity: 0;
   pointer-events: none;
   z-index: -1;
-  transform: translateY(-30px);
-  transition: all 0.4s;
+  transform: translateY(-20px);
+  transition: all 0.3s;
 
   &.active {
     opacity: 1;
@@ -155,7 +155,7 @@
 
   &__close {
     padding-top: 0px;
-    padding-right: 0px;
-    float: right;
+    padding-left: 0px;
+    float: left;
   }
 }
