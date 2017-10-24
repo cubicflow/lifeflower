@@ -158,4 +158,43 @@
     padding-left: 0px;
     float: left;
   }
+
+  &__logo {
+    width: 145px;
+    height: 47px;
+    margin: 0px auto;
+    margin-top: 40px;
+    margin-bottom: 48px;
+  }
+
+  .nav-links-mobile {
+
+    margin: 0px auto;
+    font-family: 'TchigMono-Medium';
+    font-size: 16px;
+    color: $white;
+    text-align: center;
+
+    ul {
+      margin-top: 9px;
+      margin-left: 0px;
+      text-align: center;
+
+      li {
+        list-style-type: none;
+        margin-bottom: 36px;
+
+        a {
+          color: $white;
+          opacity: 1.0;
+
+          &:hover {
+            opacity: 0.8;
+            transition: 0.2s all;
+          }
+        }
+      }
+
+    }
+  }
 }
