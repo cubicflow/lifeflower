@@ -4,8 +4,8 @@ product-category: bath-bomb
 sitemap: true
 name: "“Limonene” Bath Bomb"
 description: "Lemongrass w/ Rose"
-image-url: "assets/img/products/limonene.jpg"
-image-large-url: "assets/img/products/large/limonene.jpg"
+image-url: "/assets/img/products/limonene.jpg"
+image-large-url: "/assets/img/products/large/limonene.jpg"
 price: 15
 weight: 175
 display_order: 6
