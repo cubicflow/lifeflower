@@ -206,4 +206,29 @@
     }
   }
 
+  &__notes {
+    color: $gray;
+    margin-top: 30px;
+    font-size: 14px;
+    line-height: 1.75em;
+
+    @include breakpoint(medium) {
+      margin-top: 40px;
+      font-size: 15px;
+    }
+
+    @include breakpoint(large) {
+      margin-top: 60px;
+      font-size: 16px;
+    }
+
+    span {
+      color: $black;
+    }
+
+    p {
+      line-height: 1.75em;
+    }
+  }
+
 }
