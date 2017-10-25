@@ -274,6 +274,7 @@ cf.equalizeRowCells = function(selector){
     const cellHeight = (tallestCellHeightInRow < 290) ? 290 : tallestCellHeightInRow;
     for (let cell of row){
       cell.style.height = tallestCellHeightInRow + "px"
+      cell.classList.add('product__appear')
     }
 
   }
@@ -328,3 +329,29 @@ window.onload = function(){
 window.addEventListener('resize', () => {
   cf.equalizeRowCells('.product');
 })
+
+
+
+
+// MOBILE NAV STUFF
+
+const mobileNav = (function(){
+
+  const openBtns = document.querySelectorAll('.show-mobile-nav');
+  const closeBtn = document.getElementById('hide-mobile-nav');
+  const mobileNav = document.getElementById('mobile-nav');
+
+
+	for(let i=0; i<openBtns.length ;i++){
+		openBtns[i].addEventListener('click', (e) => {
+			e.preventDefault();
+	    mobileNav.classList.add('active');
+	  })
+	}
+
+  closeBtn.addEventListener('click', () => {
+    mobileNav.classList.remove('active');
+  })
+
+
+}());

@@ -80,11 +80,14 @@
 @import 'layouts/l-index';
 @import 'layouts/l-page';
 @import 'layouts/l-post';
+@import 'layouts/l-shop';
 
 //
 // 8. Modules
 // --------------------------------------------------
-@import 'modules/m-your-module';
+@import 'modules/nav';
+@import 'modules/footer';
+@import 'modules/shop-categories';
 
 //
 // 9. State

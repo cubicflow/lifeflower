@@ -38,13 +38,39 @@
 
 @font-face {font-family: 'TchigMono-Regular';src: url('../fonts/342F9C_2_0.eot');src: url('../fonts/342F9C_2_0.eot?#iefix') format('embedded-opentype'),url('../fonts/342F9C_2_0.woff2') format('woff2'),url('../fonts/342F9C_2_0.woff') format('woff'),url('../fonts/342F9C_2_0.ttf') format('truetype'),url('../fonts/342F9C_2_0.svg#wf') format('svg');}
 
+h1 {
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 300;
+  color: $black;
+  font-size: 32px;
+  line-height: 1.5em;
 
+  @include breakpoint(medium) {
+    font-size: 40px;
+  }
+
+  @include breakpoint(large) {
+    font-size: 48px;
+  }
+}
 
 
 body {
   background-color: $bg-default;
   color: $text-default;
-  font-family: 'TchigMono-Medium'
+  font-family: 'Work Sans', sans-serif;
+}
+
+.body-container {
+  background-color: $bg-default;
+  margin: 0px auto;
+  width: 100%;
+}
+
+.body-spacer {
+  height: 56px;
+  width: 100%;
+  margin: 0px auto;
 }
 
 a {
@@ -83,11 +109,10 @@ main, header, footer {
   @include breakpoint(medium){
     width: 96%;
   }
-
 }
 
 main {
-  margin-top: 80px;
+
 }
 
 header {
@@ -110,8 +135,6 @@ header {
     color: $black;
     float: right;
     position: relative;
-    // HIDE CART FOR PHASE 1
-    // display: none;
 
     img {
       position: absolute;
@@ -141,78 +164,6 @@ header {
     left: 0px;
 
   }
-
-  // Temporary Icon to replace Cart Bag
-
-  // &:after {
-  //   content: "";
-  //   display: block;
-  //   position: absolute;
-  //   width: 36px;
-  //   height: 36px;
-  //   background-image: url("/assets/img/icon--oc.svg");
-  //   background-size: 36px 36px;
-  //   background-position: center;
-  //   background-repeat: no-repeat;
-  //   top: 0px;
-  //   right: 0px;
-  // }
-}
-
-footer {
-  text-align: center;
-  font-size: 12px;
-  color: $text-light;
-  margin-bottom: 64px;
-  margin-top: 40px;
-  position: relative;
-
-  @include breakpoint(medium){
-    margin-top: 60px;
-    margin-bottom: 52px;
-  }
-
-  &:before {
-    content: "";
-    display: block;
-    position: absolute;
-    width: 36px;
-    height: 36px;
-    background-image: url("/assets/img/icon--wave.svg");
-    background-size: 36px 36px;
-    background-position: center;
-    background-repeat: no-repeat;
-    top: 80px;
-    left: 0px;
-    margin-bottom: 10px;
-
-    @include breakpoint(medium){
-      top: 68px;
-      margin-bottom: 0px;
-    }
-  }
-
-  &:after {
-    content: "";
-    display: block;
-    position: absolute;
-    width: 36px;
-    height: 36px;
-    background-image: url("/assets/img/icon--mountain.svg");
-    background-size: 36px 36px;
-    background-position: center;
-    background-repeat: no-repeat;
-    top: 80px;
-    right: 0px;
-    margin-bottom: 10px;
-
-    @include breakpoint(medium){
-      top: 68px;
-      margin-bottom: 0px;
-    }
-  }
-
-
 }
 
 .disclaimer {
@@ -284,91 +235,6 @@ footer {
 
 }
 
-
-
-.products {
-
-
-
-}
-
-.product {
-
-  width: 100%;
-  text-align: center;
-  margin-bottom: 136px;
-  margin-top: 0px;
-  position: relative;
-
-  @include breakpoint(medium){
-    float: left;
-    width: 50%
-  }
-
-  @include breakpoint(large){
-    width: 33%
-  }
-
-  &__new-product {
-    float: right;
-    width: 50px;
-    height: 50px;
-    border-radius: 25px;
-    // background-color: $pink;
-    background-image: linear-gradient(-135deg, lighten($pink, 0) 0%, lighten($tan, 7) 100%);
-    color: $gray--dark;
-    font-family: TchigMono-Regular;
-    font-size: 15px;
-    text-align: center;
-    padding: 15px 5px;
-  }
-
-  &__new-spacer {
-    float: right;
-    width: 50px;
-    height: 50px;
-    border-radius: 25px;
-    color: $gray--dark;
-    font-family: TchigMono-Regular;
-    font-size: 15px;
-    text-align: center;
-    padding: 15px 5px;
-  }
-
-
-  &__container {
-    position: relative;
-    margin: 0px auto;
-    max-width: 280px;
-    height: 100%;
-  }
-
-  &__content {
-    position: relative;
-    top: 100%;
-    transform: translateY(-100%);
-  }
-
-  &__title {
-
-    margin-top: 18px;
-    color: $black;
-    font-size: 15px;
-    font-family: 'TchigMono-Bold';
-
-  }
-
-  &__description {
-
-    margin-top: 10px;
-    margin-bottom: 36px;
-    font-size: 14px;
-    color: $text-light;
-
-  }
-
-}
-
 /* BUTTONS */
 
 .button {
@@ -376,22 +242,57 @@ footer {
   &__buy {
     display: block;
     height: 36px;
-    font-size: 14px;
-    // text-transform: uppercase;
+    font-size: 15px;
     color: $black;
     background-color: $white;
-    // border: 1px solid $button-default;
+    font-family: 'Work Sans', sans-serif;
+    text-align: center;
     border-radius: 2px;
-    max-width: 200px;
+    max-width: 140px;
     margin: 0px auto;
-    padding: 9px 5px 9px 5px;
+    margin-bottom: 10px;
+    padding: 7px;
     transition: all 0.3s;
 
-      &:hover {
+    &:hover {
+      color: $white;
+      background-color: $black;
+    }
 
-        color: $white;
-        background-color: $black;
-        // border-color: $black;
+    &--item-page {
+      color: $white;
+      background-color: $black;
+      width: 220px;
+      max-width: 220px;
+
+      &:hover {
+        color: $black;
+        background-color: $white;
       }
     }
+  }
+
+  &__shop-details {
+    display: block;
+    height: 36px;
+    font-size: 15px;
+    color: $gray;
+    background-color: $white;
+    font-family: 'Work Sans', sans-serif;
+    border-radius: 2px;
+    max-width: 140px;
+    margin: 0px auto;
+    padding: 7px;
+    transition: all 0.3s;
+
+    @include breakpoint(medium) {
+      background-color: $bg-default;
+    }
+
+    &:hover {
+
+      color: $white;
+      background-color: $gray;
+    }
+  }
 }

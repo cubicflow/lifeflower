@@ -20,7 +20,31 @@ include:
 destination: docs
 
 collections:
-- products
+  products:
+    output: true
+    permalink: /shop/:title/
+  product-categories:
+    output: true
+    permalink: /shop/category/:title/
+
+# FrontMatter defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: product-categories
+    values:
+      layout: products
+      is_product_category: true
+      _hide_content: true
+  -
+    scope:
+      path: ""
+      type: products
+    values:
+      layout: product
+      is_product: true
+      _hide_content: true
 
 exclude:
   - "/assets/"
@@ -51,7 +75,7 @@ incremental:      true
 # baseurl:        "" # does not include hostname
 
 # Outputting
-permalink:        "/blog/:year/:title/"
+permalink:        pretty
 paginate_path:    "/blog/page:num"
 paginate:         5
 
