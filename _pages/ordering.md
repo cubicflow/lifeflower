@@ -19,7 +19,7 @@ ORDERING AND SHIPPING INFO
 <b>How long will my order take to process?</b>
 <br><br>
 
-LifeFlower products are made in small batches with all-natural and boutique ingredients. Most orders are processed within 3 days of being placed.
+Life Flower products are made in small batches with all-natural and boutique ingredients. Most orders are processed within 3 days of being placed.
 
 </div>
 

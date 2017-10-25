@@ -17,5 +17,5 @@ long_description: Made with all natural almond oil and coconut oil, this massage
 
 ingredients:
 
-product-notes: LifeFlower products are made in small batches with all-natural and boutique ingredients. Most orders are processed within 3 days of being placed.
+product-notes: Life Flower products are made in small batches with all-natural and boutique ingredients. Most orders are processed within 3 days of being placed.
 ---
