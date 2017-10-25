@@ -5,7 +5,7 @@
     {% for category in categories %}
     {% if category.hidden == false %}
 
-      <div class="category-thumbnail">
+      <a class="category-thumbnail" href="{{category.url}}">
         <img src="{{category.image-url}}">
         <span class="category-text">{{category.title}}</span>
 
@@ -16,7 +16,7 @@
         {% if category.new == false %}
         <div class="category-new-spacer">&nbsp;</div>
         {% endif %}
-      </div>
+      </a>
 
     {% endif %}
     {% endfor %}
