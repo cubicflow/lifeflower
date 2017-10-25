@@ -11,8 +11,10 @@
   padding: 0px 0px 0px 0px;
   overflow: auto;
   position: relative;
+  overflow-x: hidden;
   overflow-y: hidden;
   -ms-overflow-style: -ms-autohiding-scrollbar;
+  -ms-overflow-style: none;
   overflow-scrolling: touch;
   -webkit-overflow-scrolling: touch;
 
@@ -26,8 +28,9 @@
     text-align: center;
     white-space: nowrap;
     overflow-y: hidden;
-    overflow-x: scroll;
+    overflow-x: hidden;
     -ms-overflow-style: -ms-autohiding-scrollbar;
+    -ms-overflow-style: none;
     overflow-scrolling: touch;
     -webkit-overflow-scrolling: touch;
   }
