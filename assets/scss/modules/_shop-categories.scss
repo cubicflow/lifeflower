@@ -12,6 +12,9 @@
   overflow: auto;
   position: relative;
   overflow-y: hidden;
+  -ms-overflow-style: -ms-autohiding-scrollbar;
+  overflow-scrolling: touch;
+  -webkit-overflow-scrolling: touch;
 
   &__row {
     position: relative;

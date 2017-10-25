@@ -25,7 +25,7 @@ collections:
     permalink: /shop/:title/
   product-categories:
     output: true
-    permalink: /shop/:title/
+    permalink: /shop/category/:title/
 
 # FrontMatter defaults
 defaults:
