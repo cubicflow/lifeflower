@@ -27,12 +27,8 @@
     padding-right: 18px;
     text-align: center;
     white-space: nowrap;
-    overflow-x: scroll;
+    overflow-x: hidden;
     overflow-y: hidden;
-    -ms-overflow-style: -ms-autohiding-scrollbar;
-    -ms-overflow-style: none;
-    overflow-scrolling: touch;
-    -webkit-overflow-scrolling: touch;
   }
 }
 
