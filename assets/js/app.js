@@ -274,6 +274,7 @@ cf.equalizeRowCells = function(selector){
     const cellHeight = (tallestCellHeightInRow < 290) ? 290 : tallestCellHeightInRow;
     for (let cell of row){
       cell.style.height = tallestCellHeightInRow + "px"
+      cell.classList.add('product__appear')
     }
 
   }
