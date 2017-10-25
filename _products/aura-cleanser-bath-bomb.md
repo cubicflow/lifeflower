@@ -14,7 +14,7 @@ orderable: true
 hidden: false
 new: false
 
-long_description:
+long_description: The aura is an energetic force that surrounds your entire being. It is a force field that draws in and repels all of the emotion, psychic debris and energy that swims around us. Just like the physical body, the aura may experience and exhibit stress, fatigue, and loss of luminosity. Handcrafted with sage, bergamot, and frankincense essential oils and activated charcoal. Activated charcoal works by pulling toxins and debris from our pores while the invigorating aroma cleanses the spirit, revitalizes the mind, and uplifts the heart. 
 
 ingredients:
 

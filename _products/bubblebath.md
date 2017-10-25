@@ -14,7 +14,7 @@ orderable: true
 hidden: true
 new: false
 
-long_description:
+long_description: Description coming soon.
 
 ingredients:
 

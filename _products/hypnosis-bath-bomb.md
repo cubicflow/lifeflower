@@ -14,7 +14,7 @@ orderable: true
 hidden: false
 new: false
 
-long_description:
+long_description: The Hypnosis bath bomb is the perfect before-bed bath bomb. Handcrafted with pure lavender essential oils which has been used for thousands of years as a natural sleep aid. Topped with an amethyst and fresh lavender buds. Amethyst is highly beneficial in treating insomnia, especially when caused by an over-active mind.
 
 ingredients:
 
