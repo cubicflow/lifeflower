@@ -12,7 +12,7 @@
   overflow: auto;
   position: relative;
   overflow-x: hidden;
-  overflow-y: hidden;
+  overflow-y: scroll;
   -ms-overflow-style: -ms-autohiding-scrollbar;
   -ms-overflow-style: none;
   overflow-scrolling: touch;
@@ -27,8 +27,8 @@
     padding-right: 18px;
     text-align: center;
     white-space: nowrap;
-    overflow-y: hidden;
     overflow-x: hidden;
+    overflow-y: scroll;
     -ms-overflow-style: -ms-autohiding-scrollbar;
     -ms-overflow-style: none;
     overflow-scrolling: touch;
