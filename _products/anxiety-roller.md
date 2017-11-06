@@ -1,7 +1,7 @@
 ---
 title: "Anxiety Roller"
 product-category: roller
-sitemap: false
+sitemap: true
 name: "Anxiety Roller"
 description: "10ml"
 image-url: "/assets/img/products/roller-anxiety.jpg"
@@ -10,10 +10,10 @@ price: 30
 weight: 90
 display_order: 13
 orderable: true
-hidden: true
+hidden: false
 new: true
 
-long_description: Description coming soon.
+long_description: The Anxiety Roller features organic frankincense resin, chamomile buds, lavender and California White Sage. Description coming soon.
 
 ingredients:
 
