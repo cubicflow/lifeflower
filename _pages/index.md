@@ -1,57 +1,27 @@
 ---
 permalink: /
-layout: products
-title: Products
+layout: cover
+title: Home
 ---
 
-{% assign products = site.products | sort: 'display_order' %}
-{% for product in products %}
-{% if product.hidden == false %}
+<div class="cover-home">
 
-<div class="product {% if product.cell_layout == "small" %}product--small{% endif %}">
+  <div class="masthead">
 
-  <div class="product__container">
+    <a href="/"><img src="/assets/img/logo.svg">
 
-    {% if product.new == true %}
-    <div class="product__new-product">New</div>
-    {% endif %}
+    </a>
 
-    {% if product.new == false %}
-    <div class="product__new-spacer"></div>
-    {% endif %}
+  </div>
 
-    <a href="{{product.url}}">
-      <div class="product__content">
+  <div class="cover-home__description">
+    <p>Life Flower is a family owned-and-operated business seeking to create and promote organic, effective cannabis infused products for people of every age. We started this journey of education and healing when members of our own family were suffering from chronic pain — and we struggled to find a trustworthy, natural product to give them relief. Life Flower uses only the best organic ingredients in every one of our products. Our goal is to supply all-natural products that can bring relief and relaxation to everyday life for any member of the family.</p><br>
 
-        <img class="cf-responsive" src="{{product.image-url}}">
 
-        <div class="product__title">
-          {{product.name}}
-        </div>
-
-        <div class="product__description">
-          <!-- <p>{{product.description}}</p> -->
-          <p class="product__price">${{product.price}} USD</p>
-        </div>
-
-        <a class="button__buy snipcart-add-item"
-        data-item-id="{{product.name | slugify}}"
-        data-item-name="{{product.name}}"
-        data-item-price="{{product.price}}"
-        data-item-url="/"
-        data-item-weight="{{product.weight}}"
-        data-item-description="{{product.description}}"
-        data-item-shipable="true"
-        >
-        Add to Cart
-        </a>
-        <a class="button__shop-details" href="{{product.url}}">View Details</a>
-
-      </div>
+    <a class="button__buy button__buy--item-page" href="/shop">
+    Shop Products
     </a>
 
   </div>
 
 </div>
-{% endif %}
-{% endfor %}

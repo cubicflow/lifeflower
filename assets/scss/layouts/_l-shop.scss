@@ -2,6 +2,13 @@
 // Shop
 // --------------------------------------------------
 
+main {
+  @include grid-row;
+
+  //other elements
+  //@include grid-column;
+}
+
 .products {
   margin-top: 80px;
 
@@ -45,7 +52,7 @@
     // background-color: $pink;
     background-image: linear-gradient(-135deg, lighten($pink, 0) 0%, lighten($tan, 7) 100%);
     color: $gray--dark;
-    font-family: TchigMono-Regular;
+    font-family: 'TchigMono-Regular';
     font-size: 15px;
     text-align: center;
     padding: 15px 5px;
@@ -57,7 +64,7 @@
     height: 50px;
     border-radius: 25px;
     color: $gray--dark;
-    font-family: TchigMono-Regular;
+    font-family: 'TchigMono-Regular';
     font-size: 15px;
     text-align: center;
     padding: 15px 5px;
