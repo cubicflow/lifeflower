@@ -6,7 +6,7 @@ name: "Insomnia Roller"
 description: "10ml"
 image-url: "/assets/img/products/roller-insomnia.jpg"
 image-large-url: "/assets/img/products/large/roller-insomnia.jpg"
-price: 30
+price: 25
 weight: 90
 display_order: 12
 orderable: true
