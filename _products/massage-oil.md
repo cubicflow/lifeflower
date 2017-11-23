@@ -8,7 +8,7 @@ image-url: "/assets/img/products/gypsy-oil.jpg"
 image-large-url: "/assets/img/products/large/gypsy-oil.jpg"
 price: 40
 weight: 220
-display_order: 22
+display_order: 16
 cell_layout:
 orderable: true
 hidden: false

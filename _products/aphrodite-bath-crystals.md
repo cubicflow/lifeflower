@@ -8,11 +8,11 @@ image-url: "/assets/img/products/crystals--aphrodite.jpg"
 image-large-url: "/assets/img/products/large/crystals--aphrodite.jpg"
 price: 40
 weight: 300
-display_order: 19
+display_order: 18
 cell_layout: "small"
 orderable: true
 hidden: false
-new: false
+new: true
 
 long_description: Description coming soon.
 

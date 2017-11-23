@@ -1,15 +1,15 @@
 ---
-title: "“Four” Holiday Bundle"
+title: "“Three” Holiday Bundle"
 product-category: gift-bundle
 sitemap: true
-name: "“Four” Holiday Bundle"
-description: "Holiday Bundle Four"
-image-url: "/assets/img/products/holiday-bundle-2.jpg"
-image-large-url: "/assets/img/products/large/holiday-bundle-2.jpg"
+name: "“Three” Holiday Bundle"
+description: "Holiday Bundle Three"
+image-url: "/assets/img/products/holiday-bundle-1.jpg"
+image-large-url: "/assets/img/products/large/holiday-bundle-1.jpg"
 price: 15
 weight: 175
-display_order: 4
-cell_layout: "small"
+display_order: 3
+cell_layout:
 orderable: true
 hidden: false
 new: true

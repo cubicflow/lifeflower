@@ -8,7 +8,7 @@ image-url: "/assets/img/products/gypsy-oil-pump.jpg"
 image-large-url: "/assets/img/products/large/gypsy-oil-pump.jpg"
 price: 45
 weight: 220
-display_order: 21
+display_order: 15
 cell_layout:
 orderable: true
 hidden: false

@@ -8,7 +8,7 @@ image-url: "/assets/img/products/stick-cayenne.jpg"
 image-large-url: "/assets/img/products/large/stick-cayenne.jpg"
 price: 55
 weight: 100
-display_order: 13
+display_order: 11
 cell_layout:
 orderable: true
 hidden: false

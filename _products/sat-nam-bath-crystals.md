@@ -8,11 +8,11 @@ image-url: "/assets/img/products/crystals--satnam.jpg"
 image-large-url: "/assets/img/products/large/crystals--satnam.jpg"
 price: 40
 weight: 300
-display_order: 20
+display_order: 17
 cell_layout: "small"
 orderable: true
 hidden: false
-new: false
+new: true
 
 long_description: Description coming soon.
 

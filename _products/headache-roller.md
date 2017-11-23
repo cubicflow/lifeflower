@@ -8,7 +8,7 @@ image-url: "/assets/img/products/roller-headache.jpg"
 image-large-url: "/assets/img/products/large/roller-headache.jpg"
 price: 25
 weight: 90
-display_order: 16
+display_order: 12
 cell_layout:
 orderable: true
 hidden: false

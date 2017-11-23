@@ -26,6 +26,9 @@ collections:
   product-categories:
     output: true
     permalink: /shop/category/:title/
+  bundles:
+    output: true
+    permalink: /shop/bundles/:title/
 
 # FrontMatter defaults
 defaults:
@@ -44,6 +47,14 @@ defaults:
     values:
       layout: product
       is_product: true
+      _hide_content: true
+  -
+    scope:
+      path: ""
+      type: bundles
+    values:
+      layout: bundles
+      is_product_category: true
       _hide_content: true
 
 exclude:

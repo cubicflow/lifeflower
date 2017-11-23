@@ -1,7 +1,7 @@
 ---
-layout: product-category
+layout: bundles
 title: Gift Bundles
-name: gift-bundle
+name: bundles
 sitemap: true
 image-url: "/assets/img/category--gift-bundle.svg"
 display_order: 1

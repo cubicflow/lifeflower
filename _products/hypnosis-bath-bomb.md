@@ -8,7 +8,7 @@ image-url: "/assets/img/products/hypnosis.jpg"
 image-large-url: "/assets/img/products/large/hypnosis.jpg"
 price: 15
 weight: 175
-display_order: 9
+display_order: 5
 cell_layout: "small"
 orderable: true
 hidden: false
