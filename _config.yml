@@ -53,7 +53,7 @@ defaults:
       path: ""
       type: bundles
     values:
-      layout: bundles
+      layout: bundle
       is_product_category: true
       _hide_content: true
 

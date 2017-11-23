@@ -1,3 +1,48 @@
 // --------------------------------------------------
 // Shop Bundles
 // --------------------------------------------------
+
+.shop-bundles {
+
+  &__grid {
+
+  }
+}
+
+.bundle {
+
+  margin-bottom: 0px;
+  margin-top: 0px;
+
+  @include breakpoint(medium){
+    float: left;
+    width: 50%;
+  }
+
+  @include breakpoint(large){
+    width: 50%;
+  }
+
+  &__content {
+    position: relative;
+    top: 100%;
+    transform: translateY(-100%);
+  }
+
+  &__image {
+    width: auto;
+    height: auto;
+  }
+
+  &__label {
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    background-color: #000;
+    text-align: center;
+    padding-top: 8px;
+    height: 40px;
+    font-size: 90%;
+    color: #FFF;
+  }
+}
