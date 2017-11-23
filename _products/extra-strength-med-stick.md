@@ -8,7 +8,8 @@ image-url: "/assets/img/products/stick.jpg"
 image-large-url: "/assets/img/products/large/stick.jpg"
 price: 55
 weight: 100
-display_order: 10
+display_order: 14
+cell_layout:
 orderable: true
 hidden: false
 new: false

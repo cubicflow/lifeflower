@@ -8,7 +8,7 @@ image-url: "/assets/img/products/bubblebath.jpg"
 image-large-url: "/assets/img/products/large/bubblebath.jpg"
 price: 30
 weight: 300
-display_order: 18
+display_order:
 cell_layout: "small"
 orderable: true
 hidden: true

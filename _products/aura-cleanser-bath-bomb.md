@@ -8,7 +8,7 @@ image-url: "/assets/img/products/auracleanser.jpg"
 image-large-url: "/assets/img/products/large/auracleanser.jpg"
 price: 15
 weight: 175
-display_order: 5
+display_order: 10
 cell_layout: "small"
 orderable: true
 hidden: false

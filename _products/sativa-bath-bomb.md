@@ -8,7 +8,7 @@ image-url: "/assets/img/products/sativa.jpg"
 image-large-url: "/assets/img/products/large/sativa.jpg"
 price: 15
 weight: 175
-display_order: 7
+display_order: 12
 cell_layout: "small"
 orderable: true
 hidden: false

@@ -8,11 +8,11 @@ image-url: "/assets/img/products/crystalvision.jpg"
 image-large-url: "/assets/img/products/large/crystalvision.jpg"
 price: 15
 weight: 175
-display_order: 2
+display_order: 7
 cell_layout: "small"
 orderable: true
 hidden: false
-new: true
+new: false
 
 long_description: Named after Steve Nicks' famous "Dreams", this bomb is light and relaxing. Created with a blend of floral essential oils, a small smokey quartz, fresh chrysanthemum flowers, and lavender buds.
 

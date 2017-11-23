@@ -8,10 +8,11 @@ image-url: "/assets/img/products/stick-cayenne.jpg"
 image-large-url: "/assets/img/products/large/stick-cayenne.jpg"
 price: 55
 weight: 100
-display_order: 9
+display_order: 13
+cell_layout:
 orderable: true
 hidden: false
-new: true
+new: false
 
 long_description: All-organic ingredients sourced directly from nature to ease aches, pains, burns, and scars. Coconut oil and olive oil work by nourishing the skin while the anti-inflammatory properties of beeswax, shea butter, lavender and eucalyptus essential oils relieve the muscles.
 

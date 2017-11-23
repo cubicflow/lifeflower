@@ -8,7 +8,8 @@ image-url: "/assets/img/products/roller-anxiety.jpg"
 image-large-url: "/assets/img/products/large/roller-anxiety.jpg"
 price: 25
 weight: 90
-display_order: 13
+display_order: 18
+cell_layout:
 orderable: true
 hidden: false
 new: true

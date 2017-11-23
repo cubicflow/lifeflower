@@ -4,7 +4,7 @@ title: Bubble Bath
 name: bubble-bath
 sitemap: true
 image-url:
-display_order: 7
+display_order:
 hidden: true
 new: false
 ---

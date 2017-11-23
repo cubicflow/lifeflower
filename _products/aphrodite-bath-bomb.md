@@ -8,7 +8,7 @@ image-url: "/assets/img/products/aphrodite.jpg"
 image-large-url: "/assets/img/products/large/aphrodite.jpg"
 price: 15
 weight: 175
-display_order: 3
+display_order: 8
 cell_layout: "small"
 orderable: true
 hidden: false

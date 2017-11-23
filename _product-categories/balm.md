@@ -4,7 +4,7 @@ title: Relief Balm
 name: balm
 sitemap: true
 image-url: "/assets/img/category--balm.svg"
-display_order: 2
+display_order: 3
 hidden: false
 new: false
 ---
