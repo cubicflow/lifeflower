@@ -3,5 +3,45 @@ layout: default
 ---
 
 <main>
-  Hello World
+
+  <section class="product-detail">
+
+    <h1>{{page.name}}</h1>
+
+    <div class="product-detail__price product-detail__price--bundle">
+      ${{page.price}}
+    </div>
+
+    <div class="product-detail__image product-detail__image--bundle">
+      <img class="cf-responsive" src="{{page.image-large-url}}">
+    </div>
+
+    <a class="button__buy button__buy--item-page snipcart-add-item"
+    data-item-id="{{page.name | slugify}}"
+    data-item-name="{{page.name}}"
+    data-item-price="{{page.price}}"
+    data-item-url="{{page.url}}"
+    data-item-weight="{{page.weight}}"
+    data-item-description="{{page.description}}"
+    data-item-shipable="true"
+    >
+    Add to Cart
+    </a>
+
+    <div class="product-detail__description">
+      <p>{{page.long_description}}</p>
+
+      <div class="product-detail__ingredients">
+        <!-- <span>Ingredients</span> -->
+        <p>{{page.ingredients}}</p>
+      </div>
+
+      <div class="product-detail__notes">
+        <!-- <span>Notes</span> -->
+        <p>{{page.product-notes}}</p>
+      </div>
+    </div>
+
+  </section>
+
 </main>

@@ -142,6 +142,10 @@ main {
     @include breakpoint(medium) {
       font-size: 24px;
     }
+
+    &--bundle {
+      color: $black;
+    }
   }
 
   &__image {
@@ -155,6 +159,12 @@ main {
     @include breakpoint(medium) {
       margin-top: 80px;
       margin-bottom: 80px;
+    }
+
+    &--bundle {
+      max-width: 1024px;
+      margin-top: 0px;
+      margin-bottom: 0px;
     }
   }
 

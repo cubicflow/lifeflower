@@ -6,15 +6,16 @@ name: "“For Him”"
 description:
 image-url:
 image-large-url: "/assets/img/bundles/bundle-for-him.jpg"
-price: 15
-weight: 175
+price: 75
+weight: 575
 display_order: 2
 cell_layout:
 orderable: true
 hidden: false
 new: true
+background-color: "#CBD6C3"
 
-long_description: Description coming soon
+long_description: Can't think of what to get the guy in your life? We took the guess work out and formulated this package specifically based on what our male customers enjoy the most. Includes a Sativa bath bomb, Sat Nam Bath Crystals and the Extra Strength Med Stick. (Originally priced at $90)
 
 ingredients:
 

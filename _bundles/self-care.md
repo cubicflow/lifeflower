@@ -6,15 +6,16 @@ name: "“The Self Care Spa Set”"
 description:
 image-url:
 image-large-url: "/assets/img/bundles/bundle-self-care.jpg"
-price: 15
-weight: 175
+price: 115
+weight: 840
 display_order: 1
 cell_layout:
 orderable: true
 hidden: false
 new: true
+background-color: "#E4CFC6"
 
-long_description: Description coming soon
+long_description: Featuring our Aphrodite Bath Bomb, Bath Crystals, Relief Balm and our Gypsy Massage Oil. This is the ultimate relaxation kit, perfect for unwinding with during the busy holiday season. (Originally priced at $140)
 
 ingredients:
 

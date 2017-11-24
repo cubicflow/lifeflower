@@ -6,15 +6,16 @@ name: "“Relief Roller Series”"
 description:
 image-url:
 image-large-url: "/assets/img/bundles/bundle-roller.jpg"
-price: 15
-weight: 175
+price: 60
+weight: 270
 display_order: 3
 cell_layout:
 orderable: true
 hidden: false
 new: true
+background-color: "#C9DAD6"
 
-long_description: Description coming soon
+long_description: This set includes all three of our effective essential oil relief rollers. Infused sweet almond oil paired with different herbal blends that are proven to treat and relieve insomnia, headache and anxiety. Keep one and gift the rest or just keep them all as a present to yourself. The perfect stocking stuffers. (Originally priced at $75)
 
 ingredients:
 
