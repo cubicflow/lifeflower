@@ -1,8 +1,8 @@
 ---
-title: "“For Him”"
+title: "“For Him” Set"
 product-category: gift-bundle
 sitemap: true
-name: "“For Him”"
+name: "“For Him” Set"
 description:
 image-url:
 image-large-url: "/assets/img/bundles/bundle-for-him.jpg"

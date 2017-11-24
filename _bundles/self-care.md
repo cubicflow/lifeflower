@@ -1,8 +1,8 @@
 ---
-title: "“The Self Care Spa Set”"
+title: "“Self Care Spa” Set"
 product-category: gift-bundle
 sitemap: true
-name: "“The Self Care Spa Set”"
+name: "“Self Care Spa” Set"
 description:
 image-url:
 image-large-url: "/assets/img/bundles/bundle-self-care.jpg"

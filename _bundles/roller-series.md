@@ -1,8 +1,8 @@
 ---
-title: "“Relief Roller Series”"
+title: "“Relief Roller” Set"
 product-category: gift-bundle
 sitemap: true
-name: "“Relief Roller Series”"
+name: "“Relief Roller” Set"
 description:
 image-url:
 image-large-url: "/assets/img/bundles/bundle-roller.jpg"

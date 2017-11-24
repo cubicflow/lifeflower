@@ -1,8 +1,8 @@
 ---
-title: "“Most Wanted Set”"
+title: "“Most Wanted” Set"
 product-category: gift-bundle
 sitemap: true
-name: "“Most Wanted Set”"
+name: "“Most Wanted” Set"
 description:
 image-url:
 image-large-url: "/assets/img/bundles/bundle-most-wanted.jpg"

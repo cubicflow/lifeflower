@@ -24,15 +24,18 @@
 
 .bundle {
 
-  @include grid-column(12);
+  @include grid-column(12, 0);
   display: block;
   height: auto;
   position: relative;
-  margin-bottom: 10px;
+  margin-bottom: 6px;
 
   @include breakpoint(medium) {
-    @include grid-column(6, 4);
     margin-bottom: 4px;
+  }
+
+  @include breakpoint(large) {
+    @include grid-column(6, 4);
   }
 
   &__image {
@@ -43,12 +46,18 @@
   &__label {
     position: absolute;
     bottom: 0px;
+    left: 0px;
     width: 100%;
-    background-color: #000;
-    text-align: center;
     padding-top: 8px;
-    height: 40px;
-    font-size: 90%;
-    color: #FFF;
+    height: 50px;
+    color: $gray--dark;
+    font-family: 'TchigMono-Bold';
+    text-align: center;
+    font-size: 15px;
+
+    @include breakpoint(medium) {
+      height: 60px;
+    }
   }
+
 }
