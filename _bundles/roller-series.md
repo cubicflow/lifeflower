@@ -15,7 +15,7 @@ hidden: false
 new: true
 background-color: "#C9DAD6"
 
-long_description: This set includes all three of our effective essential oil relief rollers. Infused sweet almond oil paired with different herbal blends that are proven to treat and relieve insomnia, headache and anxiety. Keep one and gift the rest or just keep them all as a present to yourself. The perfect stocking stuffers. (Originally priced at $75)
+long_description: This set includes all three of our effective essential oil relief rollers. Infused sweet almond oil paired with different herbal blends that are proven to treat and relieve insomnia, headache and anxiety. Keep one and gift the rest or just keep them all as a present to yourself. The perfect stocking stuffers. Originally priced at $75, discounted to $60!
 
 ingredients:
 

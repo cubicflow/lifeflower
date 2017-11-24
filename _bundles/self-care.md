@@ -15,7 +15,7 @@ hidden: false
 new: true
 background-color: "#E4CFC6"
 
-long_description: Featuring our Aphrodite Bath Bomb, Bath Crystals, Relief Balm and our Gypsy Massage Oil. This is the ultimate relaxation kit, perfect for unwinding with during the busy holiday season. (Originally priced at $140)
+long_description: Featuring our Aphrodite Bath Bomb, Bath Crystals, Relief Balm and our Gypsy Massage Oil. This is the ultimate relaxation kit, perfect for unwinding with during the busy holiday season. Originally priced at $140, discounted to $115!
 
 ingredients:
 

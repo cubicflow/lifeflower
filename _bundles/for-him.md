@@ -15,7 +15,7 @@ hidden: false
 new: true
 background-color: "#CBD6C3"
 
-long_description: Can't think of what to get the guy in your life? We took the guess work out and formulated this package specifically based on what our male customers enjoy the most. Includes a Sativa bath bomb, Sat Nam Bath Crystals and the Extra Strength Med Stick. (Originally priced at $90)
+long_description: Can't think of what to get the guy in your life? We took the guess work out and formulated this package specifically based on what our male customers enjoy the most. Includes a Sativa bath bomb, Sat Nam Bath Crystals and the Extra Strength Med Stick. Originally priced at $90, discounted to $75!
 
 ingredients:
 
