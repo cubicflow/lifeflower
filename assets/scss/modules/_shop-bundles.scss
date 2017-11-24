@@ -32,7 +32,7 @@
 
   @include breakpoint(medium) {
     @include grid-column(6, 4);
-    margin-bottom: 5px;
+    margin-bottom: 4px;
   }
 
   &__image {

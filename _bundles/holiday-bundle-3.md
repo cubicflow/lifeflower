@@ -1,11 +1,11 @@
 ---
-title: "“Three” Holiday Bundle"
+title: "“Relief Roller Series”"
 product-category: gift-bundle
 sitemap: true
-name: "“Three” Holiday Bundle"
-description: "Holiday Bundle Three"
-image-url: "/assets/img/products/holiday-bundle-1.jpg"
-image-large-url: "/assets/img/products/large/holiday-bundle-1.jpg"
+name: "“Relief Roller Series”"
+description:
+image-url:
+image-large-url: "/assets/img/bundles/bundle-roller.jpg"
 price: 15
 weight: 175
 display_order: 3

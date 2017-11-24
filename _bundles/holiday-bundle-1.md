@@ -1,11 +1,11 @@
 ---
-title: "“One” Holiday Bundle"
+title: "“The Self Care Spa Set”"
 product-category: gift-bundle
 sitemap: true
-name: "“One” Holiday Bundle"
-description: "Holiday Bundle One"
-image-url: "/assets/img/products/holiday-bundle-1.jpg"
-image-large-url: "/assets/img/products/large/holiday-bundle-1.jpg"
+name: "“The Self Care Spa Set”"
+description:
+image-url:
+image-large-url: "/assets/img/bundles/bundle-self-care.jpg"
 price: 15
 weight: 175
 display_order: 1
