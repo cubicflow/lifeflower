@@ -2,31 +2,37 @@
 // Shop Bundles
 // --------------------------------------------------
 
+.bundles {
+  position: relative;
+  width: 100%;
+  max-width: 1440px;
+  margin: 0px auto;
+
+  @include breakpoint(medium){
+    width: 100%;
+  }
+}
+
 .shop-bundles {
 
   &__grid {
-
+    @include grid-row();
+    max-width: none;
+    overflow: hidden;
   }
 }
 
 .bundle {
 
-  margin-bottom: 0px;
-  margin-top: 0px;
+  @include grid-column(12);
+  display: block;
+  height: auto;
+  position: relative;
+  margin-bottom: 10px;
 
-  @include breakpoint(medium){
-    float: left;
-    width: 50%;
-  }
-
-  @include breakpoint(large){
-    width: 50%;
-  }
-
-  &__content {
-    position: relative;
-    top: 100%;
-    transform: translateY(-100%);
+  @include breakpoint(medium) {
+    @include grid-column(6, 4);
+    margin-bottom: 5px;
   }
 
   &__image {
