@@ -12,7 +12,8 @@ display_order: 12
 cell_layout:
 orderable: true
 hidden: false
-new: true
+new: false
+is_crystal: false
 
 long_description: Beat your next headache the natural way, pill-free with a blend of nature's many solutions. 1:1 lab tested THC/CBD infused Sweet Almond oil is paired with healing essential oils that have been proven over and over to kick headaches and migraines- Infused with corresponding organic herbs to provide extra minerals, nutrients and healing benefits. Includes a cleansed and charged quartz crystal chip to amplify it all.
 

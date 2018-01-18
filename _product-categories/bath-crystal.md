@@ -6,5 +6,5 @@ sitemap: true
 image-url: "/assets/img/category--bath-crystal.svg"
 display_order: 7
 hidden: false
-new: true
+new: false
 ---

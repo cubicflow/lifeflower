@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="117" viewBox="0 0 120 117">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="120" height="180"/>
+    <g transform="translate(45 45)">
+      <polygon fill="#EAF2E9" fill-opacity=".4" points="7.031 0 0 32.422 17.896 55.709 29.337 34.446 23.231 10.231 15.841 3.022"/>
+      <polygon stroke="#A4BA92" stroke-linecap="round" stroke-linejoin="round" points="7.031 0 0 32.422 14.896 55.709 29.337 34.446 23.231 10.231 15.841 3.022"/>
+      <polyline stroke="#A4BA92" stroke-linejoin="bevel" points="11.36 9.102 8 37.026 14.971 55.37"/>
+      <polyline stroke="#A4BA92" stroke-linejoin="bevel" points="7.453 .209 11.273 9.158 18.082 12.554 23.642 10.534"/>
+      <polyline stroke="#A4BA92" stroke-linejoin="bevel" points="17.984 12.409 18.68 37.449 14.984 55.109"/>
+      <polyline stroke="#A4BA92" stroke-linejoin="bevel" points=".064 32.42 8.055 37.068 18.931 37.38 29.394 34.496"/>
+    </g>
+  </g>
+</svg>

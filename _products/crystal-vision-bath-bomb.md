@@ -13,6 +13,7 @@ cell_layout: "small"
 orderable: true
 hidden: false
 new: false
+is_crystal: false
 
 long_description: Named after Steve Nicks' famous "Dreams", this bomb is light and relaxing. Created with a blend of floral essential oils, a small smokey quartz, fresh chrysanthemum flowers, and lavender buds.
 

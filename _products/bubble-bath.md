@@ -13,6 +13,7 @@ cell_layout: "small"
 orderable: true
 hidden: true
 new: false
+is_crystal: false
 
 long_description: Description coming soon.
 

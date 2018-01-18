@@ -63,6 +63,16 @@
   text-align: center;
   margin: 0px auto;
   margin-top: 8px;
+
+  &--dark {
+    background-color: $gray--dark;
+    color: $white;
+  }
+
+  &--banner {
+    margin: 0px;
+    display: inline-block;
+  }
 }
 
 .category-new-spacer {

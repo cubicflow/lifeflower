@@ -13,6 +13,7 @@ cell_layout: "small"
 orderable: true
 hidden: false
 new: false
+is_crystal: false
 
 long_description: The Aphrodite bath bomb is Handcrafted with all-natural aphrodisiac essential oils, making it the perfect couple or self love treat. Made with organic, lab-tested plant extract to ensure optimal pain relief and relaxation. Includes a cleansed, charged rose quartz stone to enhance positive and pure energies of deep love. Topped with rose buds and hibiscus petals.   
 

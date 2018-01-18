@@ -12,7 +12,8 @@ display_order: 17
 cell_layout: "small"
 orderable: true
 hidden: false
-new: true
+new: false
+is_crystal: false
 
 long_description: Handcrafted with a blend of invigorating therapeutic grade essential oils, Hawaiian black lava salt, epsom salt and sea salt. These bath crystals are the perfect detoxifying self care treat. Activated charcoal pulls toxins and debris from our pores while CBD-infused sweet almond oil relaxes sore, tired muscles and nourishes dry, chapped skin.
 

@@ -12,7 +12,8 @@ display_order: 14
 cell_layout:
 orderable: true
 hidden: false
-new: true
+new: false
+is_crystal: false
 
 long_description: Have you ever gone to start a busy day only to be stopped in your tracks by overthinking, paranoia or a nervous mind? We have the perfect all natural solution to those pesky shakes and jitters! Relieve anxiety the way nature intended with this amazing smelling medicated essential oil roll-on. Handcrafted with a soothing, infused blend of essential oils, corresponding organic herbs as well as a quartz crystal chip to amplify it all. Handcrafted in small batches with love and care.
 

@@ -13,6 +13,7 @@ cell_layout:
 orderable: true
 hidden: false
 new: false
+is_crystal: false
 
 long_description: All-organic ingredients sourced directly from nature to ease aches, pains, burns, and scars. Coconut oil and olive oil work by nourishing the skin while the anti-inflammatory properties of beeswax, shea butter, lavender and eucalyptus essential oils relieve the muscles.
 
