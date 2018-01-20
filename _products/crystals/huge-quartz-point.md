@@ -4,8 +4,8 @@ product-category: crystals
 sitemap: true
 name: "Huge Quartz Point"
 description: "3lb 7oz"
-image-url: "/assets/img/products/crystals--herbal-bliss.jpg"
-image-large-url: "/assets/img/products/large/crystals--herbal-bliss.jpg"
+image-url: "/assets/img/products/crystals/huge-quartz-point.jpg"
+image-large-url: "/assets/img/products/crystals/large/huge-quartz-point.jpg"
 price: 100
 weight: 1676
 display_order: 106

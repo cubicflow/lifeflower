@@ -4,8 +4,8 @@ product-category: crystals
 sitemap: true
 name: "Amethyst Slab"
 description: "2lb 9oz"
-image-url: "/assets/img/products/crystals--herbal-bliss.jpg"
-image-large-url: "/assets/img/products/large/crystals--herbal-bliss.jpg"
+image-url: "/assets/img/products/crystals/amethyst-slab.jpg"
+image-large-url: "/assets/img/products/crystals/large/amethyst-slab.jpg"
 price: 100
 weight: 1314
 display_order: 102

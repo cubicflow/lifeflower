@@ -4,8 +4,8 @@ product-category: crystals
 sitemap: true
 name: "Rose Quartz Crystal Ball"
 description: "1lb 8oz"
-image-url: "/assets/img/products/crystals--herbal-bliss.jpg"
-image-large-url: "/assets/img/products/large/crystals--herbal-bliss.jpg"
+image-url: "/assets/img/products/crystals/rose-quartz-ball.jpg"
+image-large-url: "/assets/img/products/crystals/large/rose-quartz-ball.jpg"
 price: 40
 weight: 675
 display_order: 108

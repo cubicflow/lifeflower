@@ -4,8 +4,8 @@ product-category: crystals
 sitemap: true
 name: "Agate Stand"
 description: "1lb 14oz"
-image-url: "/assets/img/products/crystals--herbal-bliss.jpg"
-image-large-url: "/assets/img/products/large/crystals--herbal-bliss.jpg"
+image-url: "/assets/img/products/crystals/agate-stand.jpg"
+image-large-url: "/assets/img/products/crystals/large/agate-stand.jpg"
 price: 20
 weight: 851
 display_order: 113

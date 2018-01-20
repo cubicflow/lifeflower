@@ -4,8 +4,8 @@ product-category: crystals
 sitemap: true
 name: "Huge Pink Halite Chunk (2)"
 description: "2lb 14oz"
-image-url: "/assets/img/products/crystals--herbal-bliss.jpg"
-image-large-url: "/assets/img/products/large/crystals--herbal-bliss.jpg"
+image-url: "/assets/img/products/crystals/huge-pink-halite-2.jpg"
+image-large-url: "/assets/img/products/crystals/large/huge-pink-halite-2.jpg"
 price: 80
 weight: 1305
 display_order: 119

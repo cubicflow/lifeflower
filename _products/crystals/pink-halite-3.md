@@ -4,8 +4,8 @@ product-category: crystals
 sitemap: true
 name: "Pink Halite Chunk (3)"
 description: "3oz"
-image-url: "/assets/img/products/crystals--herbal-bliss.jpg"
-image-large-url: "/assets/img/products/large/crystals--herbal-bliss.jpg"
+image-url: "/assets/img/products/crystals/pink-halite-3.jpg"
+image-large-url: "/assets/img/products/crystals/large/pink-halite-3.jpg"
 price: 7
 weight: 86
 display_order: 118

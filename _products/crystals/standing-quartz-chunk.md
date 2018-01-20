@@ -4,8 +4,8 @@ product-category: crystals
 sitemap: true
 name: "Massive Standing Quartz Chunk"
 description: "Test"
-image-url: "/assets/img/products/crystals--herbal-bliss.jpg"
-image-large-url: "/assets/img/products/large/crystals--herbal-bliss.jpg"
+image-url: "/assets/img/products/crystals/standing-quartz-chunk.jpg"
+image-large-url: "/assets/img/products/crystals/large/standing-quartz-chunk.jpg"
 price: 120
 weight: 300
 display_order: 112
