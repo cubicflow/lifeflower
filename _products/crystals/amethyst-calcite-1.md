@@ -2,7 +2,7 @@
 title: "Amethyst w/ Calcite Growth"
 product-category: crystals
 sitemap: true
-name: "Amethyst w/ Calcite Growth"
+name: "Amethyst w/ Calcite Growth (1)"
 description: "Test"
 image-url: "/assets/img/products/crystals--herbal-bliss.jpg"
 image-large-url: "/assets/img/products/large/crystals--herbal-bliss.jpg"

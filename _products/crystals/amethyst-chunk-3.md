@@ -2,26 +2,26 @@
 title: "Amethyst Chunk"
 product-category: crystals
 sitemap: true
-name: "Amethyst Chunk"
-description: "Test"
+name: "Amethyst Chunk (3)"
+description: "1lb. 1oz."
 image-url: "/assets/img/products/crystals--herbal-bliss.jpg"
 image-large-url: "/assets/img/products/large/crystals--herbal-bliss.jpg"
-price: 40
-weight: 300
-display_order: 100
+price: 20
+weight: 482
+display_order: 114
 cell_layout: "small"
 orderable: true
 hidden: false
 new: false
 is_crystal: true
 
-long_description: The perfect before bed treat to add to your self care routine, infused with both Lavender and Eucalyptus essential oils to ensure a peaceful nights sleep. Lavender has been a natural sedative for thousands of years while Eucalyptus opens the airways and improves deep breathing. Our Herbal Bliss Bath Crystals are handcrafted with Pink Himalayan Sea Salt, Epsom Salt and Sea salt, Sweet Almond oil and a bright array of organic herbs. Crystal infused with a Rose Quartz crystal to enhance/amplify the healing vibrations of your bath.
+long_description: Beautiful deep purple points and intricate growth lines. Features hidden rainbows and airy phantoms in the points as well as iron oxide growth.
 
 ingredients:
 
 product-notes:
 
-history: Clear Quartz crystals are said to be supreme gift of Mother Earth. Since it can be found on every continent of the earth, many cultures had different uses and beliefs behind this powerful crystal. Indigenous North American cultures thought of the stone as a sentient being, and would gift it offerings as a sign of respect. To cultures in Central and South America, the quartz meaning was that of a vessel, they believed that the spirits of their ancestors were held in clear quartz.
+history: Throughout history the special virtue of Amethyst has been that of preventing drunkenness and overindulgence. Ancient Greeks and Romans routinely studded their goblets with Amethyst believing wine drunk from an Amethyst cup was powerless to intoxicate, and a stone worn on the body, especially at the navel, had a sobering effect, not only for inebriation but in over-zealousness in passion. Catholic bishops also wore Amethyst in a ring to protect from mystical intoxication. Kissing the ring kept others from similar mystical intoxication and kept them grounded in spiritual thought.
 
-healing-properties: Clear Quartz encourages clarity of thought and purpose to one’s heart and mind. It works on all levels of the energetic and physical bodies and resonates with all chakras. Clear Quartz will amplify any energy with which it moves into resonance, including other stones, constantly broadcasting that energy into the Earths electromagnetic field. This makes Clear Quartz an excellent stone to use for programming, manifesting/meditation.
+healing-properties: Amethyst is a powerful healing and protection stone. It is the February birthstone and is associated to the crown chakra, providing protection against psychic attack, enhancing psychic abilities, calming and stimulating the mind, and nourishing the spirit. For this reason amethyst has been historically used as a remedy for nightmares and insomnia, as well as to aid meditative focus.
 ---

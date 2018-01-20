@@ -1,21 +1,21 @@
 ---
-title: "“Test” Crystal"
+title: "Massive Standing Quartz Chunk"
 product-category: crystals
 sitemap: true
-name: "“Test” Crystal"
+name: "Massive Standing Quartz Chunk"
 description: "Test"
 image-url: "/assets/img/products/crystals--herbal-bliss.jpg"
 image-large-url: "/assets/img/products/large/crystals--herbal-bliss.jpg"
-price: 40
+price: 120
 weight: 300
-display_order: 100
+display_order: 112
 cell_layout: "small"
 orderable: true
 hidden: false
 new: false
 is_crystal: true
 
-long_description: The perfect before bed treat to add to your self care routine, infused with both Lavender and Eucalyptus essential oils to ensure a peaceful nights sleep. Lavender has been a natural sedative for thousands of years while Eucalyptus opens the airways and improves deep breathing. Our Herbal Bliss Bath Crystals are handcrafted with Pink Himalayan Sea Salt, Epsom Salt and Sea salt, Sweet Almond oil and a bright array of organic herbs. Crystal infused with a Rose Quartz crystal to enhance/amplify the healing vibrations of your bath.
+long_description: This guy is massive! Stands by itself perfectly so it would be a perfect shelf piece. Featuring interesting growth lines, beautiful hidden rainbows and iron oxide. 
 
 ingredients:
 
