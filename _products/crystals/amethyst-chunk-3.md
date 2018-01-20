@@ -6,7 +6,7 @@ name: "Amethyst Chunk #3"
 description: "1lb 1oz"
 image-url: "/assets/img/products/crystals/amethyst-chunk-3.jpg"
 image-large-url: "/assets/img/products/crystals/large/amethyst-chunk-3.jpg"
-price: 20
+price: 23
 weight: 482
 display_order: 114
 cell_layout: "small"

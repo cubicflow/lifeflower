@@ -6,7 +6,7 @@ name: "Huge Pink Halite Chunk #1"
 description: "3lb 15oz"
 image-url: "/assets/img/products/crystals/huge-pink-halite-1.jpg"
 image-large-url: "/assets/img/products/crystals/large/huge-pink-halite-1.jpg"
-price: 90
+price: 100
 weight: 1786
 display_order: 104
 cell_layout: "small"
