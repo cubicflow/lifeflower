@@ -2,7 +2,7 @@
 title: "Amethyst w/ Calcite Growth"
 product-category: crystals
 sitemap: true
-name: "Amethyst w/ Calcite Growth (2)"
+name: "Amethyst w/ Calcite Growth #2"
 description: "15oz"
 image-url: "/assets/img/products/crystals/amethyst-calcite-2.jpg"
 image-large-url: "/assets/img/products/crystals/large/amethyst-calcite-2.jpg"

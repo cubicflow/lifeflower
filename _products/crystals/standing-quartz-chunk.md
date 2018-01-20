@@ -11,7 +11,7 @@ weight: 300
 display_order: 112
 cell_layout: "small"
 orderable: true
-hidden: false
+hidden: true
 new: false
 is_crystal: true
 

@@ -2,7 +2,7 @@
 title: "Amethyst Chunk"
 product-category: crystals
 sitemap: true
-name: "Amethyst Chunk (3)"
+name: "Amethyst Chunk #3"
 description: "1lb 1oz"
 image-url: "/assets/img/products/crystals/amethyst-chunk-3.jpg"
 image-large-url: "/assets/img/products/crystals/large/amethyst-chunk-3.jpg"

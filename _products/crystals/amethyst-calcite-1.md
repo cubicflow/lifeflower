@@ -2,7 +2,7 @@
 title: "Amethyst w/ Calcite Growth"
 product-category: crystals
 sitemap: true
-name: "Amethyst w/ Calcite Growth (1)"
+name: "Amethyst w/ Calcite Growth #1"
 description: "Test"
 image-url: "/assets/img/products/crystals/amethyst-calcite-1.jpg"
 image-large-url: "/assets/img/products/crystals/large/amethyst-calcite-1.jpg"
@@ -11,7 +11,7 @@ weight: 300
 display_order: 107
 cell_layout: "small"
 orderable: true
-hidden: false
+hidden: true
 new: false
 is_crystal: true
 

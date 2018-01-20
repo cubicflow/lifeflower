@@ -2,7 +2,7 @@
 title: "Pink Halite Chunk"
 product-category: crystals
 sitemap: true
-name: "Pink Halite Chunk (4)"
+name: "Pink Halite Chunk #4"
 description: "3.5oz"
 image-url: "/assets/img/products/crystals/pink-halite-4.jpg"
 image-large-url: "/assets/img/products/crystals/large/pink-halite-4.jpg"

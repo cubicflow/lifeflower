@@ -2,7 +2,7 @@
 title: "Huge Pink Halite Chunk"
 product-category: crystals
 sitemap: true
-name: "Huge Pink Halite Chunk (2)"
+name: "Huge Pink Halite Chunk #2"
 description: "2lb 14oz"
 image-url: "/assets/img/products/crystals/huge-pink-halite-2.jpg"
 image-large-url: "/assets/img/products/crystals/large/huge-pink-halite-2.jpg"
