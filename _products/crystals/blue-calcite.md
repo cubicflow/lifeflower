@@ -3,7 +3,7 @@ title: "Blue Calcite"
 product-category: crystals
 sitemap: true
 name: "Blue Calcite"
-description: "1lb. 13oz."
+description: "1lb 13oz"
 image-url: "/assets/img/products/crystals--herbal-bliss.jpg"
 image-large-url: "/assets/img/products/large/crystals--herbal-bliss.jpg"
 price: 30

@@ -3,7 +3,7 @@ title: "Quartz Cluster"
 product-category: crystals
 sitemap: true
 name: "Quartz Cluster"
-description: "1lb. 3oz."
+description: "1lb 3oz"
 image-url: "/assets/img/products/crystals--herbal-bliss.jpg"
 image-large-url: "/assets/img/products/large/crystals--herbal-bliss.jpg"
 price: 20

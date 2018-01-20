@@ -3,7 +3,7 @@ title: "Amethyst Chunk"
 product-category: crystals
 sitemap: true
 name: "Amethyst Chunk (4)"
-description: "Test"
+description: "1lb 1oz"
 image-url: "/assets/img/products/crystals--herbal-bliss.jpg"
 image-large-url: "/assets/img/products/large/crystals--herbal-bliss.jpg"
 price: 20
@@ -15,7 +15,7 @@ hidden: false
 new: false
 is_crystal: true
 
-long_description: The perfect before bed treat to add to your self care routine, infused with both Lavender and Eucalyptus essential oils to ensure a peaceful nights sleep. Lavender has been a natural sedative for thousands of years while Eucalyptus opens the airways and improves deep breathing. Our Herbal Bliss Bath Crystals are handcrafted with Pink Himalayan Sea Salt, Epsom Salt and Sea salt, Sweet Almond oil and a bright array of organic herbs. Crystal infused with a Rose Quartz crystal to enhance/amplify the healing vibrations of your bath.
+long_description: Beautiful deep purple points and intricate growth lines. Features hidden rainbows and airy phantoms in the points as well as iron oxide growth. 
 
 ingredients:
 

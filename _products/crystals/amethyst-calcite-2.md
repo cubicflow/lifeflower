@@ -3,7 +3,7 @@ title: "Amethyst w/ Calcite Growth"
 product-category: crystals
 sitemap: true
 name: "Amethyst w/ Calcite Growth (2)"
-description: "15oz."
+description: "15oz"
 image-url: "/assets/img/products/crystals--herbal-bliss.jpg"
 image-large-url: "/assets/img/products/large/crystals--herbal-bliss.jpg"
 price: 15

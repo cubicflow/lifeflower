@@ -1,5 +1,5 @@
 ---
-layout: product-category
+layout: product-category-crystals
 title: Crystal Shoppe
 name: crystals
 sitemap: true

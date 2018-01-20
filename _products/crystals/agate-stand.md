@@ -3,7 +3,7 @@ title: "Agate Stand"
 product-category: crystals
 sitemap: true
 name: "Agate Stand"
-description: "1lb. 14oz."
+description: "1lb 14oz"
 image-url: "/assets/img/products/crystals--herbal-bliss.jpg"
 image-large-url: "/assets/img/products/large/crystals--herbal-bliss.jpg"
 price: 20

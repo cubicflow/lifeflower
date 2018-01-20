@@ -3,10 +3,10 @@ title: "Amethyst Chunk"
 product-category: crystals
 sitemap: true
 name: "Amethyst Chunk (2)"
-description: "1lb. 9oz."
+description: "1lb 9oz"
 image-url: "/assets/img/products/crystals--herbal-bliss.jpg"
 image-large-url: "/assets/img/products/large/crystals--herbal-bliss.jpg"
-price: 40
+price: 25
 weight: 709
 display_order: 110
 cell_layout: "small"

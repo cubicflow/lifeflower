@@ -3,7 +3,7 @@ title: "Huge Pink Halite Chunk"
 product-category: crystals
 sitemap: true
 name: "Huge Pink Halite Chunk (1)"
-description: "3lb. 15oz."
+description: "3lb 15oz"
 image-url: "/assets/img/products/crystals--herbal-bliss.jpg"
 image-large-url: "/assets/img/products/large/crystals--herbal-bliss.jpg"
 price: 90
