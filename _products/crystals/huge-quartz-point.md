@@ -17,9 +17,9 @@ is_crystal: true
 
 long_description: This huge point is truly stunning. With a natural 6 sided point, it has different intricate phantoms and beautiful rainbows in each panel. It boasts amazing clarity and insane growth lines all the way up the point. Perfect shelf piece/centre piece and amazing value.
 
-ingredients:
+ingredients: blank
 
-product-notes:
+product-notes: blank
 
 history: Clear Quartz crystals are said to be supreme gift of Mother Earth. Since it can be found on every continent of the earth, many cultures had different uses and beliefs behind this powerful crystal. Indigenous North American cultures thought of the stone as a sentient being, and would gift it offerings as a sign of respect. To cultures in Central and South America, the quartz meaning was that of a vessel, they believed that the spirits of their ancestors were held in clear quartz.
 

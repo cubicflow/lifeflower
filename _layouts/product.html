@@ -31,15 +31,38 @@ layout: default
     <div class="product-detail__description">
       <p>{{page.long_description}}</p>
 
+      {% if page.ingredients == "blank" %}
+      {% else %}
       <div class="product-detail__ingredients">
-        <!-- <span>Ingredients</span> -->
+        <span>Ingredients</span>
         <p>{{page.ingredients}}</p>
       </div>
+      {% endif %}
 
+      {% if page.history == "blank" %}
+      {% else %}
+      <div class="product-detail__ingredients">
+        <span>History</span>
+        <p>{{page.history}}</p>
+      </div>
+      {% endif %}
+
+      {% if page.healing-properties == "blank" %}
+      {% else %}
+      <div class="product-detail__ingredients">
+        <span>Healing Properties</span>
+        <p>{{page.healing-properties}}</p>
+      </div>
+      {% endif %}
+
+      {% if page.product-notes == "blank" %}
+      {% else %}
       <div class="product-detail__notes">
-        <!-- <span>Notes</span> -->
+        <span>Notes</span>
         <p>{{page.product-notes}}</p>
       </div>
+      {% endif %}
+
     </div>
 
   </section>

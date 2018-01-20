@@ -17,9 +17,9 @@ is_crystal: true
 
 long_description: Pictures just do not do this baby justice. A beautiful, Quartz cluster with airy phantoms in the bigger points while the smaller side points boast intricate growth lines.
 
-ingredients:
+ingredients: blank
 
-product-notes:
+product-notes: blank
 
 history: Clear Quartz crystals are said to be supreme gift of Mother Earth. Since it can be found on every continent of the earth, many cultures had different uses and beliefs behind this powerful crystal. Indigenous North American cultures thought of the stone as a sentient being, and would gift it offerings as a sign of respect. To cultures in Central and South America, the quartz meaning was that of a vessel, they believed that the spirits of their ancestors were held in clear quartz.
 

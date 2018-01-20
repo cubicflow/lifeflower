@@ -17,7 +17,7 @@ is_crystal: false
 
 long_description: Have you ever gone to start a busy day only to be stopped in your tracks by overthinking, paranoia or a nervous mind? We have the perfect all natural solution to those pesky shakes and jitters! Relieve anxiety the way nature intended with this amazing smelling medicated essential oil roll-on. Handcrafted with a soothing, infused blend of essential oils, corresponding organic herbs as well as a quartz crystal chip to amplify it all. Handcrafted in small batches with love and care.
 
-ingredients:
+ingredients: blank
 
 product-notes: Life Flower products are made in small batches with all-natural and boutique ingredients. Most orders are processed within 3 days of being placed.
 ---

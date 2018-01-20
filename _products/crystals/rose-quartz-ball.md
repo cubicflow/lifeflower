@@ -17,9 +17,9 @@ is_crystal: true
 
 long_description: A beautiful Rose Quartz crystal ball and detailed stand. This piece was so hard to let go of! Boasting a gentle, baby pink essence and unique detail. Each view of this crystal ball is different and with the help of some sunlight, you will find countless rainbows. This particular specimen carries a high vibration of comfort and love that you can feel as soon as you pick it up.
 
-ingredients:
+ingredients: blank
 
-product-notes:
+product-notes: blank
 
 history: Prized in the ancient world for its powers of physical beautification, facial masks of Rose Quartz have been recovered from Egyptian tombs, thought by the Egyptians and Romans to clear the complexion and prevent wrinkles. It was also a stone honoured by the Tibetan and Oriental cultures, and continues to be one of the major carving stones of China.
 

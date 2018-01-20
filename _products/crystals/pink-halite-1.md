@@ -17,11 +17,11 @@ is_crystal: true
 
 long_description: This Halite was mined locally (and ethically!) in Torna, CA. Impressive Hopper growth patterns form interesting little cubes all over the piece that are both eye-catching and mind blowing. Starting with a deep pink color at the bottom fading into baby pink and eventually white at the top, this piece is perfect for any part of the home.
 
-ingredients:
+ingredients: blank
 
 product-notes: This is an extremely fragile specimen, we will do my best to package it as safely as possible but please be aware some little pieces may break off in transit.
 
-history:
+history: blank
 
 healing-properties: Halite is a rock salt known for it’s cleansing and purifying properties, it aids in clarifying energy blocks and balancing energy fields. This makes it perfect for cleansing your other crystals! Similar to Selenite, you can rest your other crystals on it to remove unwanted/negative energies. In meditation, Pink Halite connects to the heart and solar plexus chakras allowing a self-loving awareness which aids in the release of emotional issues and attachments.
 ---

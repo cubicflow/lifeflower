@@ -17,9 +17,9 @@ is_crystal: true
 
 long_description: This is an insanely beautiful specimen. A beautiful amethyst cluster with calcite and hematite growth. Two hidden rainbows can be found beside the calcite and on top of the calcite. This amethyst is sure to be a beautiful, eye-catching piece anywhere you put it.
 
-ingredients:
+ingredients: blank
 
-product-notes:
+product-notes: blank
 
 history: The name Amethyst derives from the Greek word ametusthos, meaning “not intoxicated,” and comes from an ancient legend. The wine god Bacchus, angry over an insult and determined to avenge himself decreed the first person he should meet would be devoured by his tigers. The unfortunate mortal happened to be a beautiful maiden named Amethyst on her way to worship at the shrine of Diana. As the ferocious beasts sprang, she sought the protection of the goddess and was saved by being turned into a clear, white crystal. Bacchus, regretting his cruelty, poured the juice of his grapes over the stone as an offering, giving the gem its lovely purple hue.
 

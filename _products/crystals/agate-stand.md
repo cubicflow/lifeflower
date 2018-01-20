@@ -17,11 +17,11 @@ is_crystal: true
 
 long_description: Simple and elegant agate stand with a beautiful pattern and color.
 
-ingredients:
+ingredients: blank
 
-product-notes:
+product-notes: blank
 
-history:
+history: blank
 
-healing-properties:
+healing-properties: blank
 ---

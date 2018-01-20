@@ -17,11 +17,11 @@ is_crystal: true
 
 long_description: A huge chunk of milky blue calcite with crazy growth lines and beautiful hidden rainbows.
 
-ingredients:
+ingredients: blank
 
-product-notes:
+product-notes: blank
 
-history:
+history: blank
 
 healing-properties: Blue calcite stones are stones of healing, recovery, communication, and even the development of psychic or paranormal powers. Known to soothe frayed nerves and lessen tension, they are a great stone to carry if you deal with anxiety. Also known as a communication stone which can be used in meditation with your throat chakra to promote calm, open, clear communication especially among differing or opposing points of view. 
 ---

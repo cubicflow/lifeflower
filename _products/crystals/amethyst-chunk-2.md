@@ -17,9 +17,9 @@ is_crystal: true
 
 long_description: Self-healed amethyst with iron oxide growing on the side and in little brown spots in the tips. Amazing growth lines on each point with hidden rainbows. Every point is amazingly unique.
 
-ingredients:
+ingredients: blank
 
-product-notes:
+product-notes: blank
 
 history: Throughout history the special virtue of Amethyst has been that of preventing drunkenness and overindulgence. Ancient Greeks and Romans routinely studded their goblets with Amethyst believing wine drunk from an Amethyst cup was powerless to intoxicate, and a stone worn on the body, especially at the navel, had a sobering effect, not only for inebriation but in over-zealousness in passion. Catholic bishops also wore Amethyst in a ring to protect from mystical intoxication. Kissing the ring kept others from similar mystical intoxication and kept them grounded in spiritual thought.
 
