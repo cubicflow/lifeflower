@@ -8,11 +8,11 @@ image-url:
 image-large-url: "/assets/img/bundles/bundle-self-care.jpg"
 price: 115
 weight: 840
-display_order: 1
+display_order: 3
 cell_layout:
 orderable: true
 hidden: false
-new: true
+new: false
 background-color: "#E4CFC6"
 
 long_description: Featuring our Aphrodite Bath Bomb, Bath Crystals, Relief Balm and our Gypsy Massage Oil. This is the ultimate relaxation kit, perfect for unwinding with during the busy holiday season. Originally priced at $140, discounted to $115!
