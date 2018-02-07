@@ -17,7 +17,7 @@ is_crystal: false
 
 long_description: This limited edition bath bomb is available just in time for Valentines Day. Handcrafted with organic, nourishing coconut oil, aphrodisiacal therapeutic-grade essential oils, organic rose buds and a cleansed and charged Rose Quartz - the stone of unconditional love. Whether sharing with a loved one or enjoying by yourself this bomb is the perfect self-care pick me up.
 
-ingredients: Sodium Bicarbonate, Epsom Salt, Citric Acid, Corn Starch, Organic Coconut Oil, Aphrodisiacal Blend of Therapeutic-Grade Essential Oils, Organic Rose buds, Cleansed & Charged Rose Quartz.
+ingredients: Organic Hemp Oil, Mugwort-infused Safflower Oil, Carnauba Wax, Fennel Oil, Elderberry Extract, Raspberry Leaf Extract, Arnica Oil, Geranium + Lavender + Clary Sage Essential Oils, Cleansed & Charged Rose Quartz.
 
 product-notes: Life Flower products are made in small batches with all-natural and boutique ingredients. Most orders are processed within 3 days of being placed.
 
