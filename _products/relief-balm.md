@@ -20,4 +20,8 @@ long_description: All-organic ingredients sourced directly from nature to ease a
 ingredients: blank
 
 product-notes: Life Flower products are made in small batches with all-natural and boutique ingredients. Most orders are processed within 3 days of being placed.
+
+history: blank
+
+healing-properties: blank
 ---

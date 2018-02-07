@@ -20,4 +20,8 @@ long_description: The Limonene bath bomb was created to uplift and stimulate the
 ingredients: blank
 
 product-notes: Life Flower products are made in small batches with all-natural and boutique ingredients. Most orders are processed within 3 days of being placed.
+
+history: blank
+
+healing-properties: blank
 ---

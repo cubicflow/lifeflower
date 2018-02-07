@@ -6,7 +6,7 @@ name: "“Goddess” Relief Balm"
 description: "2.0oz"
 image-url: "/assets/img/products/balm-goddess.jpg"
 image-large-url: "/assets/img/products/large/balm-goddess.jpg"
-price: 45
+price: 40
 weight: 145
 display_order: 9
 cell_layout: "small"
@@ -20,4 +20,8 @@ long_description: Beat menstrual cramps naturally with our brand new vegan, hemp
 ingredients: Organic Hemp Oil, Mugwort-infused Safflower Oil, Carnauba Wax, Fennel Oil, Elderberry Extract, Raspberry Leaf Extract, Arnica Oil, Geranium + Lavender + Clary Sage Essential Oils, Cleansed & Charged Rose Quartz.
 
 product-notes: Life Flower products are made in small batches with all-natural and boutique ingredients. Most orders are processed within 3 days of being placed.
+
+history: blank
+
+healing-properties: blank
 ---

@@ -6,7 +6,7 @@ name: "“For Her” Valentines Set"
 description:
 image-url:
 image-large-url: "/assets/img/bundles/bundle-valentines-1.jpg"
-price: 80
+price: 70
 weight: 540
 display_order: 1
 cell_layout:

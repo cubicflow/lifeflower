@@ -20,4 +20,8 @@ long_description: The perfect before bed treat to add to your self care routine,
 ingredients: blank
 
 product-notes: Life Flower products are made in small batches with all-natural and boutique ingredients. Most orders are processed within 3 days of being placed.
+
+history: blank
+
+healing-properties: blank
 ---

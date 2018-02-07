@@ -6,7 +6,7 @@ name: "“Date Night” Valentines Set"
 description:
 image-url:
 image-large-url: "/assets/img/bundles/bundle-valentines-2.jpg"
-price: 60
+price: 40
 weight: 395
 display_order: 2
 cell_layout:
