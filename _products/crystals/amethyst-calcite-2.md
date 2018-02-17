@@ -14,6 +14,7 @@ orderable: true
 hidden: false
 new: false
 is_crystal: true
+stackable: false
 
 long_description: Small Amethyst chunk with calcite growth all over the crystal and iron oxide inside the points. Featuring beautiful rainbows and unique growth lines on each point.
 

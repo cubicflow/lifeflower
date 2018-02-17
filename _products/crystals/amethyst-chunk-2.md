@@ -14,6 +14,7 @@ orderable: true
 hidden: false
 new: false
 is_crystal: true
+stackable: false
 
 long_description: Self-healed amethyst with iron oxide growing on the side and in little brown spots in the tips. Amazing growth lines on each point with hidden rainbows. Every point is amazingly unique.
 

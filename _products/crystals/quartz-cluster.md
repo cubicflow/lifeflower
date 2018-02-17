@@ -14,6 +14,7 @@ orderable: true
 hidden: false
 new: false
 is_crystal: true
+stackable: false
 
 long_description: Pictures just do not do this baby justice. A beautiful, Quartz cluster with airy phantoms in the bigger points while the smaller side points boast intricate growth lines.
 

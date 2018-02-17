@@ -14,6 +14,7 @@ orderable: true
 hidden: true
 new: false
 is_crystal: true
+stackable: false
 
 long_description: This piece is very unique. Featuring countless lilac, pale-purple points with unique growth lines and little calcite growths both inside + on the crystal. It boasts an interesting self-healed side which means the crystal literally healed itself from damage at some point. A great book divider or altar piece.
 

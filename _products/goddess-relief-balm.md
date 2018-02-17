@@ -14,6 +14,7 @@ orderable: true
 hidden: false
 new: true
 is_crystal: false
+stackable: true
 
 long_description: Beat menstrual cramps naturally with our brand new vegan, hemp-infused Goddess balm, handcrafted with organic herbs and therapeutic grade essential oils that specifically support the feminine cycle and body. Long gone are the days of synthetic pain killers, all the ingredients in this healing balm are sourced consciously from the earth with deep love and gratitude. Infused with organic mugwort and a cleansed and charged Rose Quartz to promote feelings of unconditional self-love, inner peace and clarity when you need it the most.
 

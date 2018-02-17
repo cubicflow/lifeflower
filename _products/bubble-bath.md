@@ -14,6 +14,7 @@ orderable: true
 hidden: true
 new: false
 is_crystal: false
+stackable: true
 
 long_description: Description coming soon.
 

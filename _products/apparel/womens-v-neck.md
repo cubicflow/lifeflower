@@ -14,6 +14,11 @@ orderable: true
 hidden: false
 new: false
 is_crystal: false
+stackable: false
+custom_fields:
+  - name: Size
+    options: "Small|Medium|Large|X-Large"
+    required: true
 
 long_description: Tri-blend women's v-neck t-shirt. Available in sizes S-XL. Color charcoal black.
 

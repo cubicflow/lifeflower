@@ -14,6 +14,7 @@ orderable: true
 hidden: false
 new: false
 is_crystal: true
+stackable: false
 
 long_description: Simple and elegant agate stand with a beautiful pattern and color.
 

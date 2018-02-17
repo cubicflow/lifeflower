@@ -14,6 +14,7 @@ orderable: true
 hidden: false
 new: false
 is_crystal: true
+stackable: false
 
 long_description: This huge point is truly stunning. With a natural 6 sided point, it has different intricate phantoms and beautiful rainbows in each panel. It boasts amazing clarity and insane growth lines all the way up the point. Perfect shelf piece/centre piece and amazing value.
 

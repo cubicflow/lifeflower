@@ -14,6 +14,7 @@ orderable: true
 hidden: true
 new: false
 is_crystal: true
+stackable: false
 
 long_description: This guy is massive! Stands by itself perfectly so it would be a perfect shelf piece. Featuring interesting growth lines, beautiful hidden rainbows and iron oxide. 
 

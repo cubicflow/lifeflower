@@ -14,6 +14,7 @@ orderable: true
 hidden: false
 new: false
 is_crystal: true
+stackable: false
 
 long_description: Beautiful deep purple points and intricate growth lines. Features hidden rainbows airy phantoms in the points as well as calcite growth.
 

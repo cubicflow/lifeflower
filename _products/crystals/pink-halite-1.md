@@ -14,6 +14,7 @@ orderable: true
 hidden: false
 new: false
 is_crystal: true
+stackable: false
 
 long_description: This Halite was mined locally (and ethically!) in Torna, CA. Impressive Hopper growth patterns form interesting little cubes all over the piece that are both eye-catching and mind blowing. Starting with a deep pink color at the bottom fading into baby pink and eventually white at the top, this piece is perfect for any part of the home.
 

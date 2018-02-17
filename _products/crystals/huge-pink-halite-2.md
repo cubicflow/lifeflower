@@ -14,6 +14,7 @@ orderable: true
 hidden: false
 new: false
 is_crystal: true
+stackable: false
 
 long_description: This piece is absolutely massive! Featuring the same intricate hopper growth patterns as the others, Halite forms interesting cube crystals with amazing growth lines. Gentle light pink base which fades into white, icy cube-shaped crystals. A conversation starter for sure.
 

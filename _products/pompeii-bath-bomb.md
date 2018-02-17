@@ -14,6 +14,7 @@ orderable: true
 hidden: false
 new: false
 is_crystal: false
+stackable: true
 
 long_description: Scented with therapeutic grade Rose essential oil and activated charcoal. The Pompeii is the perfect day time or night time relaxation bomb. Natural sodium bicarbonate + epsom salt relieve inflammation of achy muscles and joints while activated charcoal binds to toxins in our pores and pulls it out- since we come into contact with environmental toxins and chemicals in our everyday living, this bomb is the perfect remedy. Topped with Rose petals and Jasmine buds. Note - this product contains activated charcoal, so give your tub a little scrub when you're done.
 

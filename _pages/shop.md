@@ -43,6 +43,12 @@ title: Shop Products
         data-item-weight="{{product.weight}}"
         data-item-description="{{product.description}}"
         data-item-shipable="true"
+        data-item-stackable="{{product.stackable}}"
+        {% for custom_field in product.custom_fields %}
+          data-item-custom{{forloop.index}}-name="{{custom_field.name}}"
+          {% if custom_field.options %} data-item-custom{{forloop.index}}-options="{{custom_field.options}}" {% endif %}
+          data-item-custom{{forloop.index}}-required="{{custom_field.required}}"
+        {% endfor %}
         >
         Add to Cart
         </a>

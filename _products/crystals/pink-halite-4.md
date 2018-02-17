@@ -14,6 +14,7 @@ orderable: true
 hidden: false
 new: false
 is_crystal: true
+stackable: false
 
 long_description: Different from all the other Pink Halite pieces, this baby has small crystal formations that remind me of Rose Quartz. Pink Halite this size is amazing in the bath - one stone will give you multiple uses. Simply place it in your next ritual bath to help cleanse the aura and disperse negativity.
 

@@ -14,6 +14,7 @@ orderable: true
 hidden: false
 new: false
 is_crystal: true
+stackable: false
 
 long_description: This is an insanely beautiful specimen. A beautiful amethyst cluster with calcite and hematite growth. Two hidden rainbows can be found beside the calcite and on top of the calcite. This amethyst is sure to be a beautiful, eye-catching piece anywhere you put it.
 

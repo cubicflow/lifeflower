@@ -14,6 +14,7 @@ orderable: true
 hidden: false
 new: false
 is_crystal: true
+stackable: false
 
 long_description: A huge chunk of milky blue calcite with crazy growth lines and beautiful hidden rainbows.
 

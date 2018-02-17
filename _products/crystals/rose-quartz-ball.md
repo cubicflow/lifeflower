@@ -14,6 +14,7 @@ orderable: true
 hidden: false
 new: false
 is_crystal: true
+stackable: false
 
 long_description: A beautiful Rose Quartz crystal ball and detailed stand. This piece was so hard to let go of! Boasting a gentle, baby pink essence and unique detail. Each view of this crystal ball is different and with the help of some sunlight, you will find countless rainbows. This particular specimen carries a high vibration of comfort and love that you can feel as soon as you pick it up.
 

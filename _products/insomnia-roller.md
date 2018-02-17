@@ -14,6 +14,7 @@ orderable: true
 hidden: false
 new: false
 is_crystal: false
+stackable: true
 
 long_description: Ditch the addictive sleeping pills and get a natural, good night's sleep with our Insomnia Relief 1:1 THC/CBD infused Sweet Almond oil paired with a sedative, healing essential oil blend that has been scientifically proven to give you a great night's sleep. Corresponding herbs are added to provide extra nutrients for maximum potency and effectiveness. Crystal infused with a cleansed + charged purple amethyst crystal- the stone of sleep to enhance vibrations of relaxation and rest.
 

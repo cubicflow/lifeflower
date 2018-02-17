@@ -14,6 +14,11 @@ orderable: true
 hidden: false
 new: false
 is_crystal: false
+stackable: false
+custom_fields:
+  - name: Size
+    options: "Small|Medium|Large|X-Large|XX-Large"
+    required: true
 
 long_description: 100% cotton hoodie. Available in sizes S-XXL. Color black.
 
