@@ -1,13 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="120" height="117" viewBox="0 0 120 117">
-  <g fill="none" fill-rule="evenodd">
-    <rect width="120" height="180"/>
-    <g transform="translate(45 45)">
-      <polygon fill="#EAF2E9" fill-opacity=".4" points="7.031 0 0 32.422 17.896 55.709 29.337 34.446 23.231 10.231 15.841 3.022"/>
-      <polygon stroke="#A4BA92" stroke-linecap="round" stroke-linejoin="round" points="7.031 0 0 32.422 14.896 55.709 29.337 34.446 23.231 10.231 15.841 3.022"/>
-      <polyline stroke="#A4BA92" stroke-linejoin="bevel" points="11.36 9.102 8 37.026 14.971 55.37"/>
-      <polyline stroke="#A4BA92" stroke-linejoin="bevel" points="7.453 .209 11.273 9.158 18.082 12.554 23.642 10.534"/>
-      <polyline stroke="#A4BA92" stroke-linejoin="bevel" points="17.984 12.409 18.68 37.449 14.984 55.109"/>
-      <polyline stroke="#A4BA92" stroke-linejoin="bevel" points=".064 32.42 8.055 37.068 18.931 37.38 29.394 34.496"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="117px" viewBox="0 0 120 117" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>category--crystals</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="category--crystals" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <rect id="Rectangle-2" x="0" y="0" width="120" height="180"></rect>
+            <g transform="translate(30.000000, 43.000000)" id="Group-2">
+                <g transform="translate(15.000000, 2.000000)">
+                    <polygon id="Path-10" fill-opacity="0.4" fill="#EAF2E9" points="7.03076128 0 -3.63797881e-12 32.4223209 14.8964273 55.708527 29.3365603 34.4464863 23.2314657 10.2309232 15.8408938 3.02179426"></polygon>
+                    <polygon id="Path-10" stroke="#A4BA92" stroke-linecap="round" stroke-linejoin="round" points="7.03076128 0 -3.63797881e-12 32.4223209 14.8964273 55.708527 29.3365603 34.4464863 23.2314657 10.2309232 15.8408938 3.02179426"></polygon>
+                    <polyline id="Path-12" stroke="#A4BA92" stroke-linejoin="bevel" points="11.3600518 9.10200741 8 37.0255933 14.9713027 55.3701234"></polyline>
+                    <polyline id="Path-11" stroke="#A4BA92" stroke-linejoin="bevel" points="7.45342195 0.209226798 11.2734318 9.15823792 18.0815641 12.5535669 23.6421301 10.5339498"></polyline>
+                    <polyline id="Path-13" stroke="#A4BA92" stroke-linejoin="bevel" points="17.9837757 12.4090084 18.6795744 37.449015 14.9837757 55.1086972"></polyline>
+                    <polyline id="Path-14" stroke="#A4BA92" stroke-linejoin="bevel" points="0.0638751825 32.4201167 8.0546968 37.0675387 18.930806 37.3804957 29.3939158 34.4958889"></polyline>
+                </g>
+            </g>
+        </g>
     </g>
-  </g>
 </svg>
