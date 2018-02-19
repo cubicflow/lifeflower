@@ -20,7 +20,7 @@ custom_fields:
     options: "Small|Medium|Large|X-Large|XX-Large"
     required: true
 
-long_description: 80% cotton, 20% polyester. Sizes S-XXL. Avaialble in black.
+long_description: 80% cotton, 20% polyester. Sizes S-XXL. Available in black.
 
 ingredients: blank
 
