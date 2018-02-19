@@ -20,7 +20,7 @@ custom_fields:
     options: "Small|Medium|Large|X-Large"
     required: true
 
-long_description: Tri-blend men's crew neck t-shirt. Available in sizes S-XL. Color charcoal black.
+long_description: Tri-blend men's crew neck t-shirt (50% polyester, 25% cotton, 25% rayon). Sizes S-XL. Available in charcoal black.
 
 ingredients: blank
 

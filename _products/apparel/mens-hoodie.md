@@ -20,7 +20,7 @@ custom_fields:
     options: "Small|Medium|Large|X-Large|XX-Large"
     required: true
 
-long_description: 100% cotton hoodie. Available in sizes S-XXL. Color black.
+long_description: 80% cotton, 20% polyester. Sizes S-XXL. Avaialble in black.
 
 ingredients: blank
 
