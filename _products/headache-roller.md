@@ -7,6 +7,7 @@ description: "10ml"
 image-url: "/assets/img/products/roller-headache.jpg"
 image-large-url: "/assets/img/products/large/roller-headache.jpg"
 price: 25
+wholesale-price: 15
 weight: 90
 display_order: 12
 cell_layout:

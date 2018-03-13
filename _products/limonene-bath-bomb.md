@@ -3,10 +3,11 @@ title: "“Limonene” Bath Bomb"
 product-category: bath-bomb
 sitemap: true
 name: "“Limonene” Bath Bomb"
-description: "Lemongrass w/ Rose"
+description: "Large - 50mg"
 image-url: "/assets/img/products/limonene.jpg"
 image-large-url: "/assets/img/products/large/limonene.jpg"
 price: 15
+wholesale-price: 10
 weight: 175
 display_order: 7
 cell_layout: "small"

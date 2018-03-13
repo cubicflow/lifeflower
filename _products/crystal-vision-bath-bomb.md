@@ -3,10 +3,11 @@ title: "“Crystal Vision” Bath Bomb"
 product-category: bath-bomb
 sitemap: true
 name: "“Crystal Vision” Bath Bomb"
-description: "Chrysanthemum w/ Lavender"
+description: "Large - 50mg"
 image-url: "/assets/img/products/crystalvision.jpg"
 image-large-url: "/assets/img/products/large/crystalvision.jpg"
 price: 15
+wholesale-price: 10
 weight: 175
 display_order: 3
 cell_layout: "small"

@@ -3,10 +3,11 @@ title: "“Flowerchild” Bath Bomb"
 product-category: bath-bomb
 sitemap: true
 name: "“Flowerchild” Bath Bomb"
-description: "Combination w/ Calendula"
+description: "Large - 50mg"
 image-url: "/assets/img/products/flowerchild.jpg"
 image-large-url: "/assets/img/products/large/flowerchild.jpg"
 price: 15
+wholesale-price: 10
 weight: 175
 display_order: 2
 cell_layout: "small"

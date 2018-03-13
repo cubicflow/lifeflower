@@ -3,10 +3,11 @@ title: "“Aura Cleanser” Bath Bomb"
 product-category: bath-bomb
 sitemap: true
 name: "“Aura Cleanser” Bath Bomb"
-description: "Sage & Charcoal w/ Heather"
+description: "Large - 50mg"
 image-url: "/assets/img/products/auracleanser.jpg"
 image-large-url: "/assets/img/products/large/auracleanser.jpg"
 price: 15
+wholesale-price: 10
 weight: 875
 display_order: 6
 cell_layout: "small"

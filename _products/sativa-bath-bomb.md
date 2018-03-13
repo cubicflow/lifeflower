@@ -3,10 +3,11 @@ title: "“Sativa” Bath Bomb"
 product-category: bath-bomb
 sitemap: true
 name: "“Sativa” Bath Bomb"
-description: "Peppermint w/ Sage"
+description: "Large - 50mg"
 image-url: "/assets/img/products/sativa.jpg"
 image-large-url: "/assets/img/products/large/sativa.jpg"
 price: 15
+wholesale-price: 10
 weight: 175
 display_order: 8
 cell_layout: "small"

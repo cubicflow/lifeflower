@@ -3,10 +3,11 @@ title: "“Herbal Bliss” Bath Crystals"
 product-category: bath-crystal
 sitemap: true
 name: "“Herbal Bliss” Bath Crystals"
-description: "Rosemary & Hibiscus"
+description: "16oz"
 image-url: "/assets/img/products/crystals--herbal-bliss.jpg"
 image-large-url: "/assets/img/products/large/crystals--herbal-bliss.jpg"
 price: 40
+wholesale-price: 20
 weight: 300
 display_order: 18
 cell_layout: "small"

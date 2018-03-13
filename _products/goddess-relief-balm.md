@@ -7,6 +7,7 @@ description: "2.0oz"
 image-url: "/assets/img/products/balm-goddess.jpg"
 image-large-url: "/assets/img/products/large/balm-goddess.jpg"
 price: 40
+wholesale-price: 25
 weight: 145
 display_order: 9
 cell_layout: "small"

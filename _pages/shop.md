@@ -31,7 +31,7 @@ title: Shop Products
         </div>
 
         <div class="product__description">
-          <!-- <p>{{product.description}}</p> -->
+          <p>{{product.description}}</p>
           <p class="product__price">${{product.price}} USD</p>
         </div>
 
@@ -39,6 +39,7 @@ title: Shop Products
         data-item-id="{{product.name | slugify}}"
         data-item-name="{{product.name}}"
         data-item-price="{{product.price}}"
+        data-item-price-wholesale="{{product.wholesale-price}}"
         data-item-url="{{product.url}}"
         data-item-weight="{{product.weight}}"
         data-item-description="{{product.description}}"

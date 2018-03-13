@@ -1,12 +1,13 @@
 ---
-title: "Cayenne Med Stick"
+title: "Cayenne Extra Strength Med Stick"
 product-category: stick
 sitemap: true
 name: "Cayenne Med Stick"
-description: "2.5oz - Extra Strength"
+description: "2.5oz"
 image-url: "/assets/img/products/stick-cayenne.jpg"
 image-large-url: "/assets/img/products/large/stick-cayenne.jpg"
 price: 55
+wholesale-price: 35
 weight: 100
 display_order: 11
 cell_layout:

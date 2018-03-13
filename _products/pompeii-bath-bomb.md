@@ -3,10 +3,11 @@ title: "“Pompeii” Bath Bomb"
 product-category: bath-bomb
 sitemap: true
 name: "“Pompeii” Bath Bomb"
-description: "Sage & Charcoal w/ Rose"
+description: "Large - 50mg"
 image-url: "/assets/img/products/pompeii.jpg"
 image-large-url: "/assets/img/products/large/pompeii.jpg"
 price: 15
+wholesale-price: 10
 weight: 175
 display_order: 1
 cell_layout: "small"

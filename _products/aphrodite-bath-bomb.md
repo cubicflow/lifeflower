@@ -3,10 +3,11 @@ title: "“Aphrodite” Bath Bomb"
 product-category: bath-bomb
 sitemap: true
 name: "“Aphrodite” Bath Bomb"
-description: "Rosemary w/ Hibiscus"
+description: "Large - 50mg"
 image-url: "/assets/img/products/aphrodite.jpg"
 image-large-url: "/assets/img/products/large/aphrodite.jpg"
 price: 15
+wholesale-price: 10
 weight: 175
 display_order: 4
 cell_layout: "small"

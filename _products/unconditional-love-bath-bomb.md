@@ -3,7 +3,7 @@ title: "“Unconditional Love” Bath Bomb"
 product-category: bath-bomb
 sitemap: true
 name: "“Unconditional Love” Bath Bomb"
-description: "Organic Rose Buds"
+description: "Large - 50mg"
 image-url: "/assets/img/products/heart-bath-bomb.jpg"
 image-large-url: "/assets/img/products/large/heart-bath-bomb.jpg"
 price: 12

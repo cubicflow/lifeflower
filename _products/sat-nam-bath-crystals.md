@@ -3,10 +3,11 @@ title: "“Sat Nam” Bath Crystals"
 product-category: bath-crystal
 sitemap: true
 name: "“Sat Nam” Bath Crystals"
-description: "Peppermint & Chrysanthemum"
+description: "16oz"
 image-url: "/assets/img/products/crystals--satnam.jpg"
 image-large-url: "/assets/img/products/large/crystals--satnam.jpg"
 price: 40
+wholesale-price: 20
 weight: 300
 display_order: 17
 cell_layout: "small"
