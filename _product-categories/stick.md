@@ -6,5 +6,5 @@ sitemap: true
 image-url: "/assets/img/category--stick.svg"
 display_order: 4
 hidden: false
-new: false
+new: true
 ---
