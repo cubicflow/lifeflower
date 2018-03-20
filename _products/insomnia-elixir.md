@@ -1,8 +1,8 @@
 ---
-title: "Insomnia Elixir"
+title: "“Insomnia” Elixir"
 product-category: elixir
 sitemap: true
-name: "Insomnia Elixir"
+name: "“Insomnia” Elixir"
 description: "10ml"
 image-url: "/assets/img/products/roller-insomnia.jpg"
 image-large-url: "/assets/img/products/large/roller-insomnia.jpg"

@@ -9,13 +9,13 @@ image-large-url: "/assets/img/products/large/stick-eco.jpg"
 price: 55
 wholesale-price: 35
 weight: 100
-display_order: 10
+display_order: -3
 cell_layout:
 orderable: true
 hidden: false
 new: true
 is_crystal: false
-stackable: true
+stackable: false
 custom_fields:
   - name: Formula
     options: "Original Formula|Cayenne Pepper"

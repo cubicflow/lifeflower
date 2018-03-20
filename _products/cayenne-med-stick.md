@@ -15,7 +15,7 @@ orderable: true
 hidden: false
 new: false
 is_crystal: false
-stackable: true
+stackable: false
 custom_fields:
   - name: Product container
     options: "Plastic|Biodegradable Cardboard"

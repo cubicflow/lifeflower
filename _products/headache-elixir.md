@@ -1,8 +1,8 @@
 ---
-title: "Headache Elixir"
+title: "“Headache” Elixir"
 product-category: elixir
 sitemap: true
-name: "Headache Elixir"
+name: "“Headache” Elixir"
 description: "10ml"
 image-url: "/assets/img/products/roller-headache.jpg"
 image-large-url: "/assets/img/products/large/roller-headache.jpg"

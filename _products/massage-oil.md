@@ -1,8 +1,8 @@
 ---
-title: "“Gypsy” Massage Oil"
+title: "“Gypsy” Massage Oil (Vial)"
 product-category: massage-oil
 sitemap: true
-name: "“Gypsy” Massage Oil"
+name: "“Gypsy” Massage Oil (Vial)"
 description: "3.2oz"
 image-url: "/assets/img/products/gypsy-oil.jpg"
 image-large-url: "/assets/img/products/large/gypsy-oil.jpg"
@@ -15,7 +15,11 @@ orderable: true
 hidden: false
 new: false
 is_crystal: false
-stackable: true
+stackable: false
+custom_fields:
+  - name: Product container
+    options: "Glass Vial|Glass Pump"
+    required: true
 
 long_description: Made with all natural almond oil and coconut oil, this massage oil is scented with all natural aphrodisiacs to soothe and seduce the mind and spirit. This oil is perfect to use in both the bath and afterwards as a massage oil / moisturizer. Loaded with Vitamin E and all organic plant extracts to ensure complete relaxation and relief. Infused with jasmine buds, rose buds, lavender sprigs and chamomile buds. Includes a charged rose quartz.
 
