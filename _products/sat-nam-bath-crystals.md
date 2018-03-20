@@ -10,7 +10,7 @@ price: 40
 wholesale-price: 20
 weight: 300
 display_order: 17
-cell_layout: "small"
+cell_layout:
 orderable: true
 hidden: false
 new: false
