@@ -1,8 +1,8 @@
 ---
-title: "Anxiety Roller"
-product-category: roller
+title: "Anxiety Elixir"
+product-category: elixir
 sitemap: true
-name: "Anxiety Roller"
+name: "Anxiety Elixir"
 description: "10ml"
 image-url: "/assets/img/products/roller-anxiety.jpg"
 image-large-url: "/assets/img/products/large/roller-anxiety.jpg"

@@ -1,7 +1,7 @@
 ---
 layout: product-category
-title: Rollers
-name: roller
+title: Elixirs
+name: elixir
 sitemap: true
 image-url: "/assets/img/category--roller.svg"
 display_order: 5
