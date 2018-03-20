@@ -1,8 +1,8 @@
 ---
-title: "“Gypsy” Oil (Pump)"
+title: "“Gypsy” Massage Oil (Pump)"
 product-category: massage-oil
 sitemap: true
-name: "“Gypsy” Oil (Pump)"
+name: "“Gypsy” Massage Oil (Pump)"
 description: "3.2oz"
 image-url: "/assets/img/products/gypsy-oil-pump.jpg"
 image-large-url: "/assets/img/products/large/gypsy-oil-pump.jpg"
