@@ -7,6 +7,7 @@ description: "1lb 8oz"
 image-url: "/assets/img/products/crystals/rose-quartz-ball.jpg"
 image-large-url: "/assets/img/products/crystals/large/rose-quartz-ball.jpg"
 price: 40
+wholesale-price: 40
 weight: 681
 display_order: 108
 cell_layout: "small"

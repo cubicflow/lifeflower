@@ -7,6 +7,7 @@ description: "2lb 9oz"
 image-url: "/assets/img/products/crystals/amethyst-slab.jpg"
 image-large-url: "/assets/img/products/crystals/large/amethyst-slab.jpg"
 price: 110
+wholesale-price: 110
 weight: 1163
 display_order: 102
 cell_layout: "small"

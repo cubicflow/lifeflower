@@ -7,6 +7,7 @@ description: "1lb 3oz"
 image-url: "/assets/img/products/crystals/quartz-cluster.jpg"
 image-large-url: "/assets/img/products/crystals/large/quartz-cluster.jpg"
 price: 20
+wholesale-price: 20
 weight: 539
 display_order: 101
 cell_layout: "small"

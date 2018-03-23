@@ -7,6 +7,7 @@ description:
 image-url:
 image-large-url: "/assets/img/bundles/bundle-self-care.jpg"
 price: 115
+wholesale-price: 115
 weight: 840
 display_order: 3
 cell_layout:

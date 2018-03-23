@@ -7,6 +7,7 @@ description:
 image-url:
 image-large-url: "/assets/img/bundles/bundle-most-wanted.jpg"
 price: 60
+wholesale-price: 60
 weight: 175
 display_order: 6
 cell_layout:

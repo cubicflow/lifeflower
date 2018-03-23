@@ -7,6 +7,7 @@ description:
 image-url:
 image-large-url: "/assets/img/bundles/bundle-valentines-2.jpg"
 price: 40
+wholesale-price: 40
 weight: 395
 display_order: 2
 cell_layout:

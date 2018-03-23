@@ -7,6 +7,7 @@ description: "1lb 14oz"
 image-url: "/assets/img/products/crystals/agate-stand.jpg"
 image-large-url: "/assets/img/products/crystals/large/agate-stand.jpg"
 price: 20
+wholesale-price: 20
 weight: 851
 display_order: 113
 cell_layout: "small"

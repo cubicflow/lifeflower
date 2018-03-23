@@ -7,6 +7,7 @@ description: "Test"
 image-url: "/assets/img/products/crystals/standing-quartz-chunk.jpg"
 image-large-url: "/assets/img/products/crystals/large/standing-quartz-chunk.jpg"
 price: 120
+wholesale-price: 120
 weight: 300
 display_order: 112
 cell_layout: "small"

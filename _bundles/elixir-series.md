@@ -7,6 +7,7 @@ description:
 image-url:
 image-large-url: "/assets/img/bundles/bundle-roller.jpg"
 price: 60
+wholesale-price: 60
 weight: 270
 display_order: 5
 cell_layout:

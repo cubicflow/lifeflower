@@ -7,6 +7,7 @@ description: "3lb 7oz"
 image-url: "/assets/img/products/crystals/huge-quartz-point.jpg"
 image-large-url: "/assets/img/products/crystals/large/huge-quartz-point.jpg"
 price: 110
+wholesale-price: 110
 weight: 1560
 display_order: 106
 cell_layout: "small"
