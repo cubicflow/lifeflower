@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: cover
-title: Home
+title: Welcome
 ---
 
 <div class="cover-home">

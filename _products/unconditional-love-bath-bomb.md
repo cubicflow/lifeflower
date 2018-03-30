@@ -16,7 +16,7 @@ new: true
 is_crystal: false
 stackable: true
 
-long_description: This limited edition bath bomb is available just in time for Valentines Day. Handcrafted with organic, nourishing coconut oil, aphrodisiacal therapeutic-grade essential oils, organic rose buds and a cleansed and charged Rose Quartz - the stone of unconditional love. Whether sharing with a loved one or enjoying by yourself this bomb is the perfect self-care pick me up.
+long_description: Handcrafted with organic, nourishing coconut oil, aphrodisiacal therapeutic-grade essential oils, organic rose buds and a cleansed and charged Rose Quartz - the stone of unconditional love. Whether sharing with a loved one or enjoying by yourself this bomb is the perfect self-care pick me up.
 
 ingredients: Hemp-Derived CBD, Organic Coconut Oil, Sodium Bicarbonate, Naturally-derived Citric Acid, Corn Starch, Epsom Salt, Organic Herbs, Essential Oils, Plant-based Color, Witch Hazel, Cleansed & Charged Crystal.
 

@@ -1,8 +1,8 @@
 ---
-title: "“For Her” Valentines Set"
+title: "“For Her” Set"
 product-category: gift-bundle
 sitemap: true
-name: "“For Her” Valentines Set"
+name: "“For Her” Set"
 description:
 image-url:
 image-large-url: "/assets/img/bundles/bundle-valentines-1.jpg"
