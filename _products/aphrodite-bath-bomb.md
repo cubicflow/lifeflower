@@ -19,7 +19,7 @@ stackable: true
 
 long_description: The Aphrodite bath bomb is Handcrafted with all-natural aphrodisiac essential oils, making it the perfect couple or self love treat. Made with organic, lab-tested plant extract to ensure optimal pain relief and relaxation. Includes a cleansed, charged rose quartz stone to enhance positive and pure energies of deep love. Topped with rose buds and hibiscus petals.   
 
-ingredients: Organic Coconut Oil, Sodium Bicarbonate, Naturally-derived Citric Acid, Corn Starch, Epsom Salt, Plant-based Color, Witch Hazel, Cleansed & Charged Crystal.
+ingredients: Organic Coconut Oil, Sodium Bicarbonate, Naturally-derived Citric Acid, Corn Starch, Epsom Salt, Organic Herbs, Plant-based Color, Witch Hazel, Cleansed & Charged Crystal.
 
 product-notes: Life Flower products are made in small batches with all-natural and boutique ingredients. Most orders are processed within 3 days of being placed.
 
