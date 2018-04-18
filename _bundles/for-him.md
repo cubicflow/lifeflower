@@ -20,5 +20,5 @@ long_description: Can't think of what to get the guy in your life? We took the g
 
 ingredients:
 
-product-notes: Life Flower products are made in small batches with all-natural and boutique ingredients. Most orders are processed within 3 days of being placed.
+product-notes: Life Flower products are made in small batches with all-natural and boutique ingredients. Orders are processed and shipped in 7-10 days.
 ---

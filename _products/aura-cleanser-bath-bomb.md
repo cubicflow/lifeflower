@@ -21,7 +21,7 @@ long_description: The aura is an energetic force that surrounds your entire bein
 
 ingredients: Hemp-Derived CBD, Organic Coconut Oil, Sodium Bicarbonate, Naturally-derived Citric Acid, Corn Starch, Epsom Salt, Organic Herbs, Essential Oils, Plant-based Color, Witch Hazel, Cleansed & Charged Crystal.
 
-product-notes: Life Flower products are made in small batches with all-natural and boutique ingredients. Most orders are processed within 3 days of being placed.
+product-notes: Life Flower products are made in small batches with all-natural and boutique ingredients. Orders are processed and shipped in 7-10 days.
 
 history: blank
 
