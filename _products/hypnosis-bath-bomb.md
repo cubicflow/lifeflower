@@ -3,7 +3,9 @@ title: "“Hypnosis” Bath Bomb"
 product-category: bath-bomb
 sitemap: true
 name: "“Hypnosis” Bath Bomb"
-description: "Large - 50mg"
+description: "50mg"
+size: "6oz"
+strength: "50mg"
 image-url: "/assets/img/products/hypnosis.jpg"
 image-large-url: "/assets/img/products/large/hypnosis.jpg"
 price: 15
@@ -19,7 +21,7 @@ stackable: true
 
 long_description: The Hypnosis bath bomb is the perfect before-bed bath bomb. Handcrafted with pure lavender essential oils which has been used for thousands of years as a natural sleep aid. Topped with an amethyst and fresh lavender buds. Amethyst is highly beneficial in treating insomnia, especially when caused by an over-active mind.
 
-ingredients: Hemp-Derived CBD, Organic Coconut Oil, Sodium Bicarbonate, Naturally-derived Citric Acid, Corn Starch, Epsom Salt, Organic Herbs, Essential Oils, Plant-based Color, Witch Hazel, Cleansed & Charged Crystal.
+ingredients: 50mg Pure Hemp-Derived CBD, Organic Coconut Oil, Sodium Bicarbonate, Naturally-derived Citric Acid, Corn Starch, Epsom Salt, Organic Herbs, Essential Oils, Plant-based Color, Witch Hazel, Cleansed & Charged Crystal.
 
 product-notes: Life Flower products are made in small batches with all-natural and boutique ingredients. Orders are processed and shipped in 7-10 days.
 
