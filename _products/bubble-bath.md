@@ -4,9 +4,12 @@ product-category: bubble-bath
 sitemap: false
 name: "“Herbal Infusion” Bubble Bath"
 description: "2.0oz"
+size: "2.0oz"
+strength:
 image-url: "/assets/img/products/bubblebath.jpg"
 image-large-url: "/assets/img/products/large/bubblebath.jpg"
 price: 30
+wholesale-price:
 weight: 300
 display_order:
 cell_layout: "small"

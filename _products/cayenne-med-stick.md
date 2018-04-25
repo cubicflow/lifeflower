@@ -4,6 +4,8 @@ product-category: stick
 sitemap: true
 name: "Cayenne Med Stick"
 description: "2.5oz"
+size: "2.5oz"
+strength: "200mg"
 image-url: "/assets/img/products/stick-cayenne.jpg"
 image-large-url: "/assets/img/products/large/stick-cayenne.jpg"
 price: 55
@@ -23,7 +25,7 @@ custom_fields:
 
 long_description: All-organic ingredients sourced directly from nature to ease aches, pains, burns, and scars. Coconut oil and olive oil work by nourishing the skin while the anti-inflammatory properties of beeswax, shea butter, lavender and eucalyptus essential oils relieve the muscles.
 
-ingredients: Hemp-Derived CBD, Organic Coconut Oil, Organic Olive Oil, Organic Beeswax, Cayenne Pepper, Unrefined Pure Cocoa Butter, Unrefined Pure Shea Butter, Organic Sunflower Lecithin, Tapioca Starch, Essential Oils.
+ingredients: 200mg Pure Hemp-Derived CBD, Organic Coconut Oil, Organic Olive Oil, Organic Beeswax, Cayenne Pepper, Unrefined Pure Cocoa Butter, Unrefined Pure Shea Butter, Organic Sunflower Lecithin, Tapioca Starch, Essential Oils.
 
 product-notes: Available in both a plastic "deodorant" style container, as well as our new eco-friendly, 100% biodegradable cardboard container. Life Flower products are made in small batches with all-natural and boutique ingredients. Orders are processed and shipped in 7-10 days.
 

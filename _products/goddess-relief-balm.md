@@ -4,6 +4,8 @@ product-category: balm
 sitemap: true
 name: "“Goddess” Relief Balm"
 description: "2.0oz"
+size: "2.0oz"
+strength:
 image-url: "/assets/img/products/balm-goddess.jpg"
 image-large-url: "/assets/img/products/large/balm-goddess.jpg"
 price: 40

@@ -4,6 +4,8 @@ product-category: elixir
 sitemap: true
 name: "“Goddess” Elixir"
 description: "15ml"
+size: "15ml"
+strength:
 image-url: "/assets/img/products/roller-goddess.jpg"
 image-large-url: "/assets/img/products/large/roller-goddess.jpg"
 price: 25

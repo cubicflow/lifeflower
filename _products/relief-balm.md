@@ -4,6 +4,8 @@ product-category: balm
 sitemap: true
 name: "Relief Balm"
 description: "2.0oz"
+size: "2.0oz"
+strength: "100mg"
 image-url: "/assets/img/products/balm.jpg"
 image-large-url: "/assets/img/products/large/balm.jpg"
 price: 45
@@ -19,7 +21,7 @@ stackable: true
 
 long_description: All-organic ingredients sourced directly from nature to ease aches, pains, burns, and scars. Coconut oil and olive oil work by nourishing the skin while the anti-inflammatory properties of beeswax, shea butter, lavender and eucalyptus essential oils relieve the muscles.
 
-ingredients: Hemp-Derived CBD, Organic Coconut Oil, Organic Olive Oil, Organic Beeswax, Unrefined Pure Cocoa Butter, Unrefined Pure Shea Butter, Organic Sunflower Lecithin, Tapioca Starch, Essential Oils.
+ingredients: 100mg Pure Hemp-Derived CBD, Organic Coconut Oil, Organic Olive Oil, Organic Beeswax, Unrefined Pure Cocoa Butter, Unrefined Pure Shea Butter, Organic Sunflower Lecithin, Tapioca Starch, Essential Oils.
 
 product-notes: Life Flower products are made in small batches with all-natural and boutique ingredients. Orders are processed and shipped in 7-10 days.
 
