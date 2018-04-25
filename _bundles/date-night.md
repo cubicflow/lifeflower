@@ -3,7 +3,9 @@ title: "“Date Night” Set"
 product-category: gift-bundle
 sitemap: true
 name: "“Date Night” Set"
-description:
+description: "blank"
+size: "blank"
+strength: "blank"
 image-url:
 image-large-url: "/assets/img/bundles/bundle-valentines-2.jpg"
 price: 40
@@ -18,7 +20,11 @@ background-color: "#ECC7C3"
 
 long_description: The ‘Date Night’ bundle was formulated specifically for couples. Light some candles, play some music and unwind in plant magic luxury with your significant other or your own beautiful self. This kit features our Gypsy Massage Oil which makes for otherworldly couple massages and our Unconditional Love bomb, both scented with natural essential oil fragrance that stimulate and arouse the sex drive and infused with a Rose Quartz crystal to amplify feelings of unconditional love.
 
-ingredients:
+ingredients: blank
+
+history: blank
+
+healing-properties: blank
 
 product-notes: Life Flower products are made in small batches with all-natural and boutique ingredients. Orders are processed and shipped in 7-10 days.
 ---

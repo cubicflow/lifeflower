@@ -3,7 +3,7 @@ title: "“Unconditional Love” Bath Bomb"
 product-category: bath-bomb
 sitemap: true
 name: "“Unconditional Love” Bath Bomb"
-description: "50mg"
+description: "50mg Hemp-Derived CBD"
 size: "6oz"
 strength: "50mg"
 image-url: "/assets/img/products/heart-bath-bomb.jpg"

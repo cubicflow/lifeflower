@@ -3,7 +3,7 @@ title: "Extra Strength Med Stick"
 product-category: stick
 sitemap: true
 name: "Extra Strength Med Stick"
-description: "2.5oz"
+description: "200mg Hemp-Derived CBD"
 size: "2.5oz"
 strength: "200mg"
 image-url: "/assets/img/products/stick.jpg"

@@ -3,7 +3,7 @@ title: "“Gypsy” Massage Oil (Vial)"
 product-category: massage-oil
 sitemap: true
 name: "“Gypsy” Massage Oil (Vial)"
-description: "3.2oz"
+description: "500mg Hemp-Derived CBD"
 size: "3.2oz"
 strength: "500mg"
 image-url: "/assets/img/products/gypsy-oil.jpg"

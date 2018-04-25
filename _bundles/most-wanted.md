@@ -3,7 +3,9 @@ title: "“Most Wanted” Set"
 product-category: gift-bundle
 sitemap: true
 name: "“Most Wanted” Set"
-description:
+description: "blank"
+size: "blank"
+strength: "blank"
 image-url:
 image-large-url: "/assets/img/bundles/bundle-most-wanted.jpg"
 price: 60
@@ -18,7 +20,11 @@ background-color: "#E4C6CD"
 
 long_description: This set includes all of our best-selling bath bombs. The Crystal Visions, Aphrodite, Flower Child, Sativa and Limonene. A bomb for every person or mood. The perfect ‘value pack’ for gifting to friends or to keep as a secret self-care stash for yourself. Originally priced at $75, discounted to $60!
 
-ingredients:
+ingredients: blank
+
+history: blank
+
+healing-properties: blank
 
 product-notes: Life Flower products are made in small batches with all-natural and boutique ingredients. Orders are processed and shipped in 7-10 days.
 ---

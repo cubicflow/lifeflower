@@ -8,8 +8,12 @@ layout: default
 
     <h1>{{page.name}}</h1>
 
+    <div class="product-detail__strength">
+      {{page.description}} ({{page.size}})
+    </div>
+
     <div class="product-detail__price">
-      ${{page.price}}
+        ${{page.price}}
     </div>
 
     <div class="product-detail__image">
@@ -40,15 +44,31 @@ layout: default
 
       {% if page.ingredients == "blank" %}
       {% else %}
-      <div class="product-detail__ingredients">
+      <div class="product-detail__notes">
         <span>Ingredients</span>
         <p>{{page.ingredients}}</p>
       </div>
       {% endif %}
 
+      {% if page.size == "blank" %}
+      {% else %}
+      <div class="product-detail__notes">
+        <span>Product Size</span>
+        <p>{{page.size}}</p>
+      </div>
+      {% endif %}
+
+      {% if page.strength == "blank" %}
+      {% else %}
+      <div class="product-detail__notes">
+        <span>Strength</span>
+        <p>{{page.strength}} Pure Hemp-Derived CBD</p>
+      </div>
+      {% endif %}
+
       {% if page.history == "blank" %}
       {% else %}
-      <div class="product-detail__ingredients">
+      <div class="product-detail__notes">
         <span>History</span>
         <p>{{page.history}}</p>
       </div>
@@ -56,7 +76,7 @@ layout: default
 
       {% if page.healing-properties == "blank" %}
       {% else %}
-      <div class="product-detail__ingredients">
+      <div class="product-detail__notes">
         <span>Healing Properties</span>
         <p>{{page.healing-properties}}</p>
       </div>

@@ -3,7 +3,7 @@ title: "“Insomnia” Elixir"
 product-category: elixir
 sitemap: true
 name: "“Insomnia” Elixir"
-description: "10ml"
+description: "100mg Hemp-Derived CBD"
 size: "10ml"
 strength: "100mg"
 image-url: "/assets/img/products/roller-insomnia.jpg"

@@ -3,9 +3,9 @@ title: "“Goddess” Relief Balm"
 product-category: balm
 sitemap: true
 name: "“Goddess” Relief Balm"
-description: "2.0oz"
+description: "Organic Hemp Oil"
 size: "2.0oz"
-strength:
+strength: "blank"
 image-url: "/assets/img/products/balm-goddess.jpg"
 image-large-url: "/assets/img/products/large/balm-goddess.jpg"
 price: 40

@@ -3,7 +3,7 @@ title: "Relief Balm"
 product-category: balm
 sitemap: true
 name: "Relief Balm"
-description: "2.0oz"
+description: "100mg Hemp-Derived CBD"
 size: "2.0oz"
 strength: "100mg"
 image-url: "/assets/img/products/balm.jpg"

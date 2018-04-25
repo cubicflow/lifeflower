@@ -3,9 +3,9 @@ title: "“Goddess” Elixir"
 product-category: elixir
 sitemap: true
 name: "“Goddess” Elixir"
-description: "15ml"
+description: "Organic Hemp Oil"
 size: "15ml"
-strength:
+strength: "blank"
 image-url: "/assets/img/products/roller-goddess.jpg"
 image-large-url: "/assets/img/products/large/roller-goddess.jpg"
 price: 25

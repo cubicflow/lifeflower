@@ -38,15 +38,54 @@ layout: default
     <div class="product-detail__description">
       <p>{{page.long_description}}</p>
 
-      <div class="product-detail__ingredients">
-        <!-- <span>Ingredients</span> -->
+      {% if page.ingredients == "blank" %}
+      {% else %}
+      <div class="product-detail__notes">
+        <span>Ingredients</span>
         <p>{{page.ingredients}}</p>
       </div>
+      {% endif %}
 
+      {% if page.size == "blank" %}
+      {% else %}
       <div class="product-detail__notes">
-        <!-- <span>Notes</span> -->
+        <span>Product Size</span>
+        <p>{{page.size}}</p>
+      </div>
+      {% endif %}
+
+      {% if page.strength == "blank" %}
+      {% else %}
+      <div class="product-detail__notes">
+        <span>Strength</span>
+        <p>{{page.strength}} Pure Hemp-Derived CBD</p>
+      </div>
+      {% endif %}
+
+      {% if page.history == "blank" %}
+      {% else %}
+      <div class="product-detail__notes">
+        <span>History</span>
+        <p>{{page.history}}</p>
+      </div>
+      {% endif %}
+
+      {% if page.healing-properties == "blank" %}
+      {% else %}
+      <div class="product-detail__notes">
+        <span>Healing Properties</span>
+        <p>{{page.healing-properties}}</p>
+      </div>
+      {% endif %}
+
+      {% if page.product-notes == "blank" %}
+      {% else %}
+      <div class="product-detail__notes">
+        <span>Notes</span>
         <p>{{page.product-notes}}</p>
       </div>
+      {% endif %}
+
     </div>
 
   </section>

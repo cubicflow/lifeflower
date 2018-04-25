@@ -127,14 +127,14 @@ main {
 
   h1 {
     text-align: center;
-    margin-top: 60px;
+    margin-top: 40px;
 
     @include breakpoint(medium) {
-      margin-top: 80px;
+      margin-top: 60px;
     }
 
     @include breakpoint(large) {
-      margin-top: 100px;
+      margin-top: 80px;
     }
   }
 
@@ -143,6 +143,7 @@ main {
     color: $grass;
     font-weight: 500;
     font-size: 20px;
+    margin-top: 20px;
 
     @include breakpoint(medium) {
       font-size: 24px;
@@ -151,6 +152,11 @@ main {
     &--bundle {
       color: $black;
     }
+  }
+
+  &__strength {
+      text-align: center;
+      font-weight: 500;
   }
 
   &__image {
@@ -196,31 +202,6 @@ main {
       padding: 60px;
       margin-top: 100px;
       margin-bottom: 100px;
-    }
-
-    p {
-      line-height: 1.75em;
-    }
-  }
-
-  &__ingredients {
-    color: $gray;
-    margin-top: 30px;
-    font-size: 14px;
-    line-height: 1.75em;
-
-    @include breakpoint(medium) {
-      margin-top: 40px;
-      font-size: 15px;
-    }
-
-    @include breakpoint(large) {
-      margin-top: 60px;
-      font-size: 16px;
-    }
-
-    span {
-      color: $black;
     }
 
     p {
