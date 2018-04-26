@@ -127,6 +127,7 @@ main {
 
   h1 {
     text-align: center;
+    margin-bottom: 0.2em;
   }
 
   &__price {
@@ -134,6 +135,7 @@ main {
     color: $grass--dark;
     font-weight: 500;
     font-size: 20px;
+    margin-top: 0.5em;
 
     @include breakpoint(medium) {
       font-size: 24px;
