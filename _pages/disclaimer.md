@@ -1,6 +1,6 @@
 ---
 permalink: /disclaimer/
-layout: page-go-home
+layout: page-aux
 title: Disclaimer
 ---
 

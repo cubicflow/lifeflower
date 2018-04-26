@@ -1,15 +1,14 @@
 ---
 permalink: /ordering/
-layout: page-go-home
-title: Ordering Info
+layout: page-aux
+title: Ordering and Shipping Info
 ---
 
 
-<div class="disclaimer__body">
+<div class="text-align-center">
 
-<a href="/" style="font-size:16px;">Back to Site</a>
+<a href="/shop" style="font-size:16px;">Back to Online Shop</a>
 <br><br><br>
-ORDERING AND SHIPPING INFO
 </div>
 
 ---

@@ -127,23 +127,13 @@ main {
 
   h1 {
     text-align: center;
-    margin-top: 40px;
-
-    @include breakpoint(medium) {
-      margin-top: 60px;
-    }
-
-    @include breakpoint(large) {
-      margin-top: 80px;
-    }
   }
 
   &__price {
     text-align: center;
-    color: $grass;
+    color: $grass--dark;
     font-weight: 500;
     font-size: 20px;
-    margin-top: 20px;
 
     @include breakpoint(medium) {
       font-size: 24px;
