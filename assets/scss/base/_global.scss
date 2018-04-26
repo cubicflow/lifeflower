@@ -77,6 +77,11 @@ body {
   }
 }
 
+.container {
+    margin: 0px auto;
+    width: 90%; 
+}
+
 .body-spacer {
   height: 56px;
   width: 100%;
@@ -287,7 +292,6 @@ header {
     &--item-page {
       color: $white;
       background-color: $black;
-      width: 220px;
       max-width: 220px;
 
       &:hover {
