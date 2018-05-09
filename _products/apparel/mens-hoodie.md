@@ -3,7 +3,8 @@ title: "Life Flower Hoodie"
 product-category: apparel
 sitemap: true
 name: "Life Flower Hoodie"
-description: "S-XXL"
+description: "Various Sizes"
+size: "S-XXL"
 image-url: "/assets/img/products/apparel/mens-hoodie.jpg"
 image-large-url: "/assets/img/products/apparel/large/mens-hoodie.jpg"
 price: 40

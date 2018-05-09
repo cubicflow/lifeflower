@@ -3,7 +3,8 @@ title: "Men's Crew T-Shirt"
 product-category: apparel
 sitemap: true
 name: "Men's Crew T-Shirt"
-description: "S-XL"
+description: "Various Sizes"
+size: "S-XL"
 image-url: "/assets/img/products/apparel/mens-crew.jpg"
 image-large-url: "/assets/img/products/apparel/large/mens-crew.jpg"
 price: 20

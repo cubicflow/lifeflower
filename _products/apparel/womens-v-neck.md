@@ -3,7 +3,8 @@ title: "Women's V-Neck T-Shirt"
 product-category: apparel
 sitemap: true
 name: "Women's V-Neck"
-description: "S-XL"
+description: "Various Sizes"
+size: "S-XL"
 image-url: "/assets/img/products/apparel/womens-v.jpg"
 image-large-url: "/assets/img/products/apparel/large/womens-v.jpg"
 price: 20

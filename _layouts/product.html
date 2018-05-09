@@ -10,7 +10,10 @@ layout: default
         <h1>{{page.name}}</h1>
         
         <div class="product-detail__strength">
-            {{page.description}} ({{page.size}})
+            {{page.description}}
+            {% if page.is_crystal == false %}
+                ({{page.size}})
+            {% endif %}
         </div>
         
         <div class="product-detail__price">
