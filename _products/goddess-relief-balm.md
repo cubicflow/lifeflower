@@ -1,6 +1,6 @@
 ---
 title: "“Goddess” Relief Balm"
-product-category: balm
+product-category: topicals
 sitemap: true
 name: "“Goddess” Relief Balm"
 description: "Organic Hemp Oil"
@@ -11,11 +11,11 @@ image-large-url: "/assets/img/products/large/balm-goddess.jpg"
 price: 40
 wholesale-price: 25
 weight: 145
-display_order: -2
+display_order: -1
 cell_layout: "small"
 orderable: true
 hidden: false
-new: true
+new: false
 is_crystal: false
 stackable: true
 

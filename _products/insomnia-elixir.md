@@ -1,6 +1,6 @@
 ---
 title: "“Insomnia” Elixir"
-product-category: elixir
+product-category: topicals
 sitemap: true
 name: "“Insomnia” Elixir"
 description: "100mg Hemp-Derived CBD"

@@ -1,6 +1,6 @@
 ---
 title: "“Gypsy” Massage Oil (Vial)"
-product-category: massage-oil
+product-category: bedroom
 sitemap: true
 name: "“Gypsy” Massage Oil (Vial)"
 description: "500mg Hemp-Derived CBD"

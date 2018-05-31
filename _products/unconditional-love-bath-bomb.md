@@ -1,6 +1,6 @@
 ---
 title: "“Unconditional Love” Bath Bomb"
-product-category: bath-bomb
+product-category: bathroom
 sitemap: true
 name: "“Unconditional Love” Bath Bomb"
 description: "50mg Hemp-Derived CBD"
@@ -15,7 +15,7 @@ display_order: 0
 cell_layout: "small"
 orderable: true
 hidden: false
-new: true
+new: false
 is_crystal: false
 stackable: true
 

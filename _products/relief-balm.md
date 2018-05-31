@@ -1,6 +1,6 @@
 ---
 title: "Relief Balm"
-product-category: balm
+product-category: topicals
 sitemap: true
 name: "Relief Balm"
 description: "100mg Hemp-Derived CBD"

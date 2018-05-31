@@ -1,6 +1,6 @@
 ---
 title: "“Sativa” Bath Bomb"
-product-category: bath-bomb
+product-category: bathroom
 sitemap: true
 name: "“Sativa” Bath Bomb"
 description: "50mg Hemp-Derived CBD"

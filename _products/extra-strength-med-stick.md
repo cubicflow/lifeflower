@@ -1,6 +1,6 @@
 ---
 title: "Extra Strength Med Stick"
-product-category: stick
+product-category: topicals
 sitemap: true
 name: "Extra Strength Med Stick"
 description: "200mg Hemp-Derived CBD"
@@ -23,11 +23,11 @@ custom_fields:
     options: "Plastic|Biodegradable Cardboard"
     required: true
 
-long_description: All-organic ingredients sourced directly from nature to ease aches, pains, burns, and scars. Coconut oil and olive oil work by nourishing the skin while the anti-inflammatory properties of beeswax, shea butter, lavender and eucalyptus essential oils relieve the muscles.
+long_description: All-organic ingredients sourced directly from nature to ease aches, pains, burns, and scars. Coconut oil and olive oil work by nourishing the skin while the anti-inflammatory properties of beeswax, shea butter, lavender and eucalyptus essential oils relieve the muscles. Available in both a plastic "deodorant" style container, as well as our new eco-friendly, 100% biodegradable cardboard container. 
 
 ingredients: 200mg Pure Hemp-Derived CBD, Organic Coconut Oil, Organic Olive Oil, Organic Beeswax, Unrefined Pure Cocoa Butter, Unrefined Pure Shea Butter, Organic Sunflower Lecithin, Tapioca Starch, Essential Oils.
 
-product-notes: Available in both a plastic "deodorant" style container, as well as our new eco-friendly, 100% biodegradable cardboard container. Life Flower products are made in small batches with all-natural and boutique ingredients. Orders are processed and shipped in 7-10 days.
+product-notes: Life Flower products are made in small batches with all-natural and boutique ingredients. Orders are processed and shipped in 7-10 days.
 
 history: blank
 

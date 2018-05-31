@@ -5,6 +5,6 @@ name: massage-oil
 sitemap: true
 image-url: "/assets/img/category--massage-oil.svg"
 display_order: 6
-hidden: false
+hidden: true
 new: false
 ---

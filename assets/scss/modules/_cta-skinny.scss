@@ -18,12 +18,25 @@
     // margin-bottom: 4px;
   }
 
+  @keyframes color-shift-2 {
+    0%   {background-color: $pink;}
+    10%   {background-color: $pink;}
+    20%  {background-color: $tan;}
+    40%  {background-color: $green;}
+    60%   {background-color: $blue;}
+    80%   {background-color: $orange;}
+    100%   {background-color: $pink;}
+  }
+
   &__content {
     width: 100%;
     height: 55px;
     margin: 0px auto;
     padding: 12px;
-    background-image: linear-gradient(-135deg, lighten($pink, 0) 0%, lighten($tan, 7) 100%);
+    background-color: $green;
+    animation-name: color-shift-2;
+    animation-duration: 15s;
+    animation-iteration-count: infinite;
     color: $gray--dark;
     font-family: 'TchigMono-Bold';
     font-size: 12px;

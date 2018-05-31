@@ -1,6 +1,6 @@
 ---
 title: "“Gypsy” Massage Oil (Pump)"
-product-category: massage-oil
+product-category: bedroom
 sitemap: true
 name: "“Gypsy” Massage Oil (Pump)"
 description: "500mg Hemp-Derived CBD"

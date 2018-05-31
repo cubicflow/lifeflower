@@ -6,19 +6,20 @@ name: "“Self Care Spa” Set"
 description: "blank"
 size: "blank"
 strength: "blank"
-image-url:
-image-large-url: "/assets/img/bundles/bundle-self-care.jpg"
-price: 115
-wholesale-price: 115
-weight: 840
-display_order: 3
+image-url: "/assets/img/bundles/bundle-self-care.jpg"
+image-large-url: "/assets/img/bundles/large/bundle-self-care.jpg"
+price: 135
+wholesale-price: 135
+weight: 1130
+display_order: 1
 cell_layout:
 orderable: true
 hidden: false
 new: false
-background-color: "#E4CFC6"
+background-color: "#DDE2D9"
+featured_bundle: true
 
-long_description: Featuring our Aphrodite Bath Bomb, Bath Crystals, Relief Balm and our Gypsy Massage Oil. This is the ultimate relaxation kit, perfect for unwinding with during the busy holiday season. Originally priced at $140, discounted to $115!
+long_description: The ultimate Life Flower care package. Treat yourself to a luxurious, chemical-free spa set complete with our best selling Relief Balm, Herbal Bliss Bath Crystals, Aphrodite Bath bomb, Gypsy massage oil and plant based Patchouli Rose body wash. Everything you need to completely unwind and celebrate your divine being.
 
 ingredients: blank
 

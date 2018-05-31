@@ -1,6 +1,6 @@
 ---
 title: "“Aphrodite” Bath Bomb"
-product-category: bath-bomb
+product-category: bathroom
 sitemap: true
 name: "“Aphrodite” Bath Bomb"
 description: "50mg Hemp-Derived CBD"

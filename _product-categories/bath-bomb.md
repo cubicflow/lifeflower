@@ -5,6 +5,6 @@ name: bath-bomb
 sitemap: true
 image-url: "/assets/img/category--bath-bomb.svg"
 display_order: 2
-hidden: false
+hidden: true
 new: true
 ---

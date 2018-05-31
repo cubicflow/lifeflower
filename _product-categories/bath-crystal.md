@@ -5,6 +5,6 @@ name: bath-crystal
 sitemap: true
 image-url: "/assets/img/category--bath-crystal.svg"
 display_order: 7
-hidden: false
+hidden: true
 new: false
 ---

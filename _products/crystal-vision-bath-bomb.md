@@ -1,6 +1,6 @@
 ---
 title: "“Crystal Vision” Bath Bomb"
-product-category: bath-bomb
+product-category: bathroom
 sitemap: true
 name: "“Crystal Vision” Bath Bomb"
 description: "50mg Hemp-Derived CBD"

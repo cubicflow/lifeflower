@@ -1,6 +1,6 @@
 ---
 title: "Cayenne Extra Strength Med Stick"
-product-category: stick
+product-category: topicals
 sitemap: true
 name: "Cayenne Med Stick"
 description: "200mg Hemp-Derived CBD"

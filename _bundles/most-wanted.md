@@ -6,17 +6,18 @@ name: "“Most Wanted” Set"
 description: "blank"
 size: "blank"
 strength: "blank"
-image-url:
-image-large-url: "/assets/img/bundles/bundle-most-wanted.jpg"
+image-url: "/assets/img/bundles/bundle-most-wanted.jpg"
+image-large-url: "/assets/img/bundles/large/bundle-most-wanted.jpg"
 price: 60
 wholesale-price: 60
 weight: 175
-display_order: 6
+display_order: 2
 cell_layout:
 orderable: true
 hidden: false
 new: false
-background-color: "#E4C6CD"
+background-color: "#DDE2D9"
+featured_bundle: true
 
 long_description: This set includes all of our best-selling bath bombs. The Crystal Visions, Aphrodite, Flower Child, Sativa and Limonene. A bomb for every person or mood. The perfect ‘value pack’ for gifting to friends or to keep as a secret self-care stash for yourself. Originally priced at $75, discounted to $60!
 

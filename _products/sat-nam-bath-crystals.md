@@ -1,6 +1,6 @@
 ---
 title: "“Sat Nam” Bath Crystals"
-product-category: bath-crystal
+product-category: bathroom
 sitemap: true
 name: "“Sat Nam” Bath Crystals"
 description: "500mg Hemp-Derived CBD"

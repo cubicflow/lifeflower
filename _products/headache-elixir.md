@@ -1,6 +1,6 @@
 ---
 title: "“Headache” Elixir"
-product-category: elixir
+product-category: topicals
 sitemap: true
 name: "“Headache” Elixir"
 description: "100mg Hemp-Derived CBD"

@@ -6,17 +6,18 @@ name: "“Date Night” Set"
 description: "blank"
 size: "blank"
 strength: "blank"
-image-url:
-image-large-url: "/assets/img/bundles/bundle-valentines-2.jpg"
+image-url: "/assets/img/bundles/bundle-valentines-2.jpg"
+image-large-url: "/assets/img/bundles/large/bundle-valentines-2.jpg"
 price: 40
 wholesale-price: 40
 weight: 395
-display_order: 2
+display_order: 5
 cell_layout:
 orderable: true
 hidden: false
 new: true
-background-color: "#ECC7C3"
+background-color: "#DDE2D9"
+featured_bundle: false
 
 long_description: The ‘Date Night’ bundle was formulated specifically for couples. Light some candles, play some music and unwind in plant magic luxury with your significant other or your own beautiful self. This kit features our Gypsy Massage Oil which makes for otherworldly couple massages and our Unconditional Love bomb, both scented with natural essential oil fragrance that stimulate and arouse the sex drive and infused with a Rose Quartz crystal to amplify feelings of unconditional love.
 

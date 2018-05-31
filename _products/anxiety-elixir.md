@@ -1,6 +1,6 @@
 ---
 title: "“Anxiety” Elixir"
-product-category: elixir
+product-category: topicals
 sitemap: true
 name: "“Anxiety” Elixir"
 description: "100mg Hemp-Derived CBD"

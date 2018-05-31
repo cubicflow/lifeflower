@@ -1,6 +1,6 @@
 ---
 title: "“Goddess” Elixir"
-product-category: elixir
+product-category: topicals
 sitemap: true
 name: "“Goddess” Elixir"
 description: "Organic Hemp Oil"
@@ -11,11 +11,11 @@ image-large-url: "/assets/img/products/large/roller-goddess.jpg"
 price: 25
 wholesale-price: 15
 weight: 90
-display_order: -1
+display_order: -2
 cell_layout:
 orderable: true
 hidden: false
-new: true
+new: false
 is_crystal: false
 stackable: true
 

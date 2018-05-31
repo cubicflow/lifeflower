@@ -1,6 +1,6 @@
 ---
 title: "Eco Extra Strength Med Stick"
-product-category: stick
+product-category: topicals
 sitemap: true
 name: "Eco Extra Strength Med Stick"
 description: "200mg Hemp-Derived CBD"
@@ -27,7 +27,7 @@ long_description: Our customer favorite Extra Strength Med Stick -- now in an al
 
 ingredients: 200mg Pure Hemp-Derived CBD, Organic Coconut Oil, Organic Olive Oil, Organic Beeswax, Unrefined Pure Cocoa Butter, Unrefined Pure Shea Butter, Organic Sunflower Lecithin, Tapioca Starch, Essential Oils.
 
-product-notes: blank
+product-notes: Life Flower products are made in small batches with all-natural and boutique ingredients. Orders are processed and shipped in 7-10 days.
 
 history: blank
 

@@ -5,6 +5,6 @@ name: balm
 sitemap: true
 image-url: "/assets/img/category--balm.svg"
 display_order: 3
-hidden: false
+hidden: true
 new: true
 ---
