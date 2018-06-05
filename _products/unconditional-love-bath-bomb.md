@@ -3,9 +3,9 @@ title: "“Unconditional Love” Bath Bomb"
 product-category: bathroom
 sitemap: true
 name: "“Unconditional Love” Bath Bomb"
-description: "50mg Hemp-Derived CBD"
+description: "Organic Hemp Oil"
 size: "6oz"
-strength: "50mg"
+strength: "blank"
 image-url: "/assets/img/products/heart-bath-bomb.jpg"
 image-large-url: "/assets/img/products/large/heart-bath-bomb.jpg"
 price: 12
