@@ -11,7 +11,7 @@ image-large-url: "/assets/img/products/large/roller-insomnia.jpg"
 price: 25
 wholesale-price: 15
 weight: 90
-display_order: 13
+display_order: 15
 cell_layout:
 orderable: true
 hidden: false

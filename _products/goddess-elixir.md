@@ -3,7 +3,7 @@ title: "“Goddess” Elixir"
 product-category: topicals
 sitemap: true
 name: "“Goddess” Elixir"
-description: "Organic Hemp Oil"
+description: "100mg Hemp-Derived CBD"
 size: "15ml"
 strength: "blank"
 image-url: "/assets/img/products/roller-goddess.jpg"
@@ -21,7 +21,7 @@ stackable: true
 
 long_description: Essential oil blend formulated to fight menstrual cramps and balance intense feminine energies. Handcrafted in small batches with love and care.
 
-ingredients: Organic Hemp Oil, Fennel Oil, Blend of Therapeutic Grade Essential Oils, Organic Herbs, Sunflower Lecithin, Vitamin E, Cleansed & Charged Crystal
+ingredients: 100mg Hemp-Derived CBD, Organic Hemp Oil, Fennel Oil, Blend of Therapeutic Grade Essential Oils, Organic Herbs, Sunflower Lecithin, Vitamin E, Cleansed & Charged Crystal
 
 product-notes: Life Flower products are made in small batches with all-natural and boutique ingredients. Orders are processed and shipped in 7-10 days.
 

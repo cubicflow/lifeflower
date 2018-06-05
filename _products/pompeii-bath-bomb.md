@@ -1,7 +1,7 @@
 ---
 title: "“Pompeii” Bath Bomb"
 product-category: bathroom
-sitemap: false
+sitemap: true
 name: "“Pompeii” Bath Bomb"
 description: "50mg Hemp-Derived CBD"
 size: "6oz"
@@ -11,15 +11,18 @@ image-large-url: "/assets/img/products/large/pompeii.jpg"
 price: 15
 wholesale-price: 10
 weight: 175
-display_order:
+display_order: 10
 cell_layout: "small"
-orderable: false
-hidden: true
+orderable: true
+hidden: false
 new: false
 is_crystal: false
 stackable: true
 
-long_description: Scented with therapeutic grade Rose essential oil and activated charcoal. The Pompeii is the perfect day time or night time relaxation bomb. Natural sodium bicarbonate + epsom salt relieve inflammation of achy muscles and joints while activated charcoal binds to toxins in our pores and pulls it out- since we come into contact with environmental toxins and chemicals in our everyday living, this bomb is the perfect remedy. Topped with Rose petals and Jasmine buds. Note - this product contains activated charcoal, so give your tub a little scrub when you're done.
+long_description: >-
+  Available while supplies last.
+  <br>
+  Scented with therapeutic grade Rose essential oil and activated charcoal. The Pompeii is the perfect day time or night time relaxation bomb. Natural sodium bicarbonate + epsom salt relieve inflammation of achy muscles and joints while activated charcoal binds to toxins in our pores and pulls it out- since we come into contact with environmental toxins and chemicals in our everyday living, this bomb is the perfect remedy. Topped with Rose petals and Jasmine buds. Note - this product contains activated charcoal, so give your tub a little scrub when you're done.
 
 ingredients: 50mg Pure Hemp-Derived CBD, Organic Coconut Oil, Sodium Bicarbonate, Naturally-derived Citric Acid, Corn Starch, Epsom Salt, Organic Herbs, Essential Oils, Plant-based Color, Witch Hazel, Cleansed & Charged Crystal.
 

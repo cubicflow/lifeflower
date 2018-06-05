@@ -11,7 +11,7 @@ image-large-url: "/assets/img/products/large/gypsy-oil-pump.jpg"
 price: 40
 wholesale-price: 20
 weight: 220
-display_order: 15
+display_order: 18
 cell_layout:
 orderable: true
 hidden: false

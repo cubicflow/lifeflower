@@ -11,7 +11,7 @@ image-large-url: "/assets/img/products/large/roller-headache.jpg"
 price: 25
 wholesale-price: 15
 weight: 90
-display_order: 12
+display_order: 14
 cell_layout:
 orderable: true
 hidden: false

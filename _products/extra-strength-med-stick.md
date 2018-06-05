@@ -11,7 +11,7 @@ image-large-url: "/assets/img/products/large/stick.jpg"
 price: 55
 wholesale-price: 35
 weight: 100
-display_order: 11
+display_order: 12
 cell_layout:
 orderable: true
 hidden: false

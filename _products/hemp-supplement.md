@@ -30,5 +30,5 @@ product-notes: Life Flower products are made in small batches with all-natural a
 
 history: blank
 
-healing-properties: blank
+healing-properties: These statements have not been evaluated by the Food and Drug Administration. These products are not intended to diagnose, treat, cure, or prevent disease.
 ---

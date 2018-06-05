@@ -11,7 +11,7 @@ image-large-url: "/assets/img/products/large/crystals--satnam.jpg"
 price: 40
 wholesale-price: 20
 weight: 300
-display_order: 17
+display_order: 19
 cell_layout:
 orderable: true
 hidden: false

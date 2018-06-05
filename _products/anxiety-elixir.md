@@ -11,7 +11,7 @@ image-large-url: "/assets/img/products/large/roller-anxiety.jpg"
 price: 25
 wholesale-price: 15
 weight: 90
-display_order: 14
+display_order: 16
 cell_layout:
 orderable: true
 hidden: false
