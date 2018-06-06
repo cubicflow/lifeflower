@@ -1,6 +1,6 @@
 ---
 title: "“Hypnosis” Bath Bomb"
-product-category: bathroom
+product-category: bath
 sitemap: true
 name: "“Hypnosis” Bath Bomb"
 description: "50mg Hemp-Derived CBD"

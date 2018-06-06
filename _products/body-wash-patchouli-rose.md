@@ -1,6 +1,6 @@
 ---
 title: "“Patchouli + Rose” Body Wash"
-product-category: bathroom
+product-category: bath
 name: "“Patchouli + Rose” Body Wash"
 description: "100mg Hemp-Derived CBD"
 size: "8.0oz"

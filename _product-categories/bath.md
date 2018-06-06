@@ -1,9 +1,9 @@
 ---
 layout: product-category
-title: Bathroom
-name: bathroom
+title: Bath
+name: bath
 sitemap: true
-image-url: "/assets/img/category--bathroom.svg"
+image-url: "/assets/img/category--bath.svg"
 display_order: 3
 hidden: false
 new: true

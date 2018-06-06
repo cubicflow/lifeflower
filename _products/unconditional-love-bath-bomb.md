@@ -1,6 +1,6 @@
 ---
 title: "“Unconditional Love” Bath Bomb"
-product-category: bathroom
+product-category: bath
 sitemap: true
 name: "“Unconditional Love” Bath Bomb"
 description: "Organic Hemp Oil"

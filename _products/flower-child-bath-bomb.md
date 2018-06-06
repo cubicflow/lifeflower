@@ -1,6 +1,6 @@
 ---
 title: "“Flowerchild” Bath Bomb"
-product-category: bathroom
+product-category: bath
 sitemap: true
 name: "“Flowerchild” Bath Bomb"
 description: "50mg Hemp-Derived CBD"
