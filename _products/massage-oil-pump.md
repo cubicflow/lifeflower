@@ -1,8 +1,8 @@
 ---
-title: "“Gypsy” Massage Oil (Pump)"
+title: "“Gypsy” Massage Oil"
 product-category: bedroom
 sitemap: true
-name: "“Gypsy” Massage Oil (Pump)"
+name: "“Gypsy” Massage Oil"
 description: "500mg Hemp-Derived CBD"
 size: "3.2oz"
 strength: "500mg"
@@ -11,17 +11,13 @@ image-large-url: "/assets/img/products/large/gypsy-oil-pump.jpg"
 price: 40
 wholesale-price: 20
 weight: 220
-display_order: 18
+display_order: 17
 cell_layout:
 orderable: true
 hidden: false
 new: false
 is_crystal: false
-stackable: false
-custom_fields:
-  - name: Product container
-    options: "Glass Pump|Glass Vial"
-    required: true
+stackable: true
 
 long_description: Made with all natural almond oil and coconut oil, this massage oil is scented with all natural aphrodisiacs to soothe and seduce the mind and spirit. This oil is perfect to use in both the bath and afterwards as a massage oil / moisturizer. Loaded with Vitamin E and all organic plant extracts to ensure complete relaxation and relief. Infused with jasmine buds, rose buds, lavender sprigs and chamomile buds. Includes a charged rose quartz.
 

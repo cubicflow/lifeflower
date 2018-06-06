@@ -1,7 +1,7 @@
 ---
 title: "“Gypsy” Massage Oil (Vial)"
 product-category: bedroom
-sitemap: true
+sitemap: false
 name: "“Gypsy” Massage Oil (Vial)"
 description: "500mg Hemp-Derived CBD"
 size: "3.2oz"
@@ -13,8 +13,8 @@ wholesale-price: 20
 weight: 220
 display_order: 17
 cell_layout:
-orderable: true
-hidden: false
+orderable: false
+hidden: true
 new: false
 is_crystal: false
 stackable: false
