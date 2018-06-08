@@ -44,4 +44,6 @@ healing-properties: >-
   CLOVE: Powerful antioxidant, anti-bacterial and anti-viral properties that assist the immune system in kicking viruses and unwanted bacterias. When taken as a supplement it can assist the digestive system and lower blood pressure.
   <br><br>
   CINNAMON: Cinnamon possesses anti-microbial, antibiotic, anti-fungal, anti-inflammatory and anti-viral properties making it the perfect addition to this synergistic blend.
+  <br><br>
+  These statements have not been evaluated by the Food and Drug Administration. These products are not intended to diagnose, treat, cure, or prevent disease.
 ---
