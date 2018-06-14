@@ -8,7 +8,7 @@ strength: "100mg"
 image-url: "/assets/img/products/bodywash-lavender.jpg"
 image-large-url: "/assets/img/products/large/bodywash-lavender.jpg"
 price: 25
-wholesale-price: 12.99
+wholesale-price: 13
 weight: 292
 display_order: -6
 cell_layout:

@@ -8,7 +8,7 @@ strength: "500mg"
 image-url: "/assets/img/products/elderberry-elixir.jpg"
 image-large-url: "/assets/img/products/large/elderberry-elixir.jpg"
 price: 25
-wholesale-price: 12.99
+wholesale-price: 13
 weight: 240
 display_order: -9
 cell_layout:
