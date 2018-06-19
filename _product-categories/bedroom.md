@@ -2,9 +2,9 @@
 layout: product-category
 title: Bedroom
 name: bedroom
-sitemap: true
+sitemap: false
 image-url: "/assets/img/category--bedroom.svg"
 display_order: 6
-hidden: false
+hidden: true
 new: false
 ---

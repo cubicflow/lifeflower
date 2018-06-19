@@ -1,6 +1,6 @@
 ---
 title: "“Gypsy” Massage Oil"
-product-category: bedroom
+product-category: "topicals"
 sitemap: true
 name: "“Gypsy” Massage Oil"
 description: "500mg Hemp-Derived CBD"
