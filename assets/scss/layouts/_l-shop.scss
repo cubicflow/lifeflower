@@ -146,6 +146,12 @@ main {
     }
   }
 
+  &__process-time {
+    text-align: center;
+    color: $black;
+    margin-top: 24px;
+  }
+
   &__strength {
       text-align: center;
       font-weight: 500;
