@@ -9,7 +9,7 @@ strength: "50mg"
 image-url: "/assets/img/products/sativa.jpg"
 image-large-url: "/assets/img/products/large/sativa.jpg"
 price: 15
-wholesale-price: 10
+wholesale-price: 8
 weight: 175
 display_order: 8
 cell_layout: "small"

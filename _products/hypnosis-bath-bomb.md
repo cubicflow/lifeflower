@@ -9,7 +9,7 @@ strength: "50mg"
 image-url: "/assets/img/products/hypnosis.jpg"
 image-large-url: "/assets/img/products/large/hypnosis.jpg"
 price: 15
-wholesale-price: 10
+wholesale-price: 8
 weight: 175
 display_order: 5
 cell_layout: "small"
