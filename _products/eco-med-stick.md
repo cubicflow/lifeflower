@@ -1,25 +1,25 @@
 ---
-title: "Extra Strength Med Stick"
+title: "Eco Med Stick"
 product-category: topicals
 sitemap: true
-name: "Extra Strength Med Stick"
+name: "Eco Med Stick"
 description: "200mg Hemp-Derived CBD"
 size: "2.5oz"
 strength: "200mg"
-image-url: "/assets/img/products/stick.jpg"
-image-large-url: "/assets/img/products/large/stick.jpg"
+image-url: "/assets/img/products/stick-eco.jpg"
+image-large-url: "/assets/img/products/large/stick-eco.jpg"
 price: 55
 wholesale-price: 35
 weight: 100
-display_order: 12
+display_order: -3
 cell_layout:
 orderable: true
 hidden: false
-new: false
+new: true
 is_crystal: false
 stackable: true
 
-long_description: All-organic ingredients sourced directly from nature to ease aches, pains, burns, and scars. Coconut oil and olive oil work by nourishing the skin while the anti-inflammatory properties of beeswax, shea butter, lavender and eucalyptus essential oils relieve the muscles. Available in both a plastic "deodorant" style container, as well as our new eco-friendly, 100% biodegradable cardboard container. 
+long_description: Our customer favorite Extra Strength Med Stick -- now in an all new durable, eco-friendly, and 100% biodegradable cardboard container. All-organic ingredients sourced directly from nature to ease aches, pains, burns, and scars. Coconut oil and olive oil work by nourishing the skin while the anti-inflammatory properties of beeswax, shea butter, lavender and eucalyptus essential oils relieve the muscles.
 
 ingredients: 200mg Pure Hemp-Derived CBD, Organic Coconut Oil, Organic Olive Oil, Organic Beeswax, Unrefined Pure Cocoa Butter, Unrefined Pure Shea Butter, Organic Sunflower Lecithin, Tapioca Starch, Essential Oils.
 

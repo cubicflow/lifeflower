@@ -11,7 +11,7 @@ image-large-url: "/assets/img/products/large/balm-mini.jpg"
 price: 25
 wholesale-price: 13
 weight: 80
-display_order: -11
+display_order: -12
 cell_layout: "small"
 orderable: true
 hidden: false

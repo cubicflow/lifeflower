@@ -10,7 +10,7 @@ image-large-url: "/assets/img/products/large/bodywash-lavender.jpg"
 price: 25
 wholesale-price: 13
 weight: 292
-display_order: -6
+display_order: -7
 cell_layout:
 new: true
 is_crystal: false

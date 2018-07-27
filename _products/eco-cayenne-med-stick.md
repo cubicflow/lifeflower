@@ -1,27 +1,23 @@
 ---
-title: "Eco Extra Strength Med Stick"
+title: "Eco Cayenne Med Stick"
 product-category: topicals
 sitemap: true
-name: "Eco Extra Strength Med Stick"
+name: "Eco Cayenne Med Stick"
 description: "200mg Hemp-Derived CBD"
 size: "2.5oz"
 strength: "200mg"
-image-url: "/assets/img/products/stick-eco.jpg"
-image-large-url: "/assets/img/products/large/stick-eco.jpg"
+image-url: "/assets/img/products/stick-eco-cayenne.jpg"
+image-large-url: "/assets/img/products/large/stick-eco-cayenne.jpg"
 price: 55
 wholesale-price: 35
 weight: 100
-display_order: -3
+display_order: -4
 cell_layout:
 orderable: true
 hidden: false
 new: true
 is_crystal: false
-stackable: false
-custom_fields:
-  - name: Formula
-    options: "Original Formula|Cayenne Pepper"
-    required: true
+stackable: true
 
 long_description: Our customer favorite Extra Strength Med Stick -- now in an all new durable, eco-friendly, and 100% biodegradable cardboard container. All-organic ingredients sourced directly from nature to ease aches, pains, burns, and scars. Coconut oil and olive oil work by nourishing the skin while the anti-inflammatory properties of beeswax, shea butter, lavender and eucalyptus essential oils relieve the muscles.
 

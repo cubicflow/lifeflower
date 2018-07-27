@@ -1,16 +1,16 @@
 ---
-title: "Organic Hemp Elixir"
+title: "Hemp Elixir Mini"
 product-category: supplements
-name: "Organic Hemp Elixir"
-description: "200mg Hemp-Derived CBD"
-size: "4.0oz"
-strength: "200mg"
+name: "Hemp Elixir Mini"
+description: "100mg Hemp-Derived CBD"
+size: "2.0oz"
+strength: "100mg"
 image-url: "/assets/img/products/hemp-elixir.jpg"
 image-large-url: "/assets/img/products/large/hemp-elixir.jpg"
-price: 50
-wholesale-price: 26
-weight: 240
-display_order: -9
+price: 25
+wholesale-price: 13
+weight: 125
+display_order: -8
 cell_layout:
 new: true
 is_crystal: false
@@ -22,7 +22,7 @@ hidden: false
 
 long_description: Life Flower’s Hemp Elixir is an organic blend of plant oils that are formulated to fight chronic pain and inflammation. Our super ingredients work synergistically to provide a natural, long-lasting solution to issues like sciatica, arthritis, eczema and other chronic pain. We are proud to offer Mother Nature’s nutritional, natural replacement for synthetic, man-made pain killers that cause other diseases in the body.
 
-ingredients: 200mg Pure Hemp-Derived CBD (Organic Full-Spectrum CBD Oil), Organic and Non-GMO Hemp Seed Oil, Organic Calendula Oil, Organic Arnica Oil, Sunflower Lecithin.
+ingredients: 100mg Pure Hemp-Derived CBD (Organic Full-Spectrum CBD Oil), Organic and Non-GMO Hemp Seed Oil, Organic Calendula Oil, Organic Arnica Oil, Sunflower Lecithin.
 
 directions: Take 1 TBSP daily or every couple hours as needed. Can be taken directly or added into smoothies, protein shakes and more.
 

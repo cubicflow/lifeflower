@@ -10,7 +10,7 @@ image-large-url: "/assets/img/products/large/elderberry-elixir.jpg"
 price: 25
 wholesale-price: 13
 weight: 240
-display_order: -9
+display_order: -10
 cell_layout:
 new: true
 is_crystal: false
