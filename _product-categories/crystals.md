@@ -1,6 +1,6 @@
 ---
 layout: product-category-crystals
-title: Crystal Shoppe
+title: Crystal Shop
 name: crystals
 sitemap: true
 image-url: "/assets/img/category--crystals.svg"
