@@ -10,9 +10,9 @@ image-large-url: "/assets/img/products/large/gua-sha-rose-quartz.jpg"
 price: 20
 wholesale-price: 20
 weight: 50
-display_order: -12
+display_order: 9999
 cell_layout:
-new: true
+new: false
 is_crystal: false
 stackable: true
 
