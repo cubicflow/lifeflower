@@ -5,8 +5,8 @@ name: "Hemp Elixir Mini"
 description: "100mg Hemp-Derived CBD"
 size: "2.0oz"
 strength: "100mg"
-image-url: "/assets/img/products/hemp-elixir.jpg"
-image-large-url: "/assets/img/products/large/hemp-elixir.jpg"
+image-url: "/assets/img/products/hemp-elixir-mini.jpg"
+image-large-url: "/assets/img/products/large/hemp-elixir-mini.jpg"
 price: 25
 wholesale-price: 13
 weight: 125
