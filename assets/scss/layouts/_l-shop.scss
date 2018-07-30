@@ -150,6 +150,19 @@ main {
     text-align: center;
     color: $black;
     margin-top: 24px;
+
+    &__special {
+      font-size: 12px;
+      margin-top: 16px;
+      font-weight: 500;
+      color: $gray;
+      width: 85%;
+      margin: 0px auto;
+      
+      @include breakpoint(medium) {
+        width: 50%;
+      }
+    }
   }
 
   &__strength {
