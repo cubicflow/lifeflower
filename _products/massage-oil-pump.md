@@ -1,8 +1,8 @@
 ---
-title: "“Gypsy” Massage Oil"
+title: "Gypsy Oil"
 product-category: "topicals"
 sitemap: true
-name: "“Gypsy” Massage Oil"
+name: "Gypsy Oil"
 description: "500mg Hemp-Derived CBD"
 size: "3.2oz"
 strength: "500mg"

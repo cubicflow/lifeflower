@@ -1,5 +1,5 @@
 ---
-title: "“Gypsy” Massage Oil (Vial)"
+title: "Gypsy Oil (Vial)"
 product-category: bedroom
 sitemap: false
 name: "“Gypsy” Massage Oil (Vial)"
