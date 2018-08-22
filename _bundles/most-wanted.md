@@ -11,7 +11,7 @@ image-large-url: "/assets/img/bundles/large/bundle-most-wanted.jpg"
 price: 60
 wholesale-price: 60
 weight: 175
-display_order: 2
+display_order: 1
 cell_layout:
 orderable: true
 hidden: false

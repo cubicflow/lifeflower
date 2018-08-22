@@ -1,7 +1,7 @@
 ---
 title: "Hemp-Derived CBD Isolate"
 product-category: supplements
-sitemap: false
+sitemap: true
 name: "Hemp-Derived CBD Isolate"
 description: "1000mg - Tested 99.9% Pure"
 size: "1.0g"
@@ -10,11 +10,11 @@ image-url: "/assets/img/products/isolate-1000.jpg"
 image-large-url: "/assets/img/products/large/isolate-1000.jpg"
 price: 25
 wholesale-price: 13
-weight: 80
-display_order: -13
+weight: 40
+display_order: -14
 cell_layout: "small"
-orderable: false
-hidden: true
+orderable: true
+hidden: false
 new: true
 is_crystal: false
 stackable: true
