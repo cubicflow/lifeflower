@@ -1,5 +1,5 @@
 ---
-title: "Hemp-Derived CBD Isolate"
+title: "Hemp-Derived CBD Isolate 500mg"
 product-category: supplements
 sitemap: true
 name: "Hemp-Derived CBD Isolate 500mg"
