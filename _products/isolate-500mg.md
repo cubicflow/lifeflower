@@ -4,7 +4,7 @@ product-category: supplements
 sitemap: true
 name: "Hemp-Derived CBD Isolate 500mg"
 description: "500mg - Tested 99.9% Pure"
-size: "1.0g"
+size: "500mg"
 strength: "500mg"
 image-url: "/assets/img/products/isolate-500.jpg"
 image-large-url: "/assets/img/products/large/isolate-500.jpg"
