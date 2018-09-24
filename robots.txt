@@ -1,1 +1,4 @@
 User-agent: *
+Disallow: /files/
+Disallow: /files/wholesale/
+Disallow: /files/wholesale/products-2018-september.pdf
