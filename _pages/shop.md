@@ -35,7 +35,7 @@ title: Shop Products
           <p class="product__price">${{product.price}} USD</p>
         </div>
 
-        {% if page.orderable == true %}
+        {% if product.orderable == true %}
         <a class="button__buy snipcart-add-item"
         data-item-id="{{product.name | slugify}}"
         data-item-name="{{product.name}}"
