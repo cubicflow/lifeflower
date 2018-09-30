@@ -41,6 +41,7 @@ layout: default
             <p class="product__price">${{product.price}} USD</p>
           </div>
 
+          {% if page.orderable == true %}
           <a class="button__buy snipcart-add-item"
           data-item-id="{{product.name | slugify}}"
           data-item-name="{{product.name}}"
@@ -59,6 +60,9 @@ layout: default
           >
           Add to Cart
           </a>
+          {% else %}
+          <div class="a button__buy button__buy--item-page">Unavailable</div>
+          {% endif %}
           <a class="button__shop-details" href="{{product.url}}">View Details</a>
 
         </div>

@@ -25,6 +25,7 @@ layout: default
       <img class="cf-responsive" src="{{page.image-large-url}}">
     </div>
 
+    {% if page.orderable == true %}
     <a class="button__buy button__buy--item-page snipcart-add-item"
     data-item-id="{{page.name | slugify}}"
     data-item-name="{{page.name}}"
@@ -43,9 +44,15 @@ layout: default
     >
     Add to Cart
     </a>
+    {% else %}
+    <div class="a button__buy button__buy--item-page">Temporarily Out of Stock</div>
+    {% endif %}
 
-    <p class="product-detail__process-time">Processed and shipped in&nbsp;7-10&nbsp;days</p>
-
+    {% if page.orderable == true %}
+    <p class="product-detail__process-time container-description">Processed and shipped in&nbsp;7-10&nbsp;days</p>
+    {% else %}
+    <p class="product-detail__process-time container-description text-alert">{{page.out_of_stock_message}}</p>
+    {% endif %}
     <!-- <p class="product-detail__process-time product-detail__process-time__special">Orders placed after Tuesday, August&nbsp;7th will ship when we return from our annual family vacation, Friday, August&nbsp;20th. Thank you for supporting handcrafted, family-owned business, it&nbsp;is truly&nbsp;appreciated.</p> -->
 
     <div class="product-detail__description">
