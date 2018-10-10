@@ -8,8 +8,8 @@ size: "500mg"
 strength: "500mg"
 image-url: "/assets/img/products/isolate-500.jpg"
 image-large-url: "/assets/img/products/large/isolate-500.jpg"
-price: 15
-wholesale-price: 8
+price: 20
+wholesale-price: 10
 weight: 40
 display_order: -13
 cell_layout: "small"
