@@ -23,7 +23,7 @@ long_description: The perfect before bed treat to add to your self care routine,
 
 ingredients: 500mg Pure Hemp-Derived CBD, Pink Himalayan Sea Salt, Epsom Salt, Dead Sea Salt, Organic Hemp Oil, Organic Herbs, Lavender + Eucalyptus Essential Oils, Elderberry Extract, Vitamin E.
 
-product-notes: Life Flower products are made in small batches with all-natural and boutique ingredients. Orders are processed and shipped in 7-10 business days.
+product-notes: Life Flower products are made in small batches with all-natural and boutique ingredients. Orders are processed and shipped in 7-10 business days. Please allow additional time for&nbsp;delivery.
 
 history: blank
 

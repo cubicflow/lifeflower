@@ -23,7 +23,7 @@ long_description: Beat menstrual cramps naturally with our brand new vegan, hemp
 
 ingredients: Organic Hemp Oil, Mugwort-infused Safflower Oil, Carnauba Wax, Fennel Oil, Elderberry Extract, Raspberry Leaf Extract, Arnica Oil, Geranium + Lavender + Clary Sage Essential Oils, Vitamin E, Ginger, Cleansed & Charged Rose Quartz.
 
-product-notes: Life Flower products are made in small batches with all-natural and boutique ingredients. Orders are processed and shipped in 7-10 business days.
+product-notes: Life Flower products are made in small batches with all-natural and boutique ingredients. Orders are processed and shipped in 7-10 business days. Please allow additional time for&nbsp;delivery.
 
 history: blank
 

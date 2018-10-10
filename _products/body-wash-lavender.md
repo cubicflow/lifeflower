@@ -28,7 +28,7 @@ ingredients: 100mg Pure Hemp-Derived CBD, Saponified Organic Coconut Oil, Saponi
 
 directions: Lather up and treat your senses to a natural cleansing experience. Massage the plant oils deep into your skin and inhale, hold for 5 seconds. Exhale, hold for 5 seconds and repeat 5 times for a soothing, aromatic treat.
 
-product-notes: Life Flower products are made in small batches with all-natural and boutique ingredients. Orders are processed and shipped in 7-10 business days.
+product-notes: Life Flower products are made in small batches with all-natural and boutique ingredients. Orders are processed and shipped in 7-10 business days. Please allow additional time for&nbsp;delivery.
 
 history: blank
 
