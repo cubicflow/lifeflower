@@ -26,7 +26,7 @@ ingredients: 200mg Pure Hemp-Derived CBD (Organic Full-Spectrum CBD Oil), Organi
 
 directions: Take 1 TBSP daily or every couple hours as needed. Can be taken directly or added into smoothies, protein shakes and more.
 
-product-notes: Life Flower products are made in small batches with all-natural and boutique ingredients. Orders are processed and shipped in 7-10 days.
+product-notes: Life Flower products are made in small batches with all-natural and boutique ingredients. Orders are processed and shipped in 7-10 business days.
 
 history: blank
 

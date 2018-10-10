@@ -23,7 +23,7 @@ long_description: Essential oil blend formulated to fight menstrual cramps and b
 
 ingredients: 100mg Hemp-Derived CBD, Organic Hemp Oil, Fennel Oil, Blend of Therapeutic Grade Essential Oils, Organic Herbs, Sunflower Lecithin, Vitamin E, Cleansed & Charged Crystal
 
-product-notes: Life Flower products are made in small batches with all-natural and boutique ingredients. Orders are processed and shipped in 7-10 days.
+product-notes: Life Flower products are made in small batches with all-natural and boutique ingredients. Orders are processed and shipped in 7-10 business days.
 
 history: blank
 

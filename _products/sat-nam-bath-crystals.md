@@ -23,7 +23,7 @@ long_description: Handcrafted with a blend of invigorating therapeutic grade ess
 
 ingredients: 500mg Pure Hemp-Derived CBD, Black Lava Hawaiian Salt (Activated Charcoal-infused), Sea Salt, Epsom Salt, Organic Hemp Oil, Sweet Almond Oil, Sage + Eucalyptus + Peppermint Essential Oils, Organic Herbs.
 
-product-notes: Life Flower products are made in small batches with all-natural and boutique ingredients. Orders are processed and shipped in 7-10 days.
+product-notes: Life Flower products are made in small batches with all-natural and boutique ingredients. Orders are processed and shipped in 7-10 business days.
 
 history: blank
 

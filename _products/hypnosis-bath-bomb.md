@@ -23,7 +23,7 @@ long_description: The Hypnosis bath bomb is the perfect before-bed bath bomb. Ha
 
 ingredients: 50mg Pure Hemp-Derived CBD, Organic Coconut Oil, Sodium Bicarbonate, Naturally-derived Citric Acid, Corn Starch, Epsom Salt, Organic Herbs, Essential Oils, Plant-based Color, Witch Hazel, Cleansed & Charged Crystal.
 
-product-notes: Life Flower products are made in small batches with all-natural and boutique ingredients. Orders are processed and shipped in 7-10 days.
+product-notes: Life Flower products are made in small batches with all-natural and boutique ingredients. Orders are processed and shipped in 7-10 business days.
 
 history: blank
 

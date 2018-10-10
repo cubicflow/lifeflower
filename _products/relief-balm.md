@@ -23,7 +23,7 @@ long_description: All-organic ingredients sourced directly from nature to ease a
 
 ingredients: 100mg Pure Hemp-Derived CBD, Organic Coconut Oil, Organic Olive Oil, Organic Beeswax, Unrefined Pure Cocoa Butter, Unrefined Pure Shea Butter, Organic Sunflower Lecithin, Tapioca Starch, Essential Oils.
 
-product-notes: Life Flower products are made in small batches with all-natural and boutique ingredients. Orders are processed and shipped in 7-10 days.
+product-notes: Life Flower products are made in small batches with all-natural and boutique ingredients. Orders are processed and shipped in 7-10 business days.
 
 history: blank
 

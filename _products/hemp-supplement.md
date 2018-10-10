@@ -26,7 +26,7 @@ ingredients: 10mg of Pure Hemp-Derived CBD in each gel capsule (50 capsules in a
 
 directions: Recommended use - Take up to two (2) gel capsules daily, as needed.
 
-product-notes: Life Flower products are made in small batches with all-natural and boutique ingredients. Orders are processed and shipped in 7-10 days.
+product-notes: Life Flower products are made in small batches with all-natural and boutique ingredients. Orders are processed and shipped in 7-10 business days.
 
 history: blank
 
