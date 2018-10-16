@@ -17,8 +17,10 @@ is_crystal: false
 stackable: true
 
 sitemap: true
-orderable: true
+orderable: false
 hidden: false
+
+out_of_stock_message: October 16, 2018 - This item is currently unavailable but we expect stock to be replenished soon.
 
 long_description: Say goodbye to the common cold with our organic hemp-derived CBD infused Elderberry syrup. Perfect for an everyday supplement, season change or travel time. Handcrafted with immune-boosting ingredients that work together synergistically to kick even the nastiest of colds.
 

@@ -17,10 +17,10 @@ is_crystal: false
 stackable: true
 
 sitemap: true
-orderable: false
+orderable: true
 hidden: false
 
-out_of_stock_message: We are waiting delivery of ingredients from North Carolina that have been delayed due to Hurricane Florence. Our thoughts are with everyone effected. We expect to be able to resume orders of this item by October 3. Thank you for your patience.
+out_of_stock_message:
 
 long_description: For the early riser. Gently awaken the body and soul with an uplifting Lemongrass wash.  Lemongrass essential oil is anti-depressive, antiseptic and astringent, it sterilizes the pores, serves as a natural toner and strengthens skin tissues - making it a great solution for those struggling with skin conditions like acne or eczema. Packed with citral and limonene, Lemongrass kills off bacteria and fungi associated with ringworm, athlete’s foot and even candida. Infused with a cleansed, tumbled Citrine - the stone of mental clarity and visualization.
 
