@@ -19,7 +19,7 @@ new: false
 background-color: "#DDE2D9"
 featured_bundle: true
 
-long_description: The ultimate Life Flower care package. Treat yourself to a luxurious, chemical-free spa set complete with our best selling Relief Balm, Herbal Bliss Bath Crystals, Aphrodite Bath bomb, Gypsy massage oil and plant based Patchouli Rose body wash. Everything you need to completely unwind and celebrate your divine being.
+long_description: The ultimate Life Flower care package. Treat yourself to a luxurious, chemical-free spa set complete with our best selling Relief Balm, Herbal Bliss Bath Crystals, Aphrodite Bath bomb, Gypsy massage oil and plant based Lemongrass body wash. Everything you need to completely unwind and celebrate your divine being.
 
 ingredients: blank
 
