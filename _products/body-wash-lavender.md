@@ -17,10 +17,10 @@ is_crystal: false
 stackable: true
 
 sitemap: true
-orderable: true
+orderable: false
 hidden: false
 
-out_of_stock_message:
+out_of_stock_message: Currently unavailable, please check back soon.
 
 long_description: For the night owl. Wash the day off with a soothing Lavender wash. Lavender essential oil is a powerful natural antioxidant, anti-microbial, anti-depressant and sedative. Proven to kill infection and increase cell growth causing wounds to heal faster while decreasing the appearance of scars. Infused with a cleansed, tumbled Amethyst - the stone of sleep and sobriety. 
 
