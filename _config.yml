@@ -56,7 +56,6 @@ defaults:
       _hide_content: true
 
 exclude:
-  - "/assets/"
   - "bower.json"
   - "composer.json"
   - "composer.lock"

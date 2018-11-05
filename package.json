@@ -37,9 +37,9 @@
     "yargs": "^6.4.0"
   },
   "scripts": {
-    "start": "gulp",
-    "build": "gulp build --production",
-    "test": "gulp build --production"
+    "start": "jekyll serve --incremental",
+    "build": "jekyll build",
+    "test": "jekyll build"
   },
   "repository": {
     "type": "git",
