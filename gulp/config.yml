@@ -3,12 +3,12 @@ browsersync:
   open:   false
   port:   3000
   server:
-    basedir: "docs/"
+    basedir: "_site/"
   xip:    true
 
 clean:
   # The jekyll build dir
-  - "docs"
+  - "_site"
 
 copy:
   # Paths to static assets that aren't (S)CSS or JavaScript
@@ -22,13 +22,13 @@ copy:
     - "!assets/js{,/**}"             # js dir
     - "!assets/scss{,/**}"           # scss dir
     - "!assets/vendor{,/**}"         # vendor dir
-  dist: "docs/assets/"
+  dist: "_site/assets/"
   notification: "Running Copy"
 
 javascript:
   dest:
     jekyllRoot: "assets/js/"
-    buildDir: "docs/assets/js/"
+    buildDir: "_site/assets/js/"
   # filename to output
   filename: "all.js"
   notification: "Running JavaScript"
@@ -87,7 +87,7 @@ sass:
     - "ie >= 9"
   dest:
     jekyllRoot: "assets/css/"
-    buildDir: "docs/assets/css/"
+    buildDir: "_site/assets/css/"
   notification: "Running Sass"
   src: "assets/scss/*.scss"
 

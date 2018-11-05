@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: /files/
-Disallow: /files/wholesale/
-Disallow: /files/wholesale/lifeflower-product-list.pdf
