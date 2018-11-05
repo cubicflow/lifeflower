@@ -17,8 +17,6 @@ include:
   - ".htaccess"
   - "_pages"
 
-destination: _site
-
 collections:
   products:
     output: true
