@@ -1,6 +1,6 @@
 ---
 layout: bundles
-title: Gift Bundles
+title: Bundles
 name: bundles
 sitemap: true
 image-url: "/assets/img/category--gift-bundle.svg"
