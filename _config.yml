@@ -3,10 +3,10 @@ url:                    "lifeflowercare.com"
 language:               ""
 
 ## Page title tags are composed of the site.title and page.title
-title:                  "Life Flower &ndash; Plant Infused Wellness"
+title:                  "Life Flower &ndash; Organic Hemp-Derived CBD Products"
 
 ## Used in meta tags
-description:            "Relieve, Repair, Relax."
+description:            "Small batch Hemp-Derived CBD, CBD Isolate, and Full-Spectrum CBD Oil products made from natural, ethically sourced ingredients with therapeutic grade essential oils and absolutely no artificial fragrances, chemicals, or preservatives."
 
 instagram-url:          "http://www.instagram.com/lifeflowercare"
 
@@ -16,8 +16,6 @@ google-verification:    ""
 include:
   - ".htaccess"
   - "_pages"
-
-destination: docs
 
 collections:
   products:
@@ -58,7 +56,6 @@ defaults:
       _hide_content: true
 
 exclude:
-  - "/assets/"
   - "bower.json"
   - "composer.json"
   - "composer.lock"
