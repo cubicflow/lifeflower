@@ -1,6 +1,7 @@
 <script src="/assets/js/all.js"></script>
 
-{% if page.path contains 'wholesale.lifeflower.com' %}
+{% assign pagepath = page.path | slugify: 'pretty' %}
+{% if pagepath contains 'wholesale.lifeflower.com' %}
 <script src="https://cdn.snipcart.com/scripts/2.0/snipcart.js" id="snipcart" data-api-key="YjQ5YjZkOTAtYTcxYy00Yzc2LTkyZjktODgwOWFjYzFkNmE5NjM2NzY5ODk2MjY4NjA3MzI5"></script>
 {% else %}
 <script src="https://cdn.snipcart.com/scripts/2.0/snipcart.js" id="snipcart" data-api-key="NmViZTE3YjctYWY4YS00MzU5LTlhM2YtYzFkMTY3NzM1NWQzNjM2NDA5NjE2NTY0NDQxMzkx"></script>
