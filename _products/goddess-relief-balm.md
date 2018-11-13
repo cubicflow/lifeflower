@@ -3,12 +3,12 @@ title: "“Goddess” Relief Balm"
 product-category: topicals
 sitemap: true
 name: "“Goddess” Relief Balm"
-description: "Organic Hemp Oil"
+description: "100mg Hemp-Derived CBD"
 size: "2.0oz"
 strength: "blank"
 image-url: "/assets/img/products/balm-goddess.jpg"
 image-large-url: "/assets/img/products/large/balm-goddess.jpg"
-price: 40
+price: 45
 wholesale-price: 25
 weight: 145
 display_order: -1
