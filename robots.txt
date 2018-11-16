@@ -2,3 +2,6 @@ User-agent: *
 Disallow: /files/
 Disallow: /files/wholesale/
 Disallow: /files/wholesale/lifeflower-product-list.pdf
+Disallow: wholesale.lifeflowercare.com
+Disallow: wholesale/lifeflowercare.com/
+Disallow: wholesale/lifeflowercare.com/*
