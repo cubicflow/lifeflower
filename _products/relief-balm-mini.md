@@ -9,8 +9,12 @@ strength: "50mg"
 image-url: "/assets/img/products/balm-mini.jpg"
 image-large-url: "/assets/img/products/large/balm-mini.jpg"
 price: 25
-wholesale-price: 13
+price_wholesale: 13
+price_case: 78
 weight: 80
+weight_case: 480
+case-count: 6
+
 display_order: -12
 cell_layout: "small"
 orderable: true

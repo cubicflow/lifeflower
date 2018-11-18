@@ -7,7 +7,7 @@ description: "2lb 7oz"
 image-url: "/assets/img/products/crystals/amethyst-chunk-1.jpg"
 image-large-url: "/assets/img/products/crystals/large/amethyst-chunk-1.jpg"
 price: 33
-wholesale-price: 33
+price_wholesale: 33
 weight: 1106
 display_order: 109
 cell_layout: "small"

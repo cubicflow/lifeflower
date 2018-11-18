@@ -9,8 +9,12 @@ strength: "1000mg"
 image-url: "/assets/img/products/isolate-1000.jpg"
 image-large-url: "/assets/img/products/large/isolate-1000.jpg"
 price: 35
-wholesale-price: 18
+price_wholesale: 18
+price_case: 108
 weight: 40
+weight_case: 240
+case-count: 6
+
 display_order: -14
 cell_layout: "small"
 orderable: true

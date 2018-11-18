@@ -9,7 +9,7 @@ strength: "blank"
 image-url: "/assets/img/bundles/bundle-conscious-wash.jpg"
 image-large-url: "/assets/img/bundles/large/bundle-conscious-wash.jpg"
 price: 60
-wholesale-price: 60
+price_wholesale: 60
 weight: 870
 display_order: 3
 cell_layout:

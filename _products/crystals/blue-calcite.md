@@ -7,7 +7,7 @@ description: "1lb 13oz"
 image-url: "/assets/img/products/crystals/blue-calcite.jpg"
 image-large-url: "/assets/img/products/crystals/large/blue-calcite.jpg"
 price: 30
-wholesale-price: 30
+price_wholesale: 30
 weight: 823
 display_order: 103
 cell_layout: "small"

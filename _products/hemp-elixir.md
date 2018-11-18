@@ -8,8 +8,12 @@ strength: "200mg"
 image-url: "/assets/img/products/hemp-elixir.jpg"
 image-large-url: "/assets/img/products/large/hemp-elixir.jpg"
 price: 50
-wholesale-price: 26
+price_wholesale: 26
+price_case: 104
 weight: 240
+weight_case: 960
+case-count: 4
+
 display_order: -9
 cell_layout:
 new: true

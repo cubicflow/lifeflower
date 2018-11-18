@@ -9,8 +9,12 @@ strength: "100mg"
 image-url: "/assets/img/products/roller-anxiety.jpg"
 image-large-url: "/assets/img/products/large/roller-anxiety.jpg"
 price: 25
-wholesale-price: 15
+price_wholesale: 15
+price_case: 90
 weight: 90
+weight_case: 540
+case-count: 6
+
 display_order: 16
 cell_layout:
 orderable: true

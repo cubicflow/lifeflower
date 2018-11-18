@@ -8,8 +8,12 @@ strength: "100mg"
 image-url: "/assets/img/products/hemp-elixir-mini.jpg"
 image-large-url: "/assets/img/products/large/hemp-elixir-mini.jpg"
 price: 25
-wholesale-price: 13
+price_wholesale: 13
+price_case: 78
 weight: 125
+weight_case: 750
+case-count: 6
+
 display_order: -8
 cell_layout:
 new: true

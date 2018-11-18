@@ -8,7 +8,7 @@ size: "S-XL"
 image-url: "/assets/img/products/apparel/mens-crew.jpg"
 image-large-url: "/assets/img/products/apparel/large/mens-crew.jpg"
 price: 20
-wholesale-price: 20
+price_wholesale: 20
 weight: 150
 display_order: 201
 cell_layout:

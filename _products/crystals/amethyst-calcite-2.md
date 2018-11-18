@@ -7,7 +7,7 @@ description: "15oz"
 image-url: "/assets/img/products/crystals/amethyst-calcite-2.jpg"
 image-large-url: "/assets/img/products/crystals/large/amethyst-calcite-2.jpg"
 price: 15
-wholesale-price: 15
+price_wholesale: 15
 weight: 426
 display_order: 111
 cell_layout: "small"

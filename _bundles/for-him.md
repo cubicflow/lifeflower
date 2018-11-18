@@ -9,7 +9,7 @@ strength: "blank"
 image-url: "/assets/img/bundles/bundle-for-him.jpg"
 image-large-url: "/assets/img/bundles/large/bundle-for-him.jpg"
 price: 75
-wholesale-price: 75
+price_wholesale: 75
 weight: 575
 display_order: 7
 cell_layout:

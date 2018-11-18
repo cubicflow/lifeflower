@@ -9,8 +9,12 @@ strength: "blank"
 image-url: "/assets/img/products/heart-bath-bomb.jpg"
 image-large-url: "/assets/img/products/large/heart-bath-bomb.jpg"
 price: 12
-wholesale-price: 6
+price_wholesale: 6
+price_case: 36
 weight: 175
+weight_case: 1050
+case-count: 6
+
 display_order: 0
 cell_layout: "small"
 orderable: true
