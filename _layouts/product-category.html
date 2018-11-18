@@ -8,9 +8,7 @@ layout: default
 
   {% assign products = site.products | sort: 'display_order' %}
   {% for product in products %}
-
   {% if product.hidden == false %}
-  {% if product.is_wholesale == true %}
 
   {% assign category-slug = page.name | slugify: 'pretty' %}
   {% assign product-category-slug = product.product-category | slugify: 'pretty' %}
@@ -74,10 +72,7 @@ layout: default
   </div>
 
   {% endif %}
-
   {% endif %}
-  {% endif %}
-
   {% endfor %}
 
 
