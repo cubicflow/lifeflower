@@ -54,7 +54,7 @@ title: Shop Wholesale
         Add to Cart
         </a>
         {% else %}
-        <div class="a button__buy button__buy--item-page">Unavailable</div>
+        <div class="a button__buy button__buy--item-page">Temporarily Out of Stock</div>
         {% endif %}
         <a class="button__shop-details" href="{{product.url}}">View Details</a>
 
