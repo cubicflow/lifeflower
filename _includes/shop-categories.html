@@ -9,6 +9,7 @@
 
     {% assign categories = site.product-categories | sort: 'display_order' %}
     {% for category in categories %}
+
     {% if category.hidden == false %}
 
       <a class="category-thumbnail" href="{{category.url}}">
@@ -25,6 +26,7 @@
       </a>
 
     {% endif %}
+    
     {% endfor %}
 
   </div>
