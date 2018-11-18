@@ -33,7 +33,7 @@ title: Welcome
     <br>
 
     <a class="button__buy button__buy--item-page" href="/shop">
-    Shop Products
+    Shop Wholesale
     </a>
 
   </div>
