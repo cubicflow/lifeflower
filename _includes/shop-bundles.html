@@ -2,10 +2,8 @@
   <div class="shop-bundles__grid">
   {% assign bundles = site.bundles | sort: 'display_order' %}
   {% for bundle in bundles %}
-
   {% if bundle.hidden == false %}
   {% if bundle.featured_bundle == true %}
-  {% unless bundle.is_wholesale == true %}
 
         <a href="{{bundle.url}}" class="bundle">
           <img class="cf-responsive" src="{{bundle.image-url}}">
@@ -14,10 +12,8 @@
         </a>
 
 
-  {% endunless %}
   {% endif %}
   {% endif %}
-
   {% endfor %}
   </div>
 
