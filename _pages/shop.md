@@ -6,8 +6,10 @@ title: Shop Products
 
 {% assign products = site.products | sort: 'display_order' %}
 {% for product in products %}
+
 {% if product.hidden == false %}
 {% if product.is_crystal == false %}
+{% unless product.is_wholesale == true %}
 
 <div class="product {% if product.cell_layout == "small" %}product--small{% endif %}">
 
@@ -65,6 +67,9 @@ title: Shop Products
   </div>
 
 </div>
+
+{% endunless %}
 {% endif %}
 {% endif %}
+
 {% endfor %}
