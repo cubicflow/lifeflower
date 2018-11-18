@@ -16,7 +16,7 @@ title: Welcome
 
   <div class="cover-home__description">
     
-    <p>Attention: You must have a valid Sales Tax ID/Resellers License allowing you to purchase products for resale. By ordering from this website, you understand that providing inaccurate information may cause your order to be delayed or cancelled, and that new customers may also be contacted to provide verification.</p>
+    <p>Attention: You must have a valid Sales Tax ID/Resellers License allowing you to purchase products for resale. By ordering from this website, you understand that providing inaccurate information may cause your order to be delayed or cancelled. New customers may also be contacted to provide verification.</p>
 
     <br>
 
