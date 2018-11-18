@@ -5,6 +5,6 @@ name: crystals
 sitemap: true
 image-url: "/assets/img/category--crystals.svg"
 display_order: 9
-hidden: false
+hidden: true
 new: false
 ---
