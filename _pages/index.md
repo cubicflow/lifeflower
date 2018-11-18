@@ -16,15 +16,11 @@ title: Welcome
 
   <div class="cover-home__description">
     
+    <p>Attention resellers: You must have a valid Sales Tax ID/Resellers license allowing you to purchase products for resale. By ordering from this website, you understand that providing inaccurate information may cause your order to be delayed or cancelled. New customers may also be contacted to provide verification of my tax exempt status.</p>
+
+    <br>
+
     <p>Life&nbsp;Flower is a family owned and operated business located in Orange County, California. We handcraft all of our products in small batches from natural, ethically sourced ingredients with therapeutic grade essential oils and absolutely no artificial fragrances, chemicals, or&nbsp;preservatives.</p>
-
-    <br>
-
-    <p>Our products are a reflection of our core belief, that Mother Nature has been divinely designed with the solutions humans need to thrive and live our best and most meaningful lives. Life&nbsp;Flower is committed to creating synergistic and high-vibrational wellness products that improve the quality of life on all levels physically, spiritually, and&nbsp;mentally.</p>
-
-    <br>
-
-    <p>Life Flower makes natural and eco-friendly products for people of all ages that change the standard on hemp-derived CBD while aiming to raise spiritual consciousness and&nbsp;awareness.</p>
 
     <br>
 
