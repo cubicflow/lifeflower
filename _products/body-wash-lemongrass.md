@@ -8,8 +8,12 @@ strength: "100mg"
 image-url: "/assets/img/products/bodywash-lemongrass.jpg"
 image-large-url: "/assets/img/products/large/bodywash-lemongrass.jpg"
 price: 25
-wholesale-price: 13
+price_wholesale: 13
+price_case: 78
 weight: 292
+weight_case: 1752
+case-count: 6
+
 display_order: -6
 cell_layout:
 new: true

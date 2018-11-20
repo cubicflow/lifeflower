@@ -9,8 +9,12 @@ strength: "blank"
 image-url: "/assets/img/products/balm-goddess.jpg"
 image-large-url: "/assets/img/products/large/balm-goddess.jpg"
 price: 45
-wholesale-price: 25
+price_wholesale: 25
+price_case: 100
 weight: 145
+weight_case: 580
+case-count: 4
+
 display_order: -1
 cell_layout: "small"
 orderable: true

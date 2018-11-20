@@ -9,8 +9,12 @@ strength: "500mg"
 image-url: "/assets/img/products/gypsy-oil-pump.jpg"
 image-large-url: "/assets/img/products/large/gypsy-oil-pump.jpg"
 price: 40
-wholesale-price: 20
+price_wholesale: 20
+price_case: 80
 weight: 220
+weight_case: 880
+case-count: 4
+
 display_order: 17
 cell_layout:
 orderable: true

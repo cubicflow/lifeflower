@@ -9,8 +9,12 @@ strength: "50mg"
 image-url: "/assets/img/products/aphrodite.jpg"
 image-large-url: "/assets/img/products/large/aphrodite.jpg"
 price: 15
-wholesale-price: 8
+price_wholesale: 8
+price_case: 48
 weight: 175
+weight_case: 1050
+case-count: 6
+
 display_order: 4
 cell_layout: "small"
 orderable: true

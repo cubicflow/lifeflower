@@ -9,8 +9,12 @@ strength: "500mg"
 image-url: "/assets/img/products/crystals--herbal-bliss.jpg"
 image-large-url: "/assets/img/products/large/crystals--herbal-bliss.jpg"
 price: 40
-wholesale-price: 20
+price_wholesale: 20
+price_case: 80
 weight: 300
+weight_case: 1200
+case-count: 4
+
 display_order: 19
 cell_layout:
 orderable: true

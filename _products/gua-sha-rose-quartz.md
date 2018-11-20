@@ -8,8 +8,12 @@ strength: blank
 image-url: "/assets/img/products/gua-sha-rose-quartz.jpg"
 image-large-url: "/assets/img/products/large/gua-sha-rose-quartz.jpg"
 price: 20
-wholesale-price: 10
+price_wholesale: 10
+price_case: 60
 weight: 50
+weight_case: 300
+case-count: 6
+
 display_order: 9999
 cell_layout:
 new: false

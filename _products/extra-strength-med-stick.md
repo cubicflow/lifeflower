@@ -9,8 +9,12 @@ strength: "200mg"
 image-url: "/assets/img/products/stick.jpg"
 image-large-url: "/assets/img/products/large/stick.jpg"
 price: 55
-wholesale-price: 35
+price_wholesale: 35
+price_case: 140
 weight: 100
+weight_case: 400
+case-count: 4
+
 display_order: 12
 cell_layout:
 orderable: true

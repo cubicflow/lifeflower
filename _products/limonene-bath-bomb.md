@@ -9,8 +9,12 @@ strength: "50mg"
 image-url: "/assets/img/products/limonene.jpg"
 image-large-url: "/assets/img/products/large/limonene.jpg"
 price: 15
-wholesale-price: 8
+price_wholesale: 8
+price_case: 48
 weight: 175
+weight_case: 1050
+case-count: 6
+
 display_order: 7
 cell_layout: "small"
 orderable: true

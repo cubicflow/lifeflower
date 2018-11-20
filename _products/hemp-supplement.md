@@ -7,9 +7,14 @@ size: "50 gel capsules"
 strength: "10mg x 50"
 image-url: "/assets/img/products/hemp-pills.jpg"
 image-large-url: "/assets/img/products/large/hemp-pills.jpg"
-price: 55
-wholesale-price: 35
-weight: 100
+price:
+price_wholesale:
+price_case:
+
+weight:
+weight_case:
+case-count:
+
 display_order: -7
 cell_layout:
 new: true
