@@ -21,10 +21,10 @@ is_crystal: false
 stackable: true
 
 sitemap: true
-orderable: false
+orderable: true
 hidden: false
 
-out_of_stock_message: Currently unavailable, please check back soon.
+out_of_stock_message:
 
 long_description: Not only essential for beauty, this genuine Rose Quartz tool is amazing for anyone on the self-care journey. Gua Sha relies on tender, undivided attention and affection to parts of the body that many of us have overlooked or neglected for so long. Rose Quartz is the stone of unconditional love, so it's only fitting that this self love tool is carved from it.  
 
