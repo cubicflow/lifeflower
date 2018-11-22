@@ -9,7 +9,7 @@ strength: "blank"
 image-url: "/assets/img/bundles/bundle-self-care.jpg"
 image-large-url: "/assets/img/bundles/large/bundle-self-care.jpg"
 price: 135
-wholesale-price: 135
+price_wholesale: 135
 weight: 1130
 display_order: 2
 cell_layout:

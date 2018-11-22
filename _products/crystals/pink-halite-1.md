@@ -7,7 +7,7 @@ description: "1lb 6oz"
 image-url: "/assets/img/products/crystals/pink-halite-1.jpg"
 image-large-url: "/assets/img/products/crystals/large/pink-halite-1.jpg"
 price: 35
-wholesale-price: 35
+price_wholesale: 35
 weight: 624
 display_order: 105
 cell_layout: "small"

@@ -7,7 +7,7 @@ description: "5oz"
 image-url: "/assets/img/products/crystals/pink-halite-5.jpg"
 image-large-url: "/assets/img/products/crystals/large/pink-halite-5.jpg"
 price: 10
-wholesale-price: 10
+price_wholesale: 10
 weight: 142
 display_order: 121
 cell_layout: "small"

@@ -8,7 +8,7 @@ size: "S-XL"
 image-url: "/assets/img/products/apparel/womens-v.jpg"
 image-large-url: "/assets/img/products/apparel/large/womens-v.jpg"
 price: 20
-wholesale-price: 20
+price_wholesale: 20
 weight: 130
 display_order: 202
 cell_layout:

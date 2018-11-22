@@ -40,7 +40,7 @@ title: Shop Products
         data-item-id="{{product.name | slugify}}"
         data-item-name="{{product.name}}"
         data-item-price="{{product.price}}"
-        data-item-price-wholesale="{{product.wholesale-price}}"
+        data-item-price-wholesale="{{product.price_wholesale}}"
         data-item-url="{{product.url}}"
         data-item-weight="{{product.weight}}"
         data-item-description="{{product.description}}"

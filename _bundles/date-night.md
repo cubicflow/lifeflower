@@ -9,7 +9,7 @@ strength: "blank"
 image-url: "/assets/img/bundles/bundle-valentines-2.jpg"
 image-large-url: "/assets/img/bundles/large/bundle-valentines-2.jpg"
 price: 40
-wholesale-price: 40
+price_wholesale: 40
 weight: 395
 display_order: 5
 cell_layout:

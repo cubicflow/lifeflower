@@ -7,7 +7,7 @@ description: "2lb 14oz"
 image-url: "/assets/img/products/crystals/huge-pink-halite-2.jpg"
 image-large-url: "/assets/img/products/crystals/large/huge-pink-halite-2.jpg"
 price: 90
-wholesale-price: 90
+price_wholesale: 90
 weight: 1305
 display_order: 119
 cell_layout: "small"

@@ -8,7 +8,7 @@ size: "S-XXL"
 image-url: "/assets/img/products/apparel/mens-hoodie.jpg"
 image-large-url: "/assets/img/products/apparel/large/mens-hoodie.jpg"
 price: 40
-wholesale-price: 40
+price_wholesale: 40
 weight: 300
 display_order: 203
 cell_layout:

@@ -9,7 +9,7 @@ strength: "blank"
 image-url: "/assets/img/bundles/bundle-roller.jpg"
 image-large-url: "/assets/img/bundles/large/bundle-roller.jpg"
 price: 60
-wholesale-price: 60
+price_wholesale: 60
 weight: 270
 display_order: 4
 cell_layout:
