@@ -8,8 +8,8 @@ size: "2.0oz"
 strength: "100mg"
 image-url: "/assets/img/products/balm.jpg"
 image-large-url: "/assets/img/products/large/balm.jpg"
-price: 45
-price_wholesale: 25
+price: 44
+price_wholesale: 22
 price_case: 100
 weight: 145
 weight_case: 580

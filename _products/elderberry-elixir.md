@@ -7,12 +7,12 @@ size: "4.0oz"
 strength: "500mg"
 image-url: "/assets/img/products/elderberry-elixir.jpg"
 image-large-url: "/assets/img/products/large/elderberry-elixir.jpg"
-price: 25
-price_wholesale: 13
+price: 44
+price_wholesale: 22
 price_case: 78
 weight: 240
-weight_case: 1440
-case-count: 6
+weight_case: 960
+case-count: 4
 
 display_order: -10
 cell_layout:

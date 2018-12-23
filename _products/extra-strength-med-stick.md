@@ -8,8 +8,8 @@ size: "2.5oz"
 strength: "200mg"
 image-url: "/assets/img/products/stick.jpg"
 image-large-url: "/assets/img/products/large/stick.jpg"
-price: 55
-price_wholesale: 35
+price: 60
+price_wholesale: 30
 price_case: 140
 weight: 100
 weight_case: 400

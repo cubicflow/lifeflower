@@ -8,8 +8,8 @@ size: "1.0oz"
 strength: "50mg"
 image-url: "/assets/img/products/balm-mini.jpg"
 image-large-url: "/assets/img/products/large/balm-mini.jpg"
-price: 25
-price_wholesale: 13
+price: 24
+price_wholesale: 12
 price_case: 78
 weight: 80
 weight_case: 480

@@ -8,8 +8,8 @@ size: "6oz"
 strength: "blank"
 image-url: "/assets/img/products/heart-bath-bomb.jpg"
 image-large-url: "/assets/img/products/large/heart-bath-bomb.jpg"
-price: 12
-price_wholesale: 6
+price: 14
+price_wholesale: 7
 price_case: 36
 weight: 175
 weight_case: 1050

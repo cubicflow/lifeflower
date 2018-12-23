@@ -1,8 +1,8 @@
 ---
-title: "Gypsy Oil (Vial)"
+title: "“Unify” Massage Oil (Vial)"
 product-category: bedroom
 sitemap: false
-name: "“Gypsy” Massage Oil (Vial)"
+name: "“Unify” Massage Oil (Vial)"
 description: "500mg Hemp-Derived CBD"
 size: "3.2oz"
 strength: "500mg"

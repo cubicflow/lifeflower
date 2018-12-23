@@ -8,8 +8,8 @@ size: "6oz"
 strength: "50mg"
 image-url: "/assets/img/products/sativa.jpg"
 image-large-url: "/assets/img/products/large/sativa.jpg"
-price: 15
-price_wholesale: 8
+price: 18
+price_wholesale: 9
 price_case: 48
 weight: 175
 weight_case: 1050
