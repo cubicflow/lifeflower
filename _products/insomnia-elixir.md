@@ -8,7 +8,7 @@ size: "10ml"
 strength: "100mg"
 image-url: "/assets/img/products/roller-insomnia.jpg"
 image-large-url: "/assets/img/products/large/roller-insomnia.jpg"
-price: 25
+price: 30
 price_wholesale: 15
 price_case: 90
 weight: 90

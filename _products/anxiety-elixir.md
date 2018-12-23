@@ -8,7 +8,7 @@ size: "10ml"
 strength: "100mg"
 image-url: "/assets/img/products/roller-anxiety.jpg"
 image-large-url: "/assets/img/products/large/roller-anxiety.jpg"
-price: 25
+price: 30
 price_wholesale: 15
 price_case: 90
 weight: 90

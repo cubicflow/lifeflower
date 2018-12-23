@@ -7,8 +7,8 @@ size: "4.0oz"
 strength: "200mg"
 image-url: "/assets/img/products/hemp-elixir.jpg"
 image-large-url: "/assets/img/products/large/hemp-elixir.jpg"
-price: 50
-price_wholesale: 26
+price: 44
+price_wholesale: 22
 price_case: 104
 weight: 240
 weight_case: 960

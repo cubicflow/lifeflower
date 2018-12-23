@@ -8,8 +8,8 @@ size: "2.0oz"
 strength: "blank"
 image-url: "/assets/img/products/balm-goddess.jpg"
 image-large-url: "/assets/img/products/large/balm-goddess.jpg"
-price: 45
-price_wholesale: 25
+price: 44
+price_wholesale: 22
 price_case: 100
 weight: 145
 weight_case: 580

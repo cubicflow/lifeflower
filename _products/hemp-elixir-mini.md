@@ -7,7 +7,7 @@ size: "2.0oz"
 strength: "100mg"
 image-url: "/assets/img/products/hemp-elixir-mini.jpg"
 image-large-url: "/assets/img/products/large/hemp-elixir-mini.jpg"
-price: 25
+price: 26
 price_wholesale: 13
 price_case: 78
 weight: 125
