@@ -24,11 +24,11 @@ sitemap: true
 orderable: false
 hidden: false
 
-out_of_stock_message: October 16, 2018 - This item is currently unavailable but we expect stock to be replenished soon.
+out_of_stock_message: This item is currently unavailable but we expect stock to be replenished soon.
 
 long_description: Say goodbye to the common cold with our organic hemp-derived CBD infused Elderberry syrup. Perfect for an everyday supplement, season change or travel time. Handcrafted with immune-boosting ingredients that work together synergistically to kick even the nastiest of colds.
 
-ingredients: 500mg Pure Hemp-Derived CBD, Organic Elderberry Juice, Organic Raw Honey, Distilled Water, Organic Ginger Root, Organic Cinnamon Powder.
+ingredients: 200mg Pure Hemp-Derived CBD, Organic Elderberry Juice, Organic Raw Honey, Distilled Water, Organic Ginger Root, Organic Cinnamon Powder.
 
 directions: Recommended Use – Adults take 1 TBSP daily as a supplement. Children under 14 take 1 TSP daily as a supplement. If sick with a cold, dose every 3 hours until symptoms subside.
 
