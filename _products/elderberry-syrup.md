@@ -1,10 +1,10 @@
 ---
-title: "Elderberry Elixir"
+title: "Elderberry Syrup"
 product-category: supplements
-name: "Elderberry Elixir"
-description: "500mg Hemp-Derived CBD"
+name: "Elderberry Syrup"
+description: "200mg Hemp-Derived CBD"
 size: "4.0oz"
-strength: "500mg"
+strength: "200mg"
 image-url: "/assets/img/products/elderberry-elixir.jpg"
 image-large-url: "/assets/img/products/large/elderberry-elixir.jpg"
 price: 44
