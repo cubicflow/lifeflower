@@ -10,7 +10,7 @@ image-url: "/assets/img/products/stick.jpg"
 image-large-url: "/assets/img/products/large/stick.jpg"
 price: 60
 price_wholesale: 30
-price_case: 140
+price_case: 120
 weight: 100
 weight_case: 400
 case-count: 4

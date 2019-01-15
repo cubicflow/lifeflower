@@ -9,7 +9,7 @@ image-url: "/assets/img/products/elderberry-elixir.jpg"
 image-large-url: "/assets/img/products/large/elderberry-elixir.jpg"
 price: 44
 price_wholesale: 22
-price_case: 78
+price_case: 88
 weight: 240
 weight_case: 960
 case-count: 4
