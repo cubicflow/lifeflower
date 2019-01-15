@@ -10,7 +10,7 @@ image-url: "/assets/img/products/pompeii.jpg"
 image-large-url: "/assets/img/products/large/pompeii.jpg"
 price: 18
 price_wholesale: 9
-price_case: 48
+price_case: 54
 weight: 175
 weight_case: 1050
 case-count: 6
