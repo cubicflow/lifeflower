@@ -10,7 +10,7 @@ image-url: "/assets/img/products/isolate-1000.jpg"
 image-large-url: "/assets/img/products/large/isolate-1000.jpg"
 price: 40
 price_wholesale: 20
-price_case: 108
+price_case: 120
 weight: 40
 weight_case: 240
 case-count: 6

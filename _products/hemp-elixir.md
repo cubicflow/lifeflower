@@ -9,7 +9,7 @@ image-url: "/assets/img/products/hemp-elixir.jpg"
 image-large-url: "/assets/img/products/large/hemp-elixir.jpg"
 price: 44
 price_wholesale: 22
-price_case: 104
+price_case: 88
 weight: 240
 weight_case: 960
 case-count: 4

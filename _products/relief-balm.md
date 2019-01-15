@@ -10,7 +10,7 @@ image-url: "/assets/img/products/balm.jpg"
 image-large-url: "/assets/img/products/large/balm.jpg"
 price: 44
 price_wholesale: 22
-price_case: 100
+price_case: 44
 weight: 145
 weight_case: 580
 case-count: 4
