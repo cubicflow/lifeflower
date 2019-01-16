@@ -25,7 +25,7 @@ stackable: true
 
 long_description: Handcrafted with a blend of invigorating therapeutic grade essential oils, Hawaiian black lava salt, epsom salt and sea salt. These bath crystals are the perfect detoxifying self care treat. Activated charcoal pulls toxins and debris from our pores while CBD-infused sweet almond oil relaxes sore, tired muscles and nourishes dry, chapped skin. Note - this product contains activated charcoal, so give your tub a little scrub when you're done.
 
-ingredients: 500mg Pure Hemp-Derived CBD, Black Lava Hawaiian Salt (Activated Charcoal-infused), Sea Salt, Epsom Salt, Organic Hemp Oil, Sweet Almond Oil, Sage + Eucalyptus + Peppermint Essential Oils, Organic Herbs.
+ingredients: Black Lava Hawaiian Salt (Activated Charcoal-Infused), Epsom Salt, Organic Safflower Oil, Elderberry Extract, Pure Hemp-Derived Cannabidiol Isolate, Eucalyptus, Peppermint and Sage Essential Oils, Organic Sage, Roses and Calendula, Cleansed & Charged Quartz
 
 product-notes: Life Flower products are made in small batches with all-natural and boutique ingredients. Orders are processed and shipped in 7-10 business days. Please allow additional time for&nbsp;delivery.
 

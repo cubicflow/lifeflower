@@ -25,7 +25,7 @@ stackable: true
 
 long_description: Have you ever gone to start a busy day only to be stopped in your tracks by overthinking, paranoia or a nervous mind? We have the perfect all natural solution to those pesky shakes and jitters! Relieve anxiety the way nature intended with this amazing smelling medicated essential oil roll-on. Handcrafted with a soothing, infused blend of essential oils, corresponding organic herbs as well as a quartz crystal chip to amplify it all. Handcrafted in small batches with love and care.
 
-ingredients: 100mg Pure Hemp-Derived CBD, Organic Hemp Oil, Kava Kava Extract, Blend of Therapeutic-grade Essential Oils, Organic Herbs, Sunflower Lecithin, Vitamin E, Cleansed & Charged Crystal.
+ingredients: Organic Safflower Oil, Therapeutic-Grade Lavender, Ylang Ylang, Clary Sage & Frankincense Essential Oils, Kava Kava Extract, Elderberry Extract, Organic Hemp-Derived Cannabidiol Isolate, Organic Sage, Frankincense & Lavender, Cleansed & Charged Quartz
 
 product-notes: Life Flower products are made in small batches with all-natural and boutique ingredients. Orders are processed and shipped in 7-10 business days. Please allow additional time for&nbsp;delivery.
 

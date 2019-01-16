@@ -25,7 +25,7 @@ stackable: true
 
 long_description: Handcrafted with organic, nourishing coconut oil, aphrodisiacal therapeutic-grade essential oils, organic rose buds and a cleansed and charged Rose Quartz - the stone of unconditional love. Whether sharing with a loved one or enjoying by yourself this bomb is the perfect self-care pick me up.
 
-ingredients: Organic Hemp Oil, Organic Coconut Oil, Sodium Bicarbonate, Naturally-derived Citric Acid, Corn Starch, Epsom Salt, Organic Herbs, Essential Oils, Plant-based Color, Witch Hazel, Cleansed & Charged Crystal.
+ingredients: Naturally Derived Sodium Bicarbonate, Citric Acid, Epsom Salt, Organic Coconut Oil, Organic Hemp-Derived Cannabidiol Isolate, Witch Hazel, Lavender & Ylang Ylang Essential Oils, Organic Lavender, Rose & Calendula, Cleansed & Charged Rose Quartz
 
 product-notes: Life Flower products are made in small batches with all-natural and boutique ingredients. Orders are processed and shipped in 7-10 business days. Please allow additional time for&nbsp;delivery.
 

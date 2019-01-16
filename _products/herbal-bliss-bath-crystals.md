@@ -25,7 +25,7 @@ stackable: true
 
 long_description: The perfect before bed treat to add to your self care routine, infused with both Lavender and Eucalyptus essential oils to ensure a peaceful nights sleep. Lavender has been a natural sedative for thousands of years while Eucalyptus opens the airways and improves deep breathing. Our Herbal Bliss Bath Crystals are handcrafted with Pink Himalayan Sea Salt, Epsom Salt and Sea salt, Sweet Almond oil and a bright array of organic herbs. Crystal infused with a Rose Quartz crystal to enhance/amplify the healing vibrations of your bath.
 
-ingredients: 500mg Pure Hemp-Derived CBD, Pink Himalayan Sea Salt, Epsom Salt, Dead Sea Salt, Organic Hemp Oil, Organic Herbs, Lavender + Eucalyptus Essential Oils, Elderberry Extract, Vitamin E.
+ingredients: Pink Himalayan Sea Salt, Epsom Salt, Organic Hemp-Derived Cannabidiol Isolate, Organic Roses, Calendula, Lavender and Jasmine, Lavender and Eucalyptus Therapeutic-Grade Essential Oils, Organic Safflower Oil, Elderberry Extract, Cleansed & Charged Rose Quartz
 
 product-notes: Life Flower products are made in small batches with all-natural and boutique ingredients. Orders are processed and shipped in 7-10 business days. Please allow additional time for&nbsp;delivery.
 

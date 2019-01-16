@@ -28,7 +28,7 @@ out_of_stock_message:
 
 long_description: For the early riser. Gently awaken the body and soul with an uplifting Lemongrass wash.  Lemongrass essential oil is anti-depressive, antiseptic and astringent, it sterilizes the pores, serves as a natural toner and strengthens skin tissues - making it a great solution for those struggling with skin conditions like acne or eczema. Packed with citral and limonene, Lemongrass kills off bacteria and fungi associated with ringworm, athlete’s foot and even candida. Infused with a cleansed, tumbled Citrine - the stone of mental clarity and visualization.
 
-ingredients: 100mg Pure Hemp-Derived CBD, Saponified Organic Coconut Oil, Saponified Organic Olive Oil, Saponified Organic Jojoba Oil, Lemongrass Essential Oil Blend, Natural Rosemary Extract, Organic Aloe Vera, Cleansed & Charged Crystal.
+ingredients: Saponified Organic Coconut Oil, Saponified Organic Olive Oil, Saponified Organic Jojoba Oil, Organic Hemp-Derived CBD Isolate, Lemongrass Essential Oil, Natural Rosemary Extract, Organic Aloe Vera, Cleansed & Charged Citrine
 
 directions: Lather up and treat your senses to a natural cleansing experience. Massage the plant oils deep into your skin and inhale, hold for 5 seconds. Exhale, hold for 5 seconds and repeat 5 times for a soothing, aromatic treat.
 

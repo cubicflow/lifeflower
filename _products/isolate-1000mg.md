@@ -39,7 +39,7 @@ directions: >-
   <br><br>
   INHALE CBD: The fastest way to deliver our pure CBD to your receptors is inhalation, this is because the compounds in the CBD bypass the liver and gut and gets delivered directly to the bloodstream for faster effects. Our pure CBD can be added to cannabis or smoked via vape or water bubblers with a vaporization point of 180-200°C (356-392°F).
 
-ingredients: 1000mg Pure Hemp-Derived CBD isolate.
+ingredients: 1000mg Pure Hemp-Derived CBD isolate
 
 product-notes: Life Flower products are made in small batches with all-natural and boutique ingredients. Orders are processed and shipped in 7-10 business days. Please allow additional time for&nbsp;delivery.
 

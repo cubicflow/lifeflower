@@ -28,7 +28,7 @@ out_of_stock_message:
 
 long_description: For an afternoon delight. Ascend your vibration instantly with a Patchouli x Rose essential oil infused conscious wash. These powerful essential oils have strong anti- depressive properties, synergistically they encourage the release of serotonin and dopamine - the natural happiness chemical in our brains, easing feelings of anger, depression and anxiety. Essential in treating irritated skin conditions like acne, eczema or dry, cracked skin.  This blend is effective for those looking to uplift the vibration, balance hormones and naturally improve the libido. Infused with a cleansed, tumbled Rose Quartz - the stone of unconditional love. 
 
-ingredients: 100mg Pure Hemp-Derived CBD, Saponified Organic Coconut Oil, Saponified Organic Olive Oil, Saponified Organic Jojoba Oil, Patchouli + Rose Essential Oil Blend, Natural Rosemary Extract, Organic Aloe Vera, Cleansed & Charged Crystal.
+ingredients: Saponified Organic Coconut Oil, Saponified Organic Olive Oil, Saponified Organic Jojoba Oil, Organic Hemp-Derived Cannabidiol, Lemongrass Essential Oil Blend, Natural Rosemary Extract, Organic Aloe Vera, Cleansed & Charged Rose Quartz
 
 directions: Lather up and treat your senses to a natural cleansing experience. Massage the plant oils deep into your skin and inhale, hold for 5 seconds. Exhale, hold for 5 seconds and repeat 5 times for a soothing, aromatic treat.
 
