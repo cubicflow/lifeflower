@@ -25,7 +25,7 @@ stackable: true
 
 long_description: All-organic ingredients sourced directly from nature to ease aches, pains, burns, and scars. Coconut oil and olive oil work by nourishing the skin while the anti-inflammatory properties of beeswax, shea butter, lavender and eucalyptus essential oils relieve the muscles.
 
-ingredients: 100mg Pure Hemp-Derived CBD, Organic Coconut Oil, Organic Olive Oil, Organic Beeswax, Unrefined Pure Cocoa Butter, Unrefined Pure Shea Butter, Organic Sunflower Lecithin, Tapioca Starch, Essential Oils.
+ingredients: Organic Coconut Oil, Organic Olive Oil, Organic Beeswax, Unrefined Fair-Trade Cocoa & Shea Butters, Arnica-Infused Sunflower Oil, Organic Sunflower Lecithin, Organic Hemp-Derived Cannabidiol Isolate, Lavender, Eucalyptus & Copaiba Essential Oils
 
 product-notes: Life Flower products are made in small batches with all-natural and boutique ingredients. Orders are processed and shipped in 7-10 business days. Please allow additional time for&nbsp;delivery.
 

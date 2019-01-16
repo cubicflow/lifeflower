@@ -28,7 +28,7 @@ out_of_stock_message:
 
 long_description: For the night owl. Wash the day off with a soothing Lavender wash. Lavender essential oil is a powerful natural antioxidant, anti-microbial, anti-depressant and sedative. Proven to kill infection and increase cell growth causing wounds to heal faster while decreasing the appearance of scars. Infused with a cleansed, tumbled Amethyst - the stone of sleep and sobriety. 
 
-ingredients: 100mg Pure Hemp-Derived CBD, Saponified Organic Coconut Oil, Saponified Organic Olive Oil, Saponified Organic Jojoba Oil, Lavender Essential Oil Blend, Natural Rosemary Extract, Organic Aloe Vera, Cleansed & Charged Crystal.
+ingredients: Saponified Organic Coconut Oil, Saponified Organic Olive Oil, Saponified Organic Jojoba Oil, Organic Hemp-Derived Cannabidiol, Lavender Essential Oil, Rosemary Extract, Organic Aloe Vera, Cleansed & Charged Amethyst
 
 directions: Lather up and treat your senses to a natural cleansing experience. Massage the plant oils deep into your skin and inhale, hold for 5 seconds. Exhale, hold for 5 seconds and repeat 5 times for a soothing, aromatic treat.
 

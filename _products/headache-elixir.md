@@ -25,7 +25,7 @@ stackable: true
 
 long_description: Beat your next headache the natural way, pill-free with a blend of nature's many solutions. Infused Sweet Almond oil is paired with healing essential oils that have been proven over and over to kick headaches and migraines- Infused with corresponding organic herbs to provide extra minerals, nutrients and healing benefits. Includes a cleansed and charged quartz crystal chip to amplify it all.
 
-ingredients: 100mg Pure Hemp-Derived CBD, Organic Hemp Oil, Magnesium Oil, Blend of Therapeutic-grade Essential Oils, Organic Herbs, Sunflower Lecithin, Vitamin E, Cleansed & Charged Crystal.
+ingredients: Organic Safflower Oil, Organic Herbs, Therapeutic Grade Essential Oils of Peppermint, Lavender, Frankincense & Eucalyptus, Elderberry Extract, Organic Hemp-Derived Cannabidiol Isolate, Cleansed & Charged Quartz
 
 product-notes: Life Flower products are made in small batches with all-natural and boutique ingredients. Orders are processed and shipped in 7-10 business days. Please allow additional time for&nbsp;delivery.
 
