@@ -1,8 +1,8 @@
 ---
-title: "“Crystal Vision” Bath Bomb"
+title: "Crystal Vision Bath Bomb"
 product-category: bath
 sitemap: true
-name: "“Crystal Vision” Bath Bomb"
+name: "Crystal Vision Bath Bomb"
 description: "50mg Hemp-Derived CBD"
 size: "6oz"
 strength: "50mg"

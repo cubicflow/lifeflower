@@ -1,7 +1,7 @@
 ---
-title: "“Lemongrass” Body Wash"
+title: "Lemongrass Body Wash"
 product-category: bath
-name: "“Lemongrass” Body Wash"
+name: "Lemongrass Body Wash"
 description: "100mg Hemp-Derived CBD"
 size: "8.0oz"
 strength: "100mg"

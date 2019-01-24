@@ -1,8 +1,8 @@
 ---
-title: "“Pompeii” Bath Bomb"
+title: "Pompeii Bath Bomb"
 product-category: bath
 sitemap: false
-name: "“Pompeii” Bath Bomb"
+name: "Pompeii Bath Bomb"
 description: "50mg Hemp-Derived CBD"
 size: "6oz"
 strength: "50mg"

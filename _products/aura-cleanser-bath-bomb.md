@@ -1,8 +1,8 @@
 ---
-title: "“Aura Cleanser” Bath Bomb"
+title: "Aura Cleanser Bath Bomb"
 product-category: bath
 sitemap: false
-name: "“Aura Cleanser” Bath Bomb"
+name: "Aura Cleanser Bath Bomb"
 description: "50mg Hemp-Derived CBD"
 size: "6oz"
 strength: "50mg"

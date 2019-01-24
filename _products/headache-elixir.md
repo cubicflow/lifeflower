@@ -1,8 +1,8 @@
 ---
-title: "“Headache” Elixir"
+title: "Headache Elixir"
 product-category: topicals
 sitemap: true
-name: "“Headache” Elixir"
+name: "Headache Elixir"
 description: "100mg Hemp-Derived CBD"
 size: "10ml"
 strength: "100mg"

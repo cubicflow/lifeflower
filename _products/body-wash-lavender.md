@@ -1,7 +1,7 @@
 ---
-title: "“Lavender” Body Wash"
+title: "Lavender Body Wash"
 product-category: bath
-name: "“Lavender” Body Wash"
+name: "Lavender Body Wash"
 description: "100mg Hemp-Derived CBD"
 size: "8.0oz"
 strength: "100mg"

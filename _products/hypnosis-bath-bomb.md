@@ -1,8 +1,8 @@
 ---
-title: "“Hypnosis” Bath Bomb"
+title: "Hypnosis Bath Bomb"
 product-category: bath
 sitemap: true
-name: "“Hypnosis” Bath Bomb"
+name: "Hypnosis Bath Bomb"
 description: "50mg Hemp-Derived CBD"
 size: "6oz"
 strength: "50mg"

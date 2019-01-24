@@ -1,8 +1,8 @@
 ---
-title: "“Herbal Bliss” Bath Crystals"
+title: "Herbal Bliss Bath Crystals"
 product-category: bath
 sitemap: true
-name: "“Herbal Bliss” Bath Crystals"
+name: "Herbal Bliss Bath Crystals"
 description: "500mg Hemp-Derived CBD"
 size: "16oz"
 strength: "500mg"
