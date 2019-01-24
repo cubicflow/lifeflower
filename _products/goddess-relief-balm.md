@@ -1,8 +1,8 @@
 ---
-title: "“Goddess” Relief Balm"
+title: "Goddess Relief Balm"
 product-category: topicals
 sitemap: true
-name: "“Goddess” Relief Balm"
+name: "Goddess Relief Balm"
 description: "100mg Hemp-Derived CBD"
 size: "2.0oz"
 strength: "blank"

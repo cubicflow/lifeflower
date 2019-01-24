@@ -1,8 +1,8 @@
 ---
-title: "“Anxiety” Elixir"
+title: "Anxiety Elixir"
 product-category: topicals
 sitemap: true
-name: "“Anxiety” Elixir"
+name: "Anxiety Elixir"
 description: "100mg Hemp-Derived CBD"
 size: "10ml"
 strength: "100mg"

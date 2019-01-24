@@ -1,8 +1,8 @@
 ---
-title: "“Goddess” Elixir"
+title: "Goddess Elixir"
 product-category: topicals
 sitemap: true
-name: "“Goddess” Elixir"
+name: "Goddess Elixir"
 description: "100mg Hemp-Derived CBD"
 size: "15ml"
 strength: "blank"

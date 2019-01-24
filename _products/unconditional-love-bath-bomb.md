@@ -1,8 +1,8 @@
 ---
-title: "“Unconditional Love” Bath Bomb"
+title: "Unconditional Love Bath Bomb"
 product-category: bath
 sitemap: true
-name: "“Unconditional Love” Bath Bomb"
+name: "Unconditional Love Bath Bomb"
 description: "50mg Hemp-Derived CBD"
 size: "6oz"
 strength: "blank"
@@ -25,11 +25,12 @@ stackable: true
 
 long_description: Handcrafted with organic, nourishing coconut oil, aphrodisiacal therapeutic-grade essential oils, organic rose buds and a cleansed and charged Rose Quartz - the stone of unconditional love. Whether sharing with a loved one or enjoying by yourself this bomb is the perfect self-care pick me up.
 
-ingredients: Naturally Derived Sodium Bicarbonate, Citric Acid, Epsom Salt, Organic Coconut Oil, Organic Hemp-Derived Cannabidiol Isolate, Witch Hazel, Lavender & Ylang Ylang Essential Oils, Organic Lavender, Rose & Calendula, Cleansed & Charged Rose Quartz
+ingredients: Naturally Derived Sodium Bicarbonate, Citric Acid, Epsom Salt, Organic Coconut Oil, Organic Hemp-Derived Cannabidiol Isolate, Witch Hazel, Lavender & Ylang Ylang Essential Oils, Organic Lavender, Rose, & Calendula, Cleansed & Charged Rose Quartz
 
-product-notes: Life Flower products are made in small batches with all-natural and boutique ingredients. Orders are processed and shipped in 7-10 business days. Please allow additional time for&nbsp;delivery.
+product-notes: Life Flower products are made in small batches with all-natural and boutique ingredients. Orders are processed and shipped in 7-10 business days. Please allow additional time for delivery.
 
 history: blank
 
 healing-properties: blank
+
 ---

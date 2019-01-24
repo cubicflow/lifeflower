@@ -1,8 +1,8 @@
 ---
-title: "“Unify” Massage Oil"
+title: "Unify Massage Oil"
 product-category: "topicals"
 sitemap: true
-name: "“Unify” Massage Oil"
+name: "Unify Massage Oil"
 description: "500mg Hemp-Derived CBD"
 size: "3.2oz"
 strength: "500mg"

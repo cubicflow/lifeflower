@@ -1,8 +1,8 @@
 ---
-title: "“Limonene” Bath Bomb"
+title: "Limonene Bath Bomb"
 product-category: bath
 sitemap: true
-name: "“Limonene” Bath Bomb"
+name: "Limonene Bath Bomb"
 description: "50mg Hemp-Derived CBD"
 size: "6oz"
 strength: "50mg"
