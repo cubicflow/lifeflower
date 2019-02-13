@@ -1,12 +1,12 @@
 ---
-title: "Gua Sha Tool"
+title: "Gua Sha Roller"
 product-category: topicals
-name: "Gua Sha Tool"
+name: "Gua Sha Roller"
 description: "Rose Quartz"
 size: "4.0in"
 strength: blank
-image-url: "/assets/img/products/gua-sha-rose-quartz.jpg"
-image-large-url: "/assets/img/products/large/gua-sha-rose-quartz.jpg"
+image-url: "/assets/img/products/gua-sha-roller-rose-quartz.jpg"
+image-large-url: "/assets/img/products/large/gua-sha-roller-rose-quartz.jpg"
 price: 20
 price_wholesale: 10
 price_case: 60
@@ -14,7 +14,7 @@ weight: 50
 weight_case: 300
 case-count: 6
 
-display_order: 9999
+display_order: 9998
 cell_layout:
 new: false
 is_crystal: false
