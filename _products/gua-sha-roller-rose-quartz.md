@@ -7,12 +7,12 @@ size: "4.0in"
 strength: blank
 image-url: "/assets/img/products/gua-sha-roller-rose-quartz.jpg"
 image-large-url: "/assets/img/products/large/gua-sha-roller-rose-quartz.jpg"
-price: 20
-price_wholesale: 10
+price: 30
+price_wholesale: 15
 price_case: 60
 weight: 50
-weight_case: 300
-case-count: 6
+weight_case: 200
+case-count: 4
 
 display_order: 9998
 cell_layout:
