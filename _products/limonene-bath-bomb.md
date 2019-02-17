@@ -27,7 +27,7 @@ long_description: The Limonene bath bomb was created to uplift and stimulate the
 
 ingredients: Naturally Derived Sodium Bicarbonate, Citric Acid, Epsom Salt, Organic Coconut Oil, Organic Hemp-Derived Cannabidiol Isolate, Witch Hazel, Lemon, Tea Tree & Lemongrass Essential Oils, Plant-Based Color, Organic Jasmine & Rose Buds, Cleansed & Charged Citrine
 
-product-notes: Life Flower products are made in small batches with all-natural and boutique ingredients. Orders are processed and shipped in 7-10 business days. Please allow additional time for&nbsp;delivery.
+product-notes: Life Flower products are made in small batches with all-natural and boutique ingredients. Orders are processed and ship within 14 business days. Please allow additional time for&nbsp;delivery.
 
 history: blank
 

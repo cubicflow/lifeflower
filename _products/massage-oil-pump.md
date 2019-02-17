@@ -27,7 +27,7 @@ long_description: Made with all natural almond oil and coconut oil, this massage
 
 ingredients: 500mg Pure Hemp-Derived CBD, Organic Calendula-infused Hemp Oil, Safflower Oil, Arnica Oil, Elderberry Extract, Sweet Almond Oil, Organic Herbs, Aphrodisiacal Blend of Therapeutic-grade Essential Oils, Sunflower Lecithin, Cleansed & Charged Rose Quartz.
 
-product-notes: Life Flower products are made in small batches with all-natural and boutique ingredients. Orders are processed and shipped in 7-10 business days. Please allow additional time for&nbsp;delivery.
+product-notes: Life Flower products are made in small batches with all-natural and boutique ingredients. Orders are processed and ship within 14 business days. Please allow additional time for&nbsp;delivery.
 
 history: blank
 

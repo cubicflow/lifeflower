@@ -27,7 +27,7 @@ long_description: Handcrafted with a blend of invigorating therapeutic grade ess
 
 ingredients: Black Lava Hawaiian Salt (Activated Charcoal-Infused), Epsom Salt, Organic Safflower Oil, Elderberry Extract, Pure Hemp-Derived Cannabidiol Isolate, Eucalyptus, Peppermint and Sage Essential Oils, Organic Sage, Roses and Calendula, Cleansed & Charged Quartz
 
-product-notes: Life Flower products are made in small batches with all-natural and boutique ingredients. Orders are processed and shipped in 7-10 business days. Please allow additional time for&nbsp;delivery.
+product-notes: Life Flower products are made in small batches with all-natural and boutique ingredients. Orders are processed and ship within 14 business days. Please allow additional time for&nbsp;delivery.
 
 history: blank
 

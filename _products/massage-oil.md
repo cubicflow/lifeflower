@@ -31,7 +31,7 @@ long_description: Made with all natural almond oil and coconut oil, this massage
 
 ingredients: Organic Safflower Oil, Organic Arnica-Infused Sunflower Oil, Elderberry Extract, Organic Roses, Jasmine and Lavender, Aphrodisiacal Blend of Lavender, Ylang Ylang, Orange, Patchouli & Copaiba Essential Oils, Organic Sunflower Lecithin, Cleansed & Charged Rose Quartz
 
-product-notes: Life Flower products are made in small batches with all-natural and boutique ingredients. Orders are processed and shipped in 7-10 business days. Please allow additional time for&nbsp;delivery.
+product-notes: Life Flower products are made in small batches with all-natural and boutique ingredients. Orders are processed and ship within 14 business days. Please allow additional time for&nbsp;delivery.
 
 history: blank
 

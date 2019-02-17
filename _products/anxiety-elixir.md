@@ -27,7 +27,7 @@ long_description: Have you ever gone to start a busy day only to be stopped in y
 
 ingredients: Organic Safflower Oil, Therapeutic-Grade Lavender, Ylang Ylang, Clary Sage & Frankincense Essential Oils, Kava Kava Extract, Elderberry Extract, Organic Hemp-Derived Cannabidiol Isolate, Organic Sage, Frankincense & Lavender, Cleansed & Charged Quartz
 
-product-notes: Life Flower products are made in small batches with all-natural and boutique ingredients. Orders are processed and shipped in 7-10 business days. Please allow additional time for&nbsp;delivery.
+product-notes: Life Flower products are made in small batches with all-natural and boutique ingredients. Orders are processed and ship within 14 business days. Please allow additional time for&nbsp;delivery.
 
 history: blank
 

@@ -27,7 +27,7 @@ long_description: All-organic ingredients sourced directly from nature to ease a
 
 ingredients: Organic Cayenne-Infused Coconut Oil, Organic Olive Oil, Organic Beeswax, Unrefined Fair-Trade Cocoa & Shea Butters, Organic Hemp-Derived Cannabidiol Isolate, Organic Sunflower Lecithin, Essential Oils of Lavender, Eucalyptus & Copaiba
 
-product-notes: Available in both a plastic "deodorant" style container, as well as our new eco-friendly, 100% biodegradable cardboard container. Life Flower products are made in small batches with all-natural and boutique ingredients. Orders are processed and shipped in 7-10 business days. Please allow additional time for&nbsp;delivery.
+product-notes: Available in both a plastic "deodorant" style container, as well as our new eco-friendly, 100% biodegradable cardboard container. Life Flower products are made in small batches with all-natural and boutique ingredients. Orders are processed and ship within 14 business days. Please allow additional time for&nbsp;delivery.
 
 history: blank
 
