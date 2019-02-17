@@ -26,11 +26,11 @@ hidden: false
 
 out_of_stock_message:
 
-long_description: Not only essential for beauty, this genuine Rose Quartz tool is amazing for anyone on the self-care journey. Gua Sha relies on tender, undivided attention and affection to parts of the body that many of us have overlooked or neglected for so long. Rose Quartz is the stone of unconditional love, so it's only fitting that this self love tool is carved from it.  
+long_description: The Rose Quartz Roller is a divine beauty tool for anyone looking to expand their self-love/care routine. Facial rolling is extremely relaxing and has been a beauty ritual since ancient times - dating back to the 7th century in China. The Rose Quartz Roller will help firm the look of skin through gentle massage while supporting the lymphatic system, the body’s biggest detoxification system. Since this tool is made out of Rose Quartz crystal, it works directly with the Heart Chakra to intensify vibrations of unconditional self love.   
 
 ingredients: blank
 
-directions: Oil your skin with your favorite Life Flower product. On your skin use repeated, firm strokes that move away from the face and/or down towards the heart.
+directions: Best paired with our Unify massage oil - use a few drops on the face and roll gently into the skin. Place it in the fridge or freezer to support natural collagen production and circulation, drain congested lymph nodes and rid the body of toxins.
 
 product-notes: blank
 
