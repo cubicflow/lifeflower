@@ -27,7 +27,7 @@ long_description: Handcrafted with organic, nourishing coconut oil, aphrodisiaca
 
 ingredients: Naturally Derived Sodium Bicarbonate, Citric Acid, Epsom Salt, Organic Coconut Oil, Organic Hemp-Derived Cannabidiol Isolate, Witch Hazel, Lavender & Ylang Ylang Essential Oils, Organic Lavender, Rose, & Calendula, Cleansed & Charged Rose Quartz
 
-product-notes: Life Flower products are made in small batches with all-natural and boutique ingredients. Orders are processed and shipped in 7-10 business days. Please allow additional time for delivery.
+product-notes: Life Flower products are made in small batches with all-natural and boutique ingredients. Orders are processed and ship within 14 business days. Please allow additional time for delivery.
 
 history: blank
 

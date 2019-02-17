@@ -27,7 +27,7 @@ long_description: The perfect before bed treat to add to your self care routine,
 
 ingredients: Pink Himalayan Sea Salt, Epsom Salt, Organic Hemp-Derived Cannabidiol Isolate, Organic Roses, Calendula, Lavender and Jasmine, Lavender and Eucalyptus Therapeutic-Grade Essential Oils, Organic Safflower Oil, Elderberry Extract, Cleansed & Charged Rose Quartz
 
-product-notes: Life Flower products are made in small batches with all-natural and boutique ingredients. Orders are processed and shipped in 7-10 business days. Please allow additional time for&nbsp;delivery.
+product-notes: Life Flower products are made in small batches with all-natural and boutique ingredients. Orders are processed and ship within 14 business days. Please allow additional time for&nbsp;delivery.
 
 history: blank
 

@@ -32,7 +32,7 @@ ingredients: Saponified Organic Coconut Oil, Saponified Organic Olive Oil, Sapon
 
 directions: Lather up and treat your senses to a natural cleansing experience. Massage the plant oils deep into your skin and inhale, hold for 5 seconds. Exhale, hold for 5 seconds and repeat 5 times for a soothing, aromatic treat.
 
-product-notes: Life Flower products are made in small batches with all-natural and boutique ingredients. Orders are processed and shipped in 7-10 business days. Please allow additional time for&nbsp;delivery.
+product-notes: Life Flower products are made in small batches with all-natural and boutique ingredients. Orders are processed and ship within 14 business days. Please allow additional time for&nbsp;delivery.
 
 history: blank
 

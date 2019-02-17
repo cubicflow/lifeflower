@@ -27,7 +27,7 @@ long_description: Beat your next headache the natural way, pill-free with a blen
 
 ingredients: Organic Safflower Oil, Organic Herbs, Therapeutic Grade Essential Oils of Peppermint, Lavender, Frankincense & Eucalyptus, Elderberry Extract, Organic Hemp-Derived Cannabidiol Isolate, Cleansed & Charged Quartz
 
-product-notes: Life Flower products are made in small batches with all-natural and boutique ingredients. Orders are processed and shipped in 7-10 business days. Please allow additional time for&nbsp;delivery.
+product-notes: Life Flower products are made in small batches with all-natural and boutique ingredients. Orders are processed and ship within 14 business days. Please allow additional time for&nbsp;delivery.
 
 history: blank
 
