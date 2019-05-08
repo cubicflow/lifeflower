@@ -115,8 +115,8 @@ Los Angeles, CA<br><br>
 South Lake Tahoe, CA<br><br>
 
 <span class="text-gray-dark"><u>Calmist</u></span><br>
-2101 California Ave. #2<br>
-Santa Monica, CA<br><br>
+10250 Santa Monica Blvd.<br>
+Los Angeles, CA<br><br>
 
 <span class="text-gray-dark"><u>Spin Boutique</u></span><br>
 417 Roseville Sq.<br>
