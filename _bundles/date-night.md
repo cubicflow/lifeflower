@@ -8,8 +8,8 @@ size: "blank"
 strength: "blank"
 image-url: "/assets/img/bundles/bundle-valentines-2.jpg"
 image-large-url: "/assets/img/bundles/large/bundle-valentines-2.jpg"
-price: 40
-price_wholesale: 40
+price: 50
+price_wholesale: 50
 weight: 395
 display_order: 5
 cell_layout:
