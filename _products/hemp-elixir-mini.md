@@ -20,9 +20,9 @@ new: true
 is_crystal: false
 stackable: true
 
-sitemap: true
-orderable: true
-hidden: false
+sitemap: false
+orderable: false
+hidden: true
 
 long_description: Life Flower’s Hemp Elixir is an organic blend of plant oils that are formulated to fight chronic pain and inflammation. Our super ingredients work synergistically to provide a natural, long-lasting solution to issues like sciatica, arthritis, eczema and other chronic pain. We are proud to offer Mother Nature’s nutritional, natural replacement for synthetic, man-made pain killers that cause other diseases in the body.
 
