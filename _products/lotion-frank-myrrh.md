@@ -5,8 +5,8 @@ name: "Frank x Myrrh Relief Lotion"
 description: "200mg Hemp-Derived CBD"
 size: "8.0oz"
 strength: "200mg"
-image-url: "/images/products/lotion-frank-myrrh.jpg"
-image-large-url: "/images/products/large/lotion-frank-myrrh.jpg"
+image-url: "/assets/img/products/lotion-frank-myrrh.jpg"
+image-large-url: "/assets/img/products/large/lotion-frank-myrrh.jpg"
 price: 48
 price_wholesale: 24
 price_case: 96

@@ -5,8 +5,8 @@ name: "Sandalwood x Vanilla Relief Lotion"
 description: "200mg Hemp-Derived CBD"
 size: "8.0oz"
 strength: "200mg"
-image-url: "/images/products/lotion-sandalwood-vanilla.jpg"
-image-large-url: "/images/products/large/lotion-sandalwood-vanilla.jpg"
+image-url: "/assets/img/products/lotion-sandalwood-vanilla.jpg"
+image-large-url: "/assets/img/products/large/lotion-sandalwood-vanilla.jpg"
 price: 48
 price_wholesale: 24
 price_case: 96
