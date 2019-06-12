@@ -1,7 +1,7 @@
 ---
-title: "Frank x Myrrh Relief Lotion"
+title: "Frank x Myrrh Lotion"
 product-category: bath
-name: "Frank x Myrrh Relief Lotion"
+name: "Frank x Myrrh Lotion"
 description: "200mg Hemp-Derived CBD"
 size: "8.0oz"
 strength: "200mg"

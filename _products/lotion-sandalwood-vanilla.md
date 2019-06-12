@@ -1,7 +1,7 @@
 ---
-title: "Sandalwood x Vanilla Relief Lotion"
+title: "Sandalwood x Vanilla Lotion"
 product-category: bath
-name: "Sandalwood x Vanilla Relief Lotion"
+name: "Sandalwood x Vanilla Lotion"
 description: "200mg Hemp-Derived CBD"
 size: "8.0oz"
 strength: "200mg"
