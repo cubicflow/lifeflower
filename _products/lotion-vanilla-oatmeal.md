@@ -1,7 +1,7 @@
 ---
 title: "Vanilla x Oatmeal Lotion"
 product-category: bath
-name: "Sandalwood x Vanilla Lotion"
+name: "Vanilla x Oatmeal Lotion"
 description: "200mg Hemp-Derived CBD"
 size: "8.0oz"
 strength: "200mg"
@@ -28,7 +28,7 @@ out_of_stock_message:
 
 long_description: The Vanilla x Oatmeal Relief Lotion is a lightweight, synergistic blend of plant oils and botanical fats formulated to nourish and repair vital skin function on a cellular level. Infused with a light, neutral essential oil blend and paired with 500mg of revitalizing hemp-derived CBD to offer 24 hours of healing cellular hydration, restoration and support.
 
-ingredients: Saponified Organic Coconut Oil, Saponified Organic Olive Oil, Saponified Organic Jojoba Oil, Organic Hemp-Derived CBD Isolate, Lemongrass Essential Oil, Natural Rosemary Extract, Organic Aloe Vera, Cleansed & Charged Citrine
+ingredients: Distilled Water, Oatmeal Infused Water, Coconut Oil, Emulsifying Wax NF, Grape Seed Oil, Avocado Oil, Abyssinian Oil, Sweet Almond Oil, Fermented Radish Root, Vanilla Bean Oil, Coconut Fruit Extract, Non GMO Citric Acid Rosemary Leaf Extract, Organic Hemp-Derived Cannabidiol
 
 directions: Apply as needed to relieve sore muscles and repair dry skin or as an all natural, lightweight daily moisturizer. Not for internal use.
 

@@ -28,7 +28,7 @@ out_of_stock_message:
 
 long_description: The Sage x Lemongrass Relief Lotion is a full body, multi-benefit blend of earth-derived plant oils formulated to allow maximum absorption and cellular hydration. Infused with a fresh essential oil blend combined with 200mg of nourishing hemp-derived CBD, this unique lotion offers hours of lightweight cellular hydration, restoration and support.
 
-ingredients: Saponified Organic Coconut Oil, Saponified Organic Olive Oil, Saponified Organic Jojoba Oil, Organic Hemp-Derived CBD Isolate, Lemongrass Essential Oil, Natural Rosemary Extract, Organic Aloe Vera, Cleansed & Charged Citrine
+ingredients: Distilled Water, Coconut Oil, Emulsifying Wax NF, Grape Seed Oil, Avocado Oil, Abyssinian Oil, Sweet Almond Oil, Radish Root Ferment Filtrate, Lemongrass Oil, Sage Oil, Coconut Fruit Extract, Non GMO Citric Acid, Rosemary Leaf Extract, Organic Hemp-Derived Cannabidiol
 
 directions: Apply as needed to relieve sore muscles and repair dry skin or as an all natural, lightweight daily moisturizer. Not for internal use.
 

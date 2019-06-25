@@ -28,7 +28,7 @@ out_of_stock_message:
 
 long_description: The Frank x Myrrh Relief Lotion is a natural, nourishing blend of plant fats and grounding essential oils formulated to hydrate and stimulate vital skin function. This unique lotion provides maximum absorption and hydration on a cellular level while remaining light and non-greasy on the skin. Paired with 200mg of revitalizing hemp-derived CBD.
 
-ingredients: Distilled Water, Oatmeal Infused Water, Coconut Oil, Emulsifying Wax NF, Grape Seed Oil, Avocado Oil, Abyssinian Oil, Sweet Almond Oil, Fermented Radish Root, Vanilla Bean Oil, Coconut Fruit Extract, Non GMO Citric Acid Rosemary Leaf Extract, Organic Hemp-Derived Cannabidiol
+ingredients: Distilled Water, Coconut Oil, Emulsifying Wax NF, Grape Seed Oil, Avocado Oil, Abyssinian Oil, Sweet Almond Oil, Radish Root Ferment Filtrate, Frankincense Oil, Myrrh Oil, Patchouli Oil, Coconut Fruit Extract, Non GMO Citric Acid, Rosemary Leaf Extract, Organic Hemp-Derived Cannabidiol
 
 directions: Apply as needed to relieve sore muscles and repair dry skin or as an all natural, lightweight daily moisturizer. Not for internal use.
 
