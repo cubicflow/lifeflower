@@ -58,6 +58,10 @@ Santa Ana, CA<br><br>
 114 E. Main St.<br>
 Visalia, CA<br><br>
 
+<span class="text-gray-dark"><u>Starlet Hair Lounge & Skin Care</u></span><br>
+4121 Los Coyotes Diagonal<br>
+Lakewood, CA<br><br>
+
 <span class="text-gray-dark"><u>Homage</u></span><br>
 995 Orange Grove Blvd., #A<br>
 Pasadena, CA<br><br>

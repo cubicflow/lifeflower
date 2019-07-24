@@ -17,8 +17,8 @@ case-count: 6
 
 display_order: -14
 cell_layout: "small"
-orderable: true
-hidden: false
+orderable: false
+hidden: true
 new: false
 is_crystal: false
 stackable: true
