@@ -26,7 +26,7 @@ hidden: false
 
 out_of_stock_message:
 
-long_description: The Rose Quartz Roller is a divine beauty tool for anyone looking to expand their self-love/care routine. Facial rolling is extremely relaxing and has been a beauty ritual since ancient times - dating back to the 7th century in China. The Rose Quartz Roller will help firm the look of skin through gentle massage while supporting the lymphatic system, the body’s biggest detoxification system. Since this tool is made out of Rose Quartz crystal, it works directly with the Heart Chakra to intensify vibrations of unconditional self love.  
+long_description: The Rose Quartz Roller is a divine beauty tool for anyone looking to expand their self-love/care routine. Facial rolling is extremely relaxing and has been a beauty ritual since ancient times - dating back to the 7th century in China. The Rose Quartz Roller will help firm the look of skin through gentle massage while supporting the lymphatic system, the body’s biggest detoxification system. Since this tool is made out of Rose Quartz crystal, it works directly with the Heart Chakra to intensify vibrations of unconditional self love.   
 
 ingredients: blank
 

@@ -19,7 +19,7 @@ display_order: -14
 cell_layout: "small"
 orderable: false
 hidden: true
-new: true
+new: false
 is_crystal: false
 stackable: true
 

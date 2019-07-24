@@ -6,5 +6,5 @@ sitemap: false
 image-url: "/assets/img/category--supplements.svg"
 display_order: 5
 hidden: true
-new: true
+new: false
 ---

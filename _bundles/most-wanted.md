@@ -8,8 +8,8 @@ size: "blank"
 strength: "blank"
 image-url: "/assets/img/bundles/bundle-most-wanted.jpg"
 image-large-url: "/assets/img/bundles/large/bundle-most-wanted.jpg"
-price: 60
-price_wholesale: 60
+price: 72
+price_wholesale: 72
 weight: 175
 display_order: 1
 cell_layout:
