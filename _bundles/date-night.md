@@ -15,7 +15,7 @@ display_order: 5
 cell_layout:
 orderable: true
 hidden: false
-new: true
+new: false
 background-color: "#DDE2D9"
 featured_bundle: false
 

@@ -6,5 +6,5 @@ sitemap: true
 image-url: "/assets/img/category--topicals.svg"
 display_order: 4
 hidden: false
-new: true
+new: false
 ---
