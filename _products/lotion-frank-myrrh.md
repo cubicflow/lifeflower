@@ -1,6 +1,6 @@
 ---
 title: "Frank x Myrrh Lotion"
-product-category: bath
+product-category: topicals
 name: "Frank x Myrrh Lotion"
 description: "200mg Hemp-Derived CBD"
 size: "8.0oz"

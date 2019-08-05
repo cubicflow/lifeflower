@@ -1,6 +1,6 @@
 ---
 title: "Sage x Lemongrass Lotion"
-product-category: bath
+product-category: topicals
 name: "Sage x Lemongrass Lotion"
 description: "200mg Hemp-Derived CBD"
 size: "8.0oz"
