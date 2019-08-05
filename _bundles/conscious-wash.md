@@ -19,7 +19,7 @@ new: false
 background-color: "#DDE2D9"
 featured_bundle: false
 
-long_description: Can’t decide between Lemongrass, Lavender or Patchouli Rose? Don't worry, we wont make you. Try all three scents of our plant based, conscious body wash for a discounted price. Originally priced at $75, discounted to $60!
+long_description: Can’t decide between Lemongrass, Lavender or Patchouli Rose? Don't worry, we wont make you. Try all three scents of our plant based, conscious body wash for a discounted price.
 
 ingredients: blank
 
