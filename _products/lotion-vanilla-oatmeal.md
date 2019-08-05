@@ -1,6 +1,6 @@
 ---
 title: "Vanilla x Oatmeal Lotion"
-product-category: bath
+product-category: topicals
 name: "Vanilla x Oatmeal Lotion"
 description: "200mg Hemp-Derived CBD"
 size: "8.0oz"
