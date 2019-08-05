@@ -19,7 +19,7 @@ new: false
 background-color: "#DDE2D9"
 featured_bundle: false
 
-long_description: This set includes three of our powerful essential oil elixirs - each has a unique essential oil blend geared to fight insomnia, anxiety and headaches. Infused with pure hemp-derived CBD, sweet almond oil, therapeutic grade essential oils, organic corresponding herbs and crystals. Originally priced at $75, discounted to $60!
+long_description: This set includes three of our powerful essential oil elixirs - each has a unique essential oil blend geared to fight insomnia, anxiety and headaches. Infused with pure hemp-derived CBD, sweet almond oil, therapeutic grade essential oils, organic corresponding herbs and crystals.
 
 ingredients: blank
 
