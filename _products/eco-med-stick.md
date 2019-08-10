@@ -1,7 +1,7 @@
 ---
 title: "Eco Med Stick"
 product-category: topicals
-sitemap: true
+sitemap: false
 name: "Eco Med Stick"
 description: "200mg Hemp-Derived CBD"
 size: "2.5oz"
@@ -17,8 +17,8 @@ case-count: 4
 
 display_order: -3
 cell_layout:
-orderable: true
-hidden: false
+orderable: false
+hidden: true
 new: false
 is_crystal: false
 stackable: true
