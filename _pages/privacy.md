@@ -9,7 +9,7 @@ title: Privacy Policy
 
   <p>Your privacy is critically important to us. Life FLower Care is located at:<br/>
     <address>
-      Life FLower Care<br/>19519 Jacob Ave. Cerritos <br />90703 - CA , United States<br/>7149161173
+      Life FLower Care<br/>19519 Jacob Ave. Cerritos <br />90703 - CA , United States<br/>310-554-4277
     </address>
   </p>
 
@@ -45,7 +45,7 @@ title: Privacy Policy
   <p>Although most changes are likely to be minor, Life FLower Care may change its Privacy Policy from time to time, and in Life FLower Care's sole discretion. Life FLower Care encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.</p>
   
   <h5>Credit & Contact Information</h5>
-  If you have any questions about this Privacy Policy, please contact us via email at <a href="mailto:info@lifeflowercare.com">info@lifeflowercare.com</a>	or by phone at <a href="tel:7147163425">+1 (714) 716-3425</a>
+  If you have any questions about this Privacy Policy, please contact us via email at <a href="mailto:info@lifeflowercare.com">info@lifeflowercare.com</a>	or by phone at <a href="tel:3105544277">(310)554-4277</a>
 
 </div>
 
