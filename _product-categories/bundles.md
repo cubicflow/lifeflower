@@ -2,9 +2,9 @@
 layout: bundles
 title: Bundles
 name: bundles
-sitemap: true
+sitemap: false
 image-url: "/assets/img/category--gift-bundle.svg"
 display_order: 1
-hidden: false
+hidden: true
 new: false
 ---
